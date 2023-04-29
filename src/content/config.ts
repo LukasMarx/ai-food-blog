@@ -13,6 +13,14 @@ const postsCollection = defineCollection({
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
+    prepTime: z.string(),
+    cookTime: z.string(),
+    totalTime: z.string(),
+    recipeYield: z.string(),
+    calories: z.number(),
+    recipeCuisine: z.string(),
+    recipeInstructions: z.array(z.string()),
+    recipe: z.array(z.string()),
   }),
 });
 

@@ -4,18 +4,47 @@ import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
 import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
+import { durationFormat } from "@lib/utils/durationFormat";
 import similerItems from "@lib/utils/similarItems";
 import { humanize,markdownify,slugify } from "@lib/utils/textConverter";
-import { BiCalendarEdit,BiCategoryAlt } from "react-icons/bi/index.js";
+import { BiCalendarEdit,BiCategoryAlt, BiTime } from "react-icons/bi/index.js";
+import { HiFire } from "react-icons/hi/index.js";
 
 const allAuthors = await getSinglePage("authors");
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
-const { title, description, authors, categories, image, date, tags } =
+const { title, description, authors, categories, image, date, tags, prepTime, cookTime, totalTime, recipeYield, calories, recipeCuisine, recipeInstructions, recipe } =
   post.data;
 ---
+<script type="application/ld+json" set:html={JSON.stringify({ 
+  "@type": "Recipe",
+  "name": title,
+  "image": [
+   image
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Chat GPT"
+  },
+  "datePublished": date,
+  "description": description,
+  "prepTime": prepTime,
+  "cookTime":cookTime,
+  "totalTime": totalTime,
+  "keywords": tags?.join(",") ||"",
+  "recipeYield": recipeYield,
+  "recipeCategory": categories?.at(0),
+  "recipeCuisine": recipeCuisine,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": `${calories} calories`
+  },
+  "recipeIngredient": recipe,
+  "recipeInstructions": [ recipeInstructions?.join(" ")],
+    
+})}/>
 
 <section class="section">
   <div class="container">
@@ -53,6 +82,14 @@ const { title, description, authors, categories, image, date, tags } =
           <li class="mx-3 flex items-center flex-wrap font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
             <>{dateFormat(date)}</>
+          </li>
+          <li class="mx-3 flex items-center flex-wrap font-medium">
+            <BiTime className="mr-1 h-5 w-5 text-gray-600" />
+            <>{durationFormat(totalTime)}</>
+          </li>
+          <li class="mx-3 flex items-center flex-wrap font-medium">
+            <HiFire className="mr-1 h-5 w-5 text-gray-600" />
+            <>{calories}</>
           </li>
           <li class="mx-3 flex items-center flex-wrap">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
