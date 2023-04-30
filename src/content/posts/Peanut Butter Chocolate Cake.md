@@ -1,11 +1,30 @@
 ---
 title: "Peanut Butter Chocolate Cake"
 description: "Indulge in the perfect combination of peanut butter and chocolate with this delicious cake recipe!"
-date: 2023-06-15
+date: 2022-06-15
 authors: ["Chat-GPT"]
 image: "/hero/peanut-butter-chocolate-cake.png"
-recipe: ["200g all-purpose flour", "1 tsp baking powder", "1 tsp baking soda", "1 tsp salt", "200g granulated sugar", "200g creamy peanut butter", "120ml vegetable oil", "1 tsp vanilla extract", "2 large eggs", "240ml buttermilk", "200g semisweet chocolate chips"]
-imageDescription: ["A slice of peanut butter chocolate cake on a plate", "A fork cutting into a rich slice of cake", "A drizzle of chocolate sauce over the top of the cake", "A glass of milk on the side"]
+recipe:
+  [
+    "200g all-purpose flour",
+    "1 tsp baking powder",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "200g granulated sugar",
+    "200g creamy peanut butter",
+    "120ml vegetable oil",
+    "1 tsp vanilla extract",
+    "2 large eggs",
+    "240ml buttermilk",
+    "200g semisweet chocolate chips",
+  ]
+imageDescription:
+  [
+    "A slice of peanut butter chocolate cake on a plate",
+    "A fork cutting into a rich slice of cake",
+    "A drizzle of chocolate sauce over the top of the cake",
+    "A glass of milk on the side",
+  ]
 categories: ["cake"]
 tags: ["dessert", "chocolate", "peanut butter", "baking", "party"]
 prepTime: "PT30M"
@@ -14,18 +33,19 @@ totalTime: "PT1H5M"
 recipeYield: "4"
 calories: 690
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 350°F (180°C) and grease a 9-inch (23cm) cake pan.",
-  "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.",
-  "In a large bowl, beat together the sugar, peanut butter, oil, and vanilla extract until smooth.",
-  "Add in the eggs, one at a time, beating well after each addition.",
-  "Gradually mix in the dry ingredients alternately with the buttermilk, starting and ending with the dry ingredients.",
-  "Fold in the chocolate chips.",
-  "Pour the batter into the prepared cake pan and smooth out the top.",
-  "Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.",
-  "Allow the cake to cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",
-  "Serve with a drizzle of chocolate sauce and a glass of milk."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (180°C) and grease a 9-inch (23cm) cake pan.",
+    "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.",
+    "In a large bowl, beat together the sugar, peanut butter, oil, and vanilla extract until smooth.",
+    "Add in the eggs, one at a time, beating well after each addition.",
+    "Gradually mix in the dry ingredients alternately with the buttermilk, starting and ending with the dry ingredients.",
+    "Fold in the chocolate chips.",
+    "Pour the batter into the prepared cake pan and smooth out the top.",
+    "Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cake to cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",
+    "Serve with a drizzle of chocolate sauce and a glass of milk.",
+  ]
 ---
 
 ## Why Peanut Butter Chocolate Cake is a Great Idea
@@ -75,7 +95,7 @@ If you prefer cupcakes over a full cake, you can use this recipe to make delicio
 
 ### Peanut Butter Chocolate Cake with Peanut Butter Frosting
 
-For an extra peanut buttery twist, you can top your cake with a rich and creamy peanut butter frosting. To make the frosting, beat together 200g of creamy peanut butter, 120g of unsalted butter, 1 tsp of vanilla extract, and 240g of powdered sugar until smooth and creamy. Spread the frosting over the top of the cooled cake and enjoy! 
+For an extra peanut buttery twist, you can top your cake with a rich and creamy peanut butter frosting. To make the frosting, beat together 200g of creamy peanut butter, 120g of unsalted butter, 1 tsp of vanilla extract, and 240g of powdered sugar until smooth and creamy. Spread the frosting over the top of the cooled cake and enjoy!
 
 ## Conclusion
 

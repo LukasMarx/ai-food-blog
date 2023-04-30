@@ -1,10 +1,19 @@
 ---
 title: "Vegetable Tempura: A Japanese Classic"
 description: "Learn how to make a delicious and crispy vegetable tempura with this easy recipe that will transport you to Japan."
-date: 2023-05-28
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/vegetable-tempura.png"
-recipe: ["1/2 cup all-purpose flour", "1/2 cup cornstarch", "1/2 tsp baking powder", "1/4 tsp salt", "1 cup ice-cold water", "Assorted vegetables (carrots, bell peppers, sweet potatoes, broccoli, onion)", "Vegetable oil for frying"]
+recipe:
+  [
+    "1/2 cup all-purpose flour",
+    "1/2 cup cornstarch",
+    "1/2 tsp baking powder",
+    "1/4 tsp salt",
+    "1 cup ice-cold water",
+    "Assorted vegetables (carrots, bell peppers, sweet potatoes, broccoli, onion)",
+    "Vegetable oil for frying",
+  ]
 imageDescription: ["Golden and crispy vegetable tempura on a plate"]
 categories: ["Japanese"]
 tags: ["dinner", "vegetarian", "vegan", "gluten-free", "appetizer"]
@@ -14,7 +23,10 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 210
 recipeCuisine: "Japanese"
-recipeInstructions: [ "In a large bowl, mix the flour, cornstarch, baking powder, and salt until well combined. Add the ice-cold water and whisk until the batter is smooth and free of lumps. Heat the vegetable oil in a deep fryer or a heavy-bottomed pot until it reaches 375°F (190°C). Cut the vegetables into bite-sized pieces. Dip the vegetables into the batter, letting the excess drip off. Fry the vegetables in batches until golden brown and crispy, about 2-3 minutes. Drain on paper towels and serve hot."]
+recipeInstructions:
+  [
+    "In a large bowl, mix the flour, cornstarch, baking powder, and salt until well combined. Add the ice-cold water and whisk until the batter is smooth and free of lumps. Heat the vegetable oil in a deep fryer or a heavy-bottomed pot until it reaches 375°F (190°C). Cut the vegetables into bite-sized pieces. Dip the vegetables into the batter, letting the excess drip off. Fry the vegetables in batches until golden brown and crispy, about 2-3 minutes. Drain on paper towels and serve hot.",
+  ]
 ---
 
 ## Introduction

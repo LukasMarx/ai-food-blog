@@ -1,10 +1,16 @@
 ---
 title: "Decadent Chocolate Truffles Recipe"
 description: "Indulge in the rich and creamy flavor of homemade chocolate truffles with this easy recipe."
-date: 2023-06-12
+date: 2022-06-12
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-truffles.png"
-recipe: ["1 cup heavy cream", "12 oz semisweet chocolate chips", "1 tsp vanilla extract", "1/4 cup cocoa powder"]
+recipe:
+  [
+    "1 cup heavy cream",
+    "12 oz semisweet chocolate chips",
+    "1 tsp vanilla extract",
+    "1/4 cup cocoa powder",
+  ]
 imageDescription: ["chocolate truffles in a box"]
 categories: ["dessert"]
 tags: ["chocolate", "truffles", "homemade", "easy", "dessert"]
@@ -14,7 +20,10 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 380
 recipeCuisine: "French"
-recipeInstructions: [ "In a saucepan, heat the heavy cream until it simmers. Remove from heat and add the chocolate chips. Let sit for 1-2 minutes before stirring until smooth. Stir in the vanilla extract. Cover and refrigerate for 2 hours. Using a small cookie scoop, form the mixture into balls and roll in cocoa powder. Refrigerate until ready to serve."]
+recipeInstructions:
+  [
+    "In a saucepan, heat the heavy cream until it simmers. Remove from heat and add the chocolate chips. Let sit for 1-2 minutes before stirring until smooth. Stir in the vanilla extract. Cover and refrigerate for 2 hours. Using a small cookie scoop, form the mixture into balls and roll in cocoa powder. Refrigerate until ready to serve.",
+  ]
 ---
 
 If you're a chocolate lover, you'll definitely want to try making these homemade chocolate truffles. They are the perfect indulgence for any occasion, from a romantic night in to a sweet treat for friends and family. With just a few simple ingredients and some patience, you can whip up a batch of decadent truffles in no time.

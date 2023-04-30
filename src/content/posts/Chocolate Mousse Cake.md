@@ -1,11 +1,27 @@
 ---
 title: "Decadent Chocolate Mousse Cake Recipe"
 description: "Indulge in a rich and creamy chocolate mousse cake with this simple recipe. Perfect for any chocolate lover!"
-date: 2023-06-30
+date: 2022-06-30
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-mousse-cake.png"
-recipe: ["200g dark chocolate", "200g unsalted butter", "4 eggs", "150g granulated sugar", "100g all-purpose flour", "2 tsp baking powder", "1/4 tsp salt", "1/4 cup heavy cream"]
-imageDescription: ["chocolate mousse cake on a plate", "slice of chocolate cake with whipped cream and chocolate shavings", "layers of chocolate cake and mousse", "a fork cutting into a chocolate cake slice"]
+recipe:
+  [
+    "200g dark chocolate",
+    "200g unsalted butter",
+    "4 eggs",
+    "150g granulated sugar",
+    "100g all-purpose flour",
+    "2 tsp baking powder",
+    "1/4 tsp salt",
+    "1/4 cup heavy cream",
+  ]
+imageDescription:
+  [
+    "chocolate mousse cake on a plate",
+    "slice of chocolate cake with whipped cream and chocolate shavings",
+    "layers of chocolate cake and mousse",
+    "a fork cutting into a chocolate cake slice",
+  ]
 categories: ["cake"]
 tags: ["chocolate", "dessert", "baking", "special occasion", "party"]
 prepTime: "PT30M"
@@ -14,16 +30,17 @@ totalTime: "PT1H10M"
 recipeYield: "4"
 calories: 720
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 350°F (180°C). Grease a 9-inch (23cm) cake pan and line the bottom with parchment paper.",
-  "Melt the chocolate and butter in a double boiler or in the microwave, stirring until smooth. Set aside to cool slightly.",
-  "In a separate bowl, beat the eggs and sugar until pale and fluffy. Add the flour, baking powder, and salt, and gently fold to combine.",
-  "Add the cooled chocolate mixture to the egg mixture and stir until well combined. Pour the batter into the prepared cake pan and bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
-  "Let the cake cool completely in the pan, then remove and cut it horizontally into two even layers.",
-  "To make the mousse, whip the heavy cream until stiff peaks form. In a separate bowl, melt the chocolate in a double boiler or in the microwave, stirring until smooth. Let it cool slightly, then fold in the whipped cream.",
-  "Place one cake layer on a plate or cake stand. Spread the mousse evenly over the top. Place the second cake layer on top, pressing down gently. Spread the remaining mousse over the top and sides of the cake.",
-  "Refrigerate the cake for at least 2 hours, or until the mousse is set. Serve chilled, garnished with whipped cream and chocolate shavings if desired."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (180°C). Grease a 9-inch (23cm) cake pan and line the bottom with parchment paper.",
+    "Melt the chocolate and butter in a double boiler or in the microwave, stirring until smooth. Set aside to cool slightly.",
+    "In a separate bowl, beat the eggs and sugar until pale and fluffy. Add the flour, baking powder, and salt, and gently fold to combine.",
+    "Add the cooled chocolate mixture to the egg mixture and stir until well combined. Pour the batter into the prepared cake pan and bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+    "Let the cake cool completely in the pan, then remove and cut it horizontally into two even layers.",
+    "To make the mousse, whip the heavy cream until stiff peaks form. In a separate bowl, melt the chocolate in a double boiler or in the microwave, stirring until smooth. Let it cool slightly, then fold in the whipped cream.",
+    "Place one cake layer on a plate or cake stand. Spread the mousse evenly over the top. Place the second cake layer on top, pressing down gently. Spread the remaining mousse over the top and sides of the cake.",
+    "Refrigerate the cake for at least 2 hours, or until the mousse is set. Serve chilled, garnished with whipped cream and chocolate shavings if desired.",
+  ]
 ---
 
 If you're a chocolate-lover, you're going to fall head over heels for this decadent chocolate mousse cake. This cake is perfect for special occasions or any time you want to indulge in something rich and creamy.

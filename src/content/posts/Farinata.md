@@ -1,11 +1,26 @@
 ---
 title: "Farinata Recipe: A Delicious Chickpea Flatbread"
 description: "Learn how to make the delicious and easy-to-prepare Farinata, a traditional chickpea flatbread from Italy. This gluten-free and vegan recipe is perfect for a quick lunch or snack."
-date: 2023-06-05
+date: 2022-06-05
 authors: ["Chat-GPT"]
 image: "/hero/farinata.png"
-recipe: ["200g chickpea flour", "2 cups water", "2 tbsp olive oil", "1 tsp salt", "1/2 tsp black pepper", "1 red onion", "1 sprig of rosemary"]
-imageDescription: ["Farinata on a white plate", "Golden brown farinata", "Sliced farinata with rosemary and onion", "Farinata batter in a bowl"]
+recipe:
+  [
+    "200g chickpea flour",
+    "2 cups water",
+    "2 tbsp olive oil",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1 red onion",
+    "1 sprig of rosemary",
+  ]
+imageDescription:
+  [
+    "Farinata on a white plate",
+    "Golden brown farinata",
+    "Sliced farinata with rosemary and onion",
+    "Farinata batter in a bowl",
+  ]
 categories: ["Italian"]
 tags: ["gluten-free", "vegan", "lunch", "snack", "easy"]
 prepTime: "PT10M"
@@ -14,14 +29,15 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 220
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "Preheat the oven to 450°F (230°C).",
-  "In a large mixing bowl, whisk together the chickpea flour, water, olive oil, salt, and black pepper until the batter is smooth and bubbly. Let it rest for at least 30 minutes, or up to 12 hours in the refrigerator.",
-  "Slice the red onion thinly and chop the rosemary.",
-  "Pour the batter into a greased 9-inch (23 cm) baking dish or skillet. Top with the sliced onion and rosemary.",
-  "Bake for 25-30 minutes, or until the farinata is golden brown and crispy on the outside and cooked through on the inside.",
-  "Remove from the oven and let cool for a few minutes before slicing and serving."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 450°F (230°C).",
+    "In a large mixing bowl, whisk together the chickpea flour, water, olive oil, salt, and black pepper until the batter is smooth and bubbly. Let it rest for at least 30 minutes, or up to 12 hours in the refrigerator.",
+    "Slice the red onion thinly and chop the rosemary.",
+    "Pour the batter into a greased 9-inch (23 cm) baking dish or skillet. Top with the sliced onion and rosemary.",
+    "Bake for 25-30 minutes, or until the farinata is golden brown and crispy on the outside and cooked through on the inside.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+  ]
 ---
 
 ## Introduction

@@ -1,11 +1,31 @@
 ---
 title: "Minestrone Soup: A Hearty and Healthy Classic"
 description: "Learn how to make a delicious and nutritious minestrone soup with this easy-to-follow recipe. Packed with vegetables, beans, and pasta, this classic Italian soup is perfect for a cozy dinner on a chilly night."
-date: 2023-06-02
+date: 2022-06-02
 authors: ["Chat-GPT"]
 image: "/hero/minestrone-soup.png"
-recipe: ["2 tbsp olive oil", "1 onion, chopped", "2 cloves garlic, minced", "2 carrots, peeled and chopped", "2 stalks celery, chopped", "1 zucchini, chopped", "1 can (400g) diced tomatoes", "1 can (400g) kidney beans, drained and rinsed", "1 can (400g) cannellini beans, drained and rinsed", "1 tsp dried oregano", "1 tsp dried basil", "1 tsp dried thyme", "1 bay leaf", "4 cups (1 liter) vegetable broth", "1 cup (100g) small pasta shells", "Salt and pepper, to taste", "Freshly grated Parmesan cheese, for serving"]
-imageDescription: ["A bowl of minestrone soup with beans, pasta, and vegetables"]
+recipe:
+  [
+    "2 tbsp olive oil",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "2 carrots, peeled and chopped",
+    "2 stalks celery, chopped",
+    "1 zucchini, chopped",
+    "1 can (400g) diced tomatoes",
+    "1 can (400g) kidney beans, drained and rinsed",
+    "1 can (400g) cannellini beans, drained and rinsed",
+    "1 tsp dried oregano",
+    "1 tsp dried basil",
+    "1 tsp dried thyme",
+    "1 bay leaf",
+    "4 cups (1 liter) vegetable broth",
+    "1 cup (100g) small pasta shells",
+    "Salt and pepper, to taste",
+    "Freshly grated Parmesan cheese, for serving",
+  ]
+imageDescription:
+  ["A bowl of minestrone soup with beans, pasta, and vegetables"]
 categories: ["soup"]
 tags: ["dinner", "vegetarian", "healthy", "Italian", "comfort food"]
 prepTime: "PT20M"
@@ -14,7 +34,16 @@ totalTime: "PT60M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "Italian"
-recipeInstructions: ["In a large pot, heat the olive oil over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.", "Add the carrots, celery, and zucchini and cook for another 5 minutes, stirring occasionally.", "Add the diced tomatoes, kidney beans, cannellini beans, oregano, basil, thyme, and bay leaf. Stir to combine.", "Add the vegetable broth and bring to a boil. Reduce the heat and simmer for 20 minutes.", "Add the small pasta shells and continue to simmer for another 10-15 minutes, or until the pasta is cooked to your liking.", "Remove the bay leaf and season with salt and pepper to taste.", "Serve hot, topped with freshly grated Parmesan cheese."]
+recipeInstructions:
+  [
+    "In a large pot, heat the olive oil over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the carrots, celery, and zucchini and cook for another 5 minutes, stirring occasionally.",
+    "Add the diced tomatoes, kidney beans, cannellini beans, oregano, basil, thyme, and bay leaf. Stir to combine.",
+    "Add the vegetable broth and bring to a boil. Reduce the heat and simmer for 20 minutes.",
+    "Add the small pasta shells and continue to simmer for another 10-15 minutes, or until the pasta is cooked to your liking.",
+    "Remove the bay leaf and season with salt and pepper to taste.",
+    "Serve hot, topped with freshly grated Parmesan cheese.",
+  ]
 ---
 
 ## Introduction

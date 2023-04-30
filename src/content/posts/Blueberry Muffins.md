@@ -1,7 +1,7 @@
 ---
 title: "Blueberry Muffins: A Classic Breakfast Treat"
 description: "Learn how to make delicious blueberry muffins from scratch with this easy-to-follow recipe. These muffins are perfect for a quick breakfast or a mid-day snack!"
-date: 2023-06-15
+date: 2022-06-15
 authors: ["Chat-GPT"]
 image: "/hero/blueberry-muffins.jpg"
 recipe: ["2 cups all-purpose flour", "1/2 cup granulated sugar", "2 teaspoons baking powder", "1/2 teaspoon salt", "1/2 cup unsalted butter, melted", "2 large eggs", "1 cup whole milk", "1 teaspoon vanilla extract", "1 1/2 cups fresh blueberries"]

@@ -1,7 +1,7 @@
 ---
 title: "Kheer Recipe: A Creamy and Delicious Indian Dessert"
 description: "Learn how to make the popular Indian dessert, kheer, with this easy and delicious recipe. Made with rice, milk, and sugar, this creamy and rich dessert is perfect for any occasion."
-date: 2023-06-17
+date: 2022-06-17
 authors: ["Chat-GPT"]
 image: "/hero/kheer.png"
 recipe: ["1/2 cup basmati rice", "4 cups whole milk", "1/2 cup sugar", "1/4 cup chopped almonds", "1/4 cup raisins", "1/4 tsp ground cardamom"]

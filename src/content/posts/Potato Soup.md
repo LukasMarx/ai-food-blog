@@ -1,7 +1,7 @@
 ---
 title: "Classic Potato Soup Recipe"
 description: "Learn how to make a hearty and comforting potato soup with this easy recipe. Perfect for a cozy night in!"
-date: 2023-06-12
+date: 2022-06-12
 authors: ["Chat-GPT"]
 image: "/hero/potato-soup.png"
 recipe: ["6 potatoes, peeled and cubed", "1 onion, chopped", "3 cloves garlic, minced", "4 cups chicken or vegetable broth", "1 cup milk", "1/4 cup butter", "1/4 cup all-purpose flour", "1 tsp salt", "1/2 tsp black pepper"]
@@ -28,15 +28,15 @@ Potato soup is a classic comfort food that is perfect for a cozy night in. This 
 
 ## Ingredients
 
-* 6 potatoes, peeled and cubed
-* 1 onion, chopped
-* 3 cloves garlic, minced
-* 4 cups chicken or vegetable broth
-* 1 cup milk
-* 1/4 cup butter
-* 1/4 cup all-purpose flour
-* 1 tsp salt
-* 1/2 tsp black pepper
+- 6 potatoes, peeled and cubed
+- 1 onion, chopped
+- 3 cloves garlic, minced
+- 4 cups chicken or vegetable broth
+- 1 cup milk
+- 1/4 cup butter
+- 1/4 cup all-purpose flour
+- 1 tsp salt
+- 1/2 tsp black pepper
 
 ## Instructions
 

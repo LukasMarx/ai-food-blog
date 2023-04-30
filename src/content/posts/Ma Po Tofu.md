@@ -1,11 +1,30 @@
 ---
 title: "The Ultimate Ma Po Tofu Recipe: A Spicy and Flavorful Sichuan Classic"
 description: "Learn how to make the ultimate Ma Po Tofu recipe with this easy and delicious Sichuan classic. With its spicy and flavorful sauce and soft tofu, this dish is perfect for vegetarians and meat-lovers alike."
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/ma-po-tofu.png"
-recipe: ["500g tofu", "2 tbsp vegetable oil", "2 cloves garlic", "1 chili pepper", "1 tbsp Sichuan peppercorns", "1 tbsp fermented black beans", "1 tbsp soy sauce", "1 tsp sugar", "1/2 cup vegetable broth", "1 tbsp cornstarch", "2 green onions"]
-imageDescription: ["bowl of Ma Po Tofu with chopsticks", "spicy tofu dish", "vegetarian Sichuan recipe", "Chinese-style tofu dish"]
+recipe:
+  [
+    "500g tofu",
+    "2 tbsp vegetable oil",
+    "2 cloves garlic",
+    "1 chili pepper",
+    "1 tbsp Sichuan peppercorns",
+    "1 tbsp fermented black beans",
+    "1 tbsp soy sauce",
+    "1 tsp sugar",
+    "1/2 cup vegetable broth",
+    "1 tbsp cornstarch",
+    "2 green onions",
+  ]
+imageDescription:
+  [
+    "bowl of Ma Po Tofu with chopsticks",
+    "spicy tofu dish",
+    "vegetarian Sichuan recipe",
+    "Chinese-style tofu dish",
+  ]
 categories: ["vegetarian"]
 tags: ["dinner", "spicy", "Chinese", "tofu", "Sichuan"]
 prepTime: "PT15M"
@@ -14,7 +33,15 @@ totalTime: "PT35M"
 recipeYield: "4"
 calories: 205
 recipeCuisine: "Chinese"
-recipeInstructions: ["Rinse and dice the tofu into small cubes.", "Heat the vegetable oil in a wok or large skillet over medium-high heat. Add the garlic, chili pepper, Sichuan peppercorns, and fermented black beans and stir-fry for 1-2 minutes until fragrant.", "Add the diced tofu and gently stir-fry for 2-3 minutes until lightly browned.", "Add the soy sauce, sugar, and vegetable broth and stir well. Bring to a boil, then reduce the heat and let simmer for 5 minutes.", "Mix the cornstarch with 2 tablespoons of cold water and pour it into the wok, stirring constantly until the sauce thickens.", "Garnish with sliced green onions and serve hot with rice."]
+recipeInstructions:
+  [
+    "Rinse and dice the tofu into small cubes.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat. Add the garlic, chili pepper, Sichuan peppercorns, and fermented black beans and stir-fry for 1-2 minutes until fragrant.",
+    "Add the diced tofu and gently stir-fry for 2-3 minutes until lightly browned.",
+    "Add the soy sauce, sugar, and vegetable broth and stir well. Bring to a boil, then reduce the heat and let simmer for 5 minutes.",
+    "Mix the cornstarch with 2 tablespoons of cold water and pour it into the wok, stirring constantly until the sauce thickens.",
+    "Garnish with sliced green onions and serve hot with rice.",
+  ]
 ---
 
 ## Introduction

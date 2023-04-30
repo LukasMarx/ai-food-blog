@@ -1,11 +1,23 @@
 ---
 title: "The Perfect Grilled Steak Recipe"
 description: "Learn how to cook the perfect grilled steak with this easy and delicious recipe. Impress your friends and family with your grilling skills!"
-date: 2023-05-18
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/grilled-steak.png"
-recipe: ["4 ribeye steaks (1 1/2 inches thick)", "2 tbsp olive oil", "2 tbsp kosher salt", "1 tbsp black pepper"]
-imageDescription: ["grilled steak on a cutting board", "juicy medium rare steak", "charred grill marks", "sprinkle of salt"]
+recipe:
+  [
+    "4 ribeye steaks (1 1/2 inches thick)",
+    "2 tbsp olive oil",
+    "2 tbsp kosher salt",
+    "1 tbsp black pepper",
+  ]
+imageDescription:
+  [
+    "grilled steak on a cutting board",
+    "juicy medium rare steak",
+    "charred grill marks",
+    "sprinkle of salt",
+  ]
 categories: ["grilling"]
 tags: ["dinner", "beef", "summer", "entertaining", "bbq"]
 prepTime: "PT10M"
@@ -14,17 +26,18 @@ totalTime: "PT20M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "American"
-recipeInstructions: [
- "Preheat grill to high heat.",
- "Rub the steaks with olive oil and season with kosher salt and black pepper.",
- "Place the steaks on the grill and cook for 4-5 minutes on each side, or until the internal temperature reaches 135°F for medium-rare.",
- "Remove the steaks from the grill and let them rest for 5 minutes before slicing and serving."
- ]
+recipeInstructions:
+  [
+    "Preheat grill to high heat.",
+    "Rub the steaks with olive oil and season with kosher salt and black pepper.",
+    "Place the steaks on the grill and cook for 4-5 minutes on each side, or until the internal temperature reaches 135°F for medium-rare.",
+    "Remove the steaks from the grill and let them rest for 5 minutes before slicing and serving.",
+  ]
 ---
 
 ## Why Grilled Steak is a Great Idea
 
-Grilled steak is a classic American dish that is perfect for entertaining guests, celebrating special occasions, or even just for a weeknight dinner. This recipe is easy to make and results in a deliciously juicy and flavorful steak. Plus, grilling is a great way to enjoy the outdoors and the warm weather during the summer months. 
+Grilled steak is a classic American dish that is perfect for entertaining guests, celebrating special occasions, or even just for a weeknight dinner. This recipe is easy to make and results in a deliciously juicy and flavorful steak. Plus, grilling is a great way to enjoy the outdoors and the warm weather during the summer months.
 
 ## Ingredients
 
@@ -46,15 +59,15 @@ To ensure the perfect steak, it's important to let the steak rest before slicing
 
 ### Garlic Butter Grilled Steak
 
-For an extra flavor boost, try adding garlic butter to your grilled steak. Simply make a garlic butter by combining 1/2 cup softened butter with 3 minced garlic cloves, 1 tbsp chopped parsley, and salt and pepper to taste. Spread the garlic butter over the hot grilled steaks and let it melt over the top. 
+For an extra flavor boost, try adding garlic butter to your grilled steak. Simply make a garlic butter by combining 1/2 cup softened butter with 3 minced garlic cloves, 1 tbsp chopped parsley, and salt and pepper to taste. Spread the garlic butter over the hot grilled steaks and let it melt over the top.
 
 ### Grilled Steak Salad
 
-If you're looking for a lighter way to enjoy your grilled steak, try making a grilled steak salad. Simply grill your steak as usual, then slice it thinly and add it to a bed of mixed greens, cherry tomatoes, sliced red onion, and your favorite salad dressing. 
+If you're looking for a lighter way to enjoy your grilled steak, try making a grilled steak salad. Simply grill your steak as usual, then slice it thinly and add it to a bed of mixed greens, cherry tomatoes, sliced red onion, and your favorite salad dressing.
 
 ### Grilled Steak Tacos
 
-For a fun and flavorful twist on traditional tacos, try using grilled steak as your protein. Simply grill the steak as usual, slice it thinly, and serve it in warm tortillas with toppings like diced tomatoes, sliced avocado, shredded cheese, and salsa. 
+For a fun and flavorful twist on traditional tacos, try using grilled steak as your protein. Simply grill the steak as usual, slice it thinly, and serve it in warm tortillas with toppings like diced tomatoes, sliced avocado, shredded cheese, and salsa.
 
 ## Conclusion
 

@@ -1,7 +1,7 @@
 ---
 title: "Summer Rolls: A Fresh and Healthy Vietnamese Recipe"
 description: "Learn how to make delicious and healthy Vietnamese Summer Rolls with this easy recipe. Perfect for a light lunch or dinner, these rolls are fresh, colorful, and full of flavor."
-date: 2023-06-12
+date: 2022-06-12
 authors: ["Chat-GPT"]
 image: "/hero/summer-rolls.png"
 recipe: ["12 rice paper sheets", "300g cooked shrimp", "1 carrot", "1 cucumber", "1 avocado", "1 red bell pepper", "1/2 cup fresh mint leaves", "1/2 cup fresh cilantro leaves", "1/2 cup roasted peanuts", "2 tbsp hoisin sauce", "2 tbsp soy sauce", "1 tbsp honey", "1 tbsp lime juice"]

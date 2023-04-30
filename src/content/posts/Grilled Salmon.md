@@ -1,10 +1,17 @@
 ---
 title: "Grilled Salmon Recipe"
 description: "Learn how to make an easy and delicious grilled salmon recipe that is perfect for a healthy dinner."
-date: 2023-05-02
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/grilled-salmon.png"
-recipe: ["4 salmon fillets (150g each)", "1 tbsp olive oil", "1 tbsp lemon juice", "1 tsp salt", "1/2 tsp black pepper"]
+recipe:
+  [
+    "4 salmon fillets (150g each)",
+    "1 tbsp olive oil",
+    "1 tbsp lemon juice",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+  ]
 imageDescription: ["Grilled salmon fillet with lemon and herbs"]
 categories: ["fish"]
 tags: ["dinner", "healthy", "grilled", "seafood", "low-carb"]
@@ -14,7 +21,10 @@ totalTime: "PT20M"
 recipeYield: "4"
 calories: 250
 recipeCuisine: "American"
-recipeInstructions: [ "Preheat grill to medium-high heat. Brush the salmon fillets with olive oil and season with salt and black pepper. Place the fillets on the grill, skin-side down. Cook for 4-5 minutes on each side, or until the salmon is cooked through. Remove the salmon from the grill and drizzle with lemon juice. Serve with your favorite sides." ]
+recipeInstructions:
+  [
+    "Preheat grill to medium-high heat. Brush the salmon fillets with olive oil and season with salt and black pepper. Place the fillets on the grill, skin-side down. Cook for 4-5 minutes on each side, or until the salmon is cooked through. Remove the salmon from the grill and drizzle with lemon juice. Serve with your favorite sides.",
+  ]
 ---
 
 Salmon is a delicious and nutritious fish that is high in protein and omega-3 fatty acids. Grilled salmon is a healthy and flavorful way to enjoy this fish, and it is also very easy to make. In this blog post, we will show you how to make a simple and delicious grilled salmon recipe that is perfect for a healthy dinner.

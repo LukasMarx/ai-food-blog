@@ -1,11 +1,31 @@
 ---
 title: "Chocolate Cherry Cake"
 description: "This chocolate cherry cake is a decadent and delicious dessert that is perfect for any occasion. The rich chocolate flavor is perfectly balanced by the sweet and tart cherries, making it a crowd-pleaser for both chocolate and fruit lovers alike."
-date: 2023-05-12
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-cherry-cake.png"
-recipe: ["200g all-purpose flour", "1 tsp baking powder", "1/2 tsp baking soda", "1/4 tsp salt", "115g unsalted butter, room temperature", "200g granulated sugar", "2 large eggs", "1 tsp vanilla extract", "120ml whole milk", "120ml sour cream", "100g unsweetened cocoa powder", "1 can (425g) pitted cherries, drained and chopped"]
-imageDescription: ["A slice of chocolate cherry cake with a dollop of whipped cream on top", "A close-up of the chocolate cherry cake showing the layers of cake and cherries", "A fork cutting into a slice of chocolate cherry cake, revealing the cherry filling inside", "A whole chocolate cherry cake on a cake stand, ready to be served"]
+recipe:
+  [
+    "200g all-purpose flour",
+    "1 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/4 tsp salt",
+    "115g unsalted butter, room temperature",
+    "200g granulated sugar",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "120ml whole milk",
+    "120ml sour cream",
+    "100g unsweetened cocoa powder",
+    "1 can (425g) pitted cherries, drained and chopped",
+  ]
+imageDescription:
+  [
+    "A slice of chocolate cherry cake with a dollop of whipped cream on top",
+    "A close-up of the chocolate cherry cake showing the layers of cake and cherries",
+    "A fork cutting into a slice of chocolate cherry cake, revealing the cherry filling inside",
+    "A whole chocolate cherry cake on a cake stand, ready to be served",
+  ]
 categories: ["dessert"]
 tags: ["chocolate", "cherries", "cake", "baking", "dessert"]
 prepTime: "PT30M"
@@ -14,7 +34,21 @@ totalTime: "PT1H30M"
 recipeYield: "4"
 calories: 540
 recipeCuisine: "American"
-recipeInstructions: ["Preheat the oven to 350°F (175°C) and grease a 9-inch round cake pan.", "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.", "In a large bowl, beat the butter and sugar together until light and fluffy.", "Add the eggs one at a time, beating well after each addition.", "Stir in the vanilla extract.", "In a separate bowl, whisk together the milk and sour cream.", "Alternately add the dry ingredients and the milk mixture to the butter mixture, beginning and ending with the dry ingredients.", "Stir in the cocoa powder until well combined.", "Fold in the chopped cherries.", "Pour the batter into the prepared pan and smooth the top with a spatula.", "Bake for 50-60 minutes, or until a toothpick inserted into the center of the cake comes out clean.", "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely."]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (175°C) and grease a 9-inch round cake pan.",
+    "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.",
+    "In a large bowl, beat the butter and sugar together until light and fluffy.",
+    "Add the eggs one at a time, beating well after each addition.",
+    "Stir in the vanilla extract.",
+    "In a separate bowl, whisk together the milk and sour cream.",
+    "Alternately add the dry ingredients and the milk mixture to the butter mixture, beginning and ending with the dry ingredients.",
+    "Stir in the cocoa powder until well combined.",
+    "Fold in the chopped cherries.",
+    "Pour the batter into the prepared pan and smooth the top with a spatula.",
+    "Bake for 50-60 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+    "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.",
+  ]
 ---
 
 ## Introduction
@@ -55,7 +89,7 @@ Chocolate and cherries are a match made in heaven, and this chocolate cherry cak
 
 ### Vegan Chocolate Cherry Cake
 
-To make this cake vegan, replace the butter with vegan butter and use flax eggs instead of regular eggs. To make a flax egg, mix 1 tablespoon of ground flaxseed with 3 tablespoons of water and let it sit for 5 minutes to thicken. Use non-dairy milk and non-dairy sour cream in place of the whole milk and sour cream. 
+To make this cake vegan, replace the butter with vegan butter and use flax eggs instead of regular eggs. To make a flax egg, mix 1 tablespoon of ground flaxseed with 3 tablespoons of water and let it sit for 5 minutes to thicken. Use non-dairy milk and non-dairy sour cream in place of the whole milk and sour cream.
 
 ### Gluten-Free Chocolate Cherry Cake
 
@@ -63,7 +97,7 @@ To make this cake gluten-free, use a gluten-free all-purpose flour blend in plac
 
 ### Chocolate Cherry Cupcakes
 
-To make cupcakes instead of a cake, divide the batter evenly among 12 lined muffin cups and bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean. 
+To make cupcakes instead of a cake, divide the batter evenly among 12 lined muffin cups and bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean.
 
 ## Conclusion
 

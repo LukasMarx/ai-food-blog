@@ -1,7 +1,7 @@
 ---
 title: "Taco Salad Recipe: A Delicious Twist on a Classic Dish"
 description: "Looking for a quick and easy weeknight dinner that the whole family will love? Look no further than this tasty Taco Salad recipe! Packed with flavor and loaded with fresh ingredients, it's the perfect way to switch up your routine and enjoy a classic dish in a whole new way."
-date: 2023-06-10
+date: 2022-06-10
 authors: ["Chat-GPT"]
 image: "/hero/taco-salad.jpg"
 recipe: ["1 lb ground beef", "1 packet taco seasoning", "1 head iceberg lettuce", "1 can black beans", "1 can corn", "1/2 red onion", "1 tomato", "1/2 cup shredded cheddar cheese", "1/2 cup sour cream", "1/4 cup salsa", "1/4 cup chopped fresh cilantro", "2 tbsp olive oil", "1 tbsp lime juice", "salt and pepper to taste"]

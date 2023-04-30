@@ -1,11 +1,27 @@
 ---
 title: "Homemade Bagels: A Delicious Recipe for Breakfast"
 description: "Learn how to make homemade bagels that are perfect for breakfast or brunch. This easy recipe will guide you through the process of making soft, chewy bagels from scratch."
-date: 2023-05-12
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/homemade-bagels.png"
-recipe: ["500g bread flour", "2 tsp salt", "2 tsp dry yeast", "1 tbsp sugar", "300ml warm water", "1 egg", "1 tbsp water", "sesame seeds or poppy seeds (optional)"]
-imageDescription: ["Fresh homemade bagels on a plate", "Golden brown bagels with a crispy crust and soft interior", "A breakfast spread with coffee and homemade bagels", "A close-up of a freshly baked bagel with cream cheese and smoked salmon"]
+recipe:
+  [
+    "500g bread flour",
+    "2 tsp salt",
+    "2 tsp dry yeast",
+    "1 tbsp sugar",
+    "300ml warm water",
+    "1 egg",
+    "1 tbsp water",
+    "sesame seeds or poppy seeds (optional)",
+  ]
+imageDescription:
+  [
+    "Fresh homemade bagels on a plate",
+    "Golden brown bagels with a crispy crust and soft interior",
+    "A breakfast spread with coffee and homemade bagels",
+    "A close-up of a freshly baked bagel with cream cheese and smoked salmon",
+  ]
 categories: ["breakfast"]
 tags: ["bagels", "homemade", "brunch", "baking", "breakfast"]
 prepTime: "PT30M"
@@ -14,15 +30,16 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 290
 recipeCuisine: "American"
-recipeInstructions: [
-  "In a large mixing bowl, combine the bread flour, salt, dry yeast, and sugar. Mix well.",
-  "Add warm water to the mixture and stir until a dough forms. Knead the dough on a floured surface for 10 minutes until it is smooth and elastic.",
-  "Place the dough in a greased bowl and cover it with a towel. Let it rise in a warm place for 1 hour.",
-  "Divide the dough into 8 equal pieces and shape each piece into a ball. Use your thumb to make a hole in the center of each ball and shape it into a bagel.",
-  "Preheat the oven to 220°C. Bring a pot of water to a boil and add the bagels, two at a time. Boil for 1-2 minutes on each side.",
-  "In a small bowl, whisk together the egg and water. Brush the egg wash over the bagels and sprinkle them with sesame seeds or poppy seeds if desired.",
-  "Bake the bagels for 15-20 minutes until golden brown. Let them cool on a wire rack before serving."
-]
+recipeInstructions:
+  [
+    "In a large mixing bowl, combine the bread flour, salt, dry yeast, and sugar. Mix well.",
+    "Add warm water to the mixture and stir until a dough forms. Knead the dough on a floured surface for 10 minutes until it is smooth and elastic.",
+    "Place the dough in a greased bowl and cover it with a towel. Let it rise in a warm place for 1 hour.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball. Use your thumb to make a hole in the center of each ball and shape it into a bagel.",
+    "Preheat the oven to 220°C. Bring a pot of water to a boil and add the bagels, two at a time. Boil for 1-2 minutes on each side.",
+    "In a small bowl, whisk together the egg and water. Brush the egg wash over the bagels and sprinkle them with sesame seeds or poppy seeds if desired.",
+    "Bake the bagels for 15-20 minutes until golden brown. Let them cool on a wire rack before serving.",
+  ]
 ---
 
 Bagels are a classic breakfast food that are easy to love. The chewy texture and unique shape make them a fun and delicious addition to any brunch spread. While store-bought bagels are convenient, nothing beats the taste of homemade bagels. In this recipe, we'll show you how to make soft, chewy bagels from scratch that are perfect for breakfast or brunch.

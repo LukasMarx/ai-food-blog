@@ -1,11 +1,30 @@
 ---
 title: "Enchiladas Verdes"
 description: "Learn how to make delicious Enchiladas Verdes with this easy recipe. These enchiladas are filled with chicken and topped with a tangy green sauce and cheese."
-date: 2023-05-08
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/enchiladas-verdes.png"
-recipe: ["8 corn tortillas", "2 cups shredded cooked chicken", "1 cup grated cheese", "1/2 cup chopped onion", "1/2 cup chopped cilantro", "1/4 cup vegetable oil", "1/4 cup all-purpose flour", "2 cups chicken broth", "1 cup sour cream", "1 can (4 oz) diced green chiles", "1/2 tsp salt"]
-imageDescription: ["enchiladas verdes on a plate", "green sauce", "chicken filling", "tortillas"]
+recipe:
+  [
+    "8 corn tortillas",
+    "2 cups shredded cooked chicken",
+    "1 cup grated cheese",
+    "1/2 cup chopped onion",
+    "1/2 cup chopped cilantro",
+    "1/4 cup vegetable oil",
+    "1/4 cup all-purpose flour",
+    "2 cups chicken broth",
+    "1 cup sour cream",
+    "1 can (4 oz) diced green chiles",
+    "1/2 tsp salt",
+  ]
+imageDescription:
+  [
+    "enchiladas verdes on a plate",
+    "green sauce",
+    "chicken filling",
+    "tortillas",
+  ]
 categories: ["Mexican"]
 tags: ["dinner", "enchiladas", "chicken", "green sauce", "Mexican cuisine"]
 prepTime: "PT30M"
@@ -14,17 +33,18 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 460
 recipeCuisine: "Mexican"
-recipeInstructions: [
-  "Preheat oven to 350°F (175°C).",
-  "In a medium bowl, mix shredded chicken, half of the grated cheese, chopped onion, and chopped cilantro.",
-  "In a medium saucepan, heat vegetable oil over medium heat. Add flour and cook, stirring constantly, for 1 minute.",
-  "Gradually stir in chicken broth and cook, stirring constantly, until mixture thickens.",
-  "Stir in sour cream, diced green chiles, and salt. Cook until heated through.",
-  "Spread a spoonful of the green sauce in the bottom of a 9x13 inch baking dish.",
-  "Dip each tortilla in the green sauce, then fill with the chicken mixture and roll up. Place seam side down in the baking dish.",
-  "Pour the remaining green sauce over the enchiladas and sprinkle with the remaining grated cheese.",
-  "Bake in preheated oven for 20 minutes, or until cheese is melted and bubbly."
-]
+recipeInstructions:
+  [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, mix shredded chicken, half of the grated cheese, chopped onion, and chopped cilantro.",
+    "In a medium saucepan, heat vegetable oil over medium heat. Add flour and cook, stirring constantly, for 1 minute.",
+    "Gradually stir in chicken broth and cook, stirring constantly, until mixture thickens.",
+    "Stir in sour cream, diced green chiles, and salt. Cook until heated through.",
+    "Spread a spoonful of the green sauce in the bottom of a 9x13 inch baking dish.",
+    "Dip each tortilla in the green sauce, then fill with the chicken mixture and roll up. Place seam side down in the baking dish.",
+    "Pour the remaining green sauce over the enchiladas and sprinkle with the remaining grated cheese.",
+    "Bake in preheated oven for 20 minutes, or until cheese is melted and bubbly.",
+  ]
 ---
 
 Enchiladas Verdes are a classic Mexican dish that is loved all around the world. The tangy green sauce and the cheese-topped chicken filling make these enchiladas a family favorite. This dish is perfect for a quick dinner or a potluck party. In this blog post, we will show you how to make Enchiladas Verdes step by step.
@@ -32,6 +52,7 @@ Enchiladas Verdes are a classic Mexican dish that is loved all around the world.
 ## Ingredients
 
 To make Enchiladas Verdes, you will need the following ingredients:
+
 - 8 corn tortillas
 - 2 cups shredded cooked chicken
 - 1 cup grated cheese

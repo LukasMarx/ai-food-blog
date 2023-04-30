@@ -1,11 +1,30 @@
 ---
 title: "Keftedes: The Perfect Greek Meatballs Recipe"
 description: "Learn how to make delicious Keftedes, the perfect Greek meatballs recipe. This easy-to-follow recipe will have you whipping up these tasty meatballs in no time!"
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/keftedes.jpg"
-recipe: ["500g ground beef", "1/2 cup breadcrumbs", "1/2 cup milk", "1/2 cup grated onion", "2 cloves garlic, minced", "1 egg, lightly beaten", "1 tsp dried oregano", "1 tsp dried mint", "1 tsp salt", "1/2 tsp black pepper", "1/4 cup olive oil"]
-imageDescription: ["Greek meatballs served with tzatziki", "Freshly made keftedes on a plate", "Juicy and flavorful meatballs", "Greek-style meatballs with herbs and spices"]
+recipe:
+  [
+    "500g ground beef",
+    "1/2 cup breadcrumbs",
+    "1/2 cup milk",
+    "1/2 cup grated onion",
+    "2 cloves garlic, minced",
+    "1 egg, lightly beaten",
+    "1 tsp dried oregano",
+    "1 tsp dried mint",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/4 cup olive oil",
+  ]
+imageDescription:
+  [
+    "Greek meatballs served with tzatziki",
+    "Freshly made keftedes on a plate",
+    "Juicy and flavorful meatballs",
+    "Greek-style meatballs with herbs and spices",
+  ]
 categories: ["Greek"]
 tags: ["dinner", "meatballs", "Greek cuisine", "easy recipe", "family recipe"]
 prepTime: "PT20M"
@@ -14,13 +33,14 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 340
 recipeCuisine: "Greek"
-recipeInstructions: [
-  "Preheat your oven to 200°C.",
-  "In a large mixing bowl, combine the ground beef, breadcrumbs, milk, grated onion, minced garlic, beaten egg, dried oregano, dried mint, salt, and black pepper. Mix everything together until well combined.",
-  "Using your hands, shape the mixture into small meatballs. You should be able to make around 20-24 meatballs, depending on the size.",
-  "Heat the olive oil in a large skillet over medium-high heat. Once the oil is hot, add the meatballs to the skillet and cook for 3-4 minutes per side, or until browned on all sides.",
-  "Transfer the meatballs to a baking sheet and bake in the preheated oven for 10-12 minutes, or until cooked through.",
-  "Serve the keftedes with tzatziki sauce and fresh lemon wedges."
+recipeInstructions:
+  [
+    "Preheat your oven to 200°C.",
+    "In a large mixing bowl, combine the ground beef, breadcrumbs, milk, grated onion, minced garlic, beaten egg, dried oregano, dried mint, salt, and black pepper. Mix everything together until well combined.",
+    "Using your hands, shape the mixture into small meatballs. You should be able to make around 20-24 meatballs, depending on the size.",
+    "Heat the olive oil in a large skillet over medium-high heat. Once the oil is hot, add the meatballs to the skillet and cook for 3-4 minutes per side, or until browned on all sides.",
+    "Transfer the meatballs to a baking sheet and bake in the preheated oven for 10-12 minutes, or until cooked through.",
+    "Serve the keftedes with tzatziki sauce and fresh lemon wedges.",
   ]
 ---
 

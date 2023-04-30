@@ -1,11 +1,30 @@
 ---
 title: "Bangers and Mash: A Classic British Comfort Food Recipe"
 description: "Learn how to make the classic British comfort food recipe of bangers and mash with this easy-to-follow recipe. Perfect for a cozy night in or a family dinner, this dish is sure to be a crowd-pleaser."
-date: 2023-05-12
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/bangers-and-mash.png"
-recipe: ["8 pork sausages", "1 kg potatoes", "100 ml whole milk", "50g butter", "1 tbsp olive oil", "1 onion", "2 tbsp all-purpose flour", "500 ml beef or vegetable stock", "1 tbsp Worcestershire sauce", "1 tsp Dijon mustard", "Salt and pepper to taste"]
-imageDescription: ["Bangers and mash on a plate", "Creamy mashed potatoes and browned sausages", "Comfort food at its finest", "A hearty and satisfying meal"]
+recipe:
+  [
+    "8 pork sausages",
+    "1 kg potatoes",
+    "100 ml whole milk",
+    "50g butter",
+    "1 tbsp olive oil",
+    "1 onion",
+    "2 tbsp all-purpose flour",
+    "500 ml beef or vegetable stock",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp Dijon mustard",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "Bangers and mash on a plate",
+    "Creamy mashed potatoes and browned sausages",
+    "Comfort food at its finest",
+    "A hearty and satisfying meal",
+  ]
 categories: ["British"]
 tags: ["dinner", "comfort food", "potatoes", "sausages", "traditional"]
 prepTime: "PT15M"
@@ -14,15 +33,16 @@ totalTime: "PT60M"
 recipeYield: "4"
 calories: 720
 recipeCuisine: "British"
-recipeInstructions: [
-  "Peel and chop the potatoes into chunks. Boil them in a pot of salted water for 15-20 minutes, or until tender.",
-  "While the potatoes are boiling, heat the olive oil in a large frying pan over medium heat. Add the sausages and cook for 12-15 minutes, turning occasionally, until they are browned on all sides.",
-  "Remove the sausages from the pan and set aside. In the same pan, add the chopped onion and cook for 3-4 minutes, or until softened.",
-  "Add the flour to the pan and stir until it is well combined with the onion. Gradually pour in the stock and Worcestershire sauce, stirring constantly to avoid any lumps. Bring the mixture to a simmer and cook for 5-10 minutes, or until the sauce has thickened.",
-  "Meanwhile, drain the potatoes and return them to the pot. Add the butter and milk and mash until smooth and creamy. Season with salt and pepper to taste.",
-  "Stir the Dijon mustard into the sauce and add the sausages back to the pan. Cook for a further 2-3 minutes, or until the sausages are heated through.",
-  "Serve the sausages and gravy on top of the mashed potatoes. Enjoy!"
-]
+recipeInstructions:
+  [
+    "Peel and chop the potatoes into chunks. Boil them in a pot of salted water for 15-20 minutes, or until tender.",
+    "While the potatoes are boiling, heat the olive oil in a large frying pan over medium heat. Add the sausages and cook for 12-15 minutes, turning occasionally, until they are browned on all sides.",
+    "Remove the sausages from the pan and set aside. In the same pan, add the chopped onion and cook for 3-4 minutes, or until softened.",
+    "Add the flour to the pan and stir until it is well combined with the onion. Gradually pour in the stock and Worcestershire sauce, stirring constantly to avoid any lumps. Bring the mixture to a simmer and cook for 5-10 minutes, or until the sauce has thickened.",
+    "Meanwhile, drain the potatoes and return them to the pot. Add the butter and milk and mash until smooth and creamy. Season with salt and pepper to taste.",
+    "Stir the Dijon mustard into the sauce and add the sausages back to the pan. Cook for a further 2-3 minutes, or until the sausages are heated through.",
+    "Serve the sausages and gravy on top of the mashed potatoes. Enjoy!",
+  ]
 ---
 
 Bangers and mash are a classic British comfort food dish that has been enjoyed for centuries. The dish consists of sausages (the "bangers") and mashed potatoes (the "mash"), typically served with a rich onion gravy. This hearty and satisfying meal is perfect for a cozy night in or a family dinner, and is sure to be a crowd-pleaser.

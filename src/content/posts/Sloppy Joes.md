@@ -1,11 +1,31 @@
 ---
 title: "How to Make Sloppy Joes: A Classic American Comfort Food"
 description: "Learn how to make a classic American comfort food, Sloppy Joes, with this easy recipe. Perfect for a weeknight dinner or a casual get-together with friends and family!"
-date: 2023-05-22
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/sloppy-joes.png"
-recipe: ["1 lb ground beef", "1 onion, diced", "1 green bell pepper, diced", "2 cloves garlic, minced", "1/2 cup ketchup", "1/4 cup tomato sauce", "2 tbsp brown sugar", "1 tbsp Worcestershire sauce", "1 tsp mustard powder", "1/2 tsp salt", "1/4 tsp black pepper", "4 hamburger buns"]
-imageDescription: ["Sloppy Joes served on a bun", "Ground beef cooked with onions and peppers", "A spoonful of Sloppy Joes on a plate", "A side of fries"]
+recipe:
+  [
+    "1 lb ground beef",
+    "1 onion, diced",
+    "1 green bell pepper, diced",
+    "2 cloves garlic, minced",
+    "1/2 cup ketchup",
+    "1/4 cup tomato sauce",
+    "2 tbsp brown sugar",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp mustard powder",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "4 hamburger buns",
+  ]
+imageDescription:
+  [
+    "Sloppy Joes served on a bun",
+    "Ground beef cooked with onions and peppers",
+    "A spoonful of Sloppy Joes on a plate",
+    "A side of fries",
+  ]
 categories: ["sandwich"]
 tags: ["dinner", "comfort food", "ground beef", "easy", "weeknight"]
 prepTime: "PT10M"
@@ -14,11 +34,12 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 470
 recipeCuisine: "American"
-recipeInstructions: [
-  "In a large skillet over medium-high heat, brown the ground beef, breaking it up into small pieces with a spatula or wooden spoon.",
-  "Add the diced onion, green bell pepper, and minced garlic to the skillet. Cook for 5-7 minutes until the vegetables are softened and the beef is fully cooked.",
-  "Stir in the ketchup, tomato sauce, brown sugar, Worcestershire sauce, mustard powder, salt, and black pepper. Reduce the heat to low and let the mixture simmer for 10 minutes, stirring occasionally.",
-  "Toast the hamburger buns and spoon the Sloppy Joes mixture onto the bottom halves of each bun. Top with the other half of the bun and serve with fries or your favorite side dish."
+recipeInstructions:
+  [
+    "In a large skillet over medium-high heat, brown the ground beef, breaking it up into small pieces with a spatula or wooden spoon.",
+    "Add the diced onion, green bell pepper, and minced garlic to the skillet. Cook for 5-7 minutes until the vegetables are softened and the beef is fully cooked.",
+    "Stir in the ketchup, tomato sauce, brown sugar, Worcestershire sauce, mustard powder, salt, and black pepper. Reduce the heat to low and let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Toast the hamburger buns and spoon the Sloppy Joes mixture onto the bottom halves of each bun. Top with the other half of the bun and serve with fries or your favorite side dish.",
   ]
 ---
 

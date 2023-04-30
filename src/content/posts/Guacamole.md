@@ -1,11 +1,25 @@
 ---
 title: "How to make the perfect Guacamole"
 description: "Learn how to make a delicious and easy guacamole recipe with fresh ingredients in just a few minutes. Perfect for any occasion!"
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/guacamole.png"
-recipe: ["3 ripe avocados", "1/2 red onion", "1/2 tomato", "1 jalapeño", "1 lime", "1/2 tsp salt"]
-imageDescription: ["green guacamole in a bowl", "spoon scooping guacamole from bowl", "avocado on plate", "jalapeño on a wooden board"]
+recipe:
+  [
+    "3 ripe avocados",
+    "1/2 red onion",
+    "1/2 tomato",
+    "1 jalapeño",
+    "1 lime",
+    "1/2 tsp salt",
+  ]
+imageDescription:
+  [
+    "green guacamole in a bowl",
+    "spoon scooping guacamole from bowl",
+    "avocado on plate",
+    "jalapeño on a wooden board",
+  ]
 categories: ["dips"]
 tags: ["easy", "vegetarian", "snacks", "Mexican", "healthy"]
 prepTime: "PT10M"
@@ -14,13 +28,14 @@ totalTime: "PT10M"
 recipeYield: "4"
 calories: 250
 recipeCuisine: "Mexican"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Cut the avocados in half and remove the pit. Scoop out the flesh and place it in a mixing bowl.",
     "Finely chop the red onion, tomato and jalapeño and add it to the mixing bowl.",
     "Squeeze the juice of one lime into the bowl and add half a teaspoon of salt.",
     "Use a fork to mash the ingredients together until you reach your desired consistency. Some people like it smooth, while others like it chunky. Taste and adjust the seasoning as needed.",
-    "Serve the guacamole immediately or cover it with plastic wrap and refrigerate until ready to serve."
-]
+    "Serve the guacamole immediately or cover it with plastic wrap and refrigerate until ready to serve.",
+  ]
 ---
 
 If you're looking for an easy and healthy snack that's bursting with flavor, look no further than guacamole! This delicious dip is perfect for any occasion, whether you're hosting a party or just looking for a quick and easy snack. Plus, it's packed with healthy fats and nutrients, making it a great choice for anyone looking to eat a little healthier.

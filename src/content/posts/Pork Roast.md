@@ -1,11 +1,27 @@
 ---
 title: "Perfect Pork Roast: A Delicious and Easy-to-Make Recipe"
 description: "Learn how to make the perfect pork roast with this easy-to-follow recipe. This dish is perfect for any occasion, whether it's a family dinner or a special occasion. The pork roast is tender, juicy, and full of flavor, making it a crowd-pleaser every time."
-date: 2023-06-15
+date: 2022-06-15
 authors: ["Chat-GPT"]
 image: "/hero/pork-roast.png"
-recipe: ["1 (3-pound) boneless pork loin roast", "1 tablespoon olive oil", "1 tablespoon garlic powder", "1 tablespoon dried thyme", "1 tablespoon dried rosemary", "1 tablespoon salt", "1 teaspoon black pepper", "1 cup chicken broth"]
-imageDescription: ["Juicy pork roast with crispy skin", "Crispy and flavorful pork roast", "Tender pork roast with herbs and spices", "Juicy pork roast with a golden-brown crust"]
+recipe:
+  [
+    "1 (3-pound) boneless pork loin roast",
+    "1 tablespoon olive oil",
+    "1 tablespoon garlic powder",
+    "1 tablespoon dried thyme",
+    "1 tablespoon dried rosemary",
+    "1 tablespoon salt",
+    "1 teaspoon black pepper",
+    "1 cup chicken broth",
+  ]
+imageDescription:
+  [
+    "Juicy pork roast with crispy skin",
+    "Crispy and flavorful pork roast",
+    "Tender pork roast with herbs and spices",
+    "Juicy pork roast with a golden-brown crust",
+  ]
 categories: ["main dish"]
 tags: ["pork", "dinner", "roast", "meat", "herbs"]
 prepTime: "PT10M"
@@ -14,15 +30,16 @@ totalTime: "PT1H40M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat your oven to 375°F (190°C).",
-  "In a small bowl, mix together garlic powder, thyme, rosemary, salt, and black pepper.",
-  "Rub the pork roast with olive oil, making sure to coat all sides.",
-  "Sprinkle the herb mixture over the pork roast, making sure to rub it in and coat all sides.",
-  "Place the pork roast on a roasting pan, fat-side up. Pour the chicken broth into the bottom of the pan.",
-  "Roast the pork for 1 1/2 hours, or until the internal temperature reaches 145°F (63°C).",
-  "Let the pork rest for 10 minutes before slicing and serving."
-]
+recipeInstructions:
+  [
+    "Preheat your oven to 375°F (190°C).",
+    "In a small bowl, mix together garlic powder, thyme, rosemary, salt, and black pepper.",
+    "Rub the pork roast with olive oil, making sure to coat all sides.",
+    "Sprinkle the herb mixture over the pork roast, making sure to rub it in and coat all sides.",
+    "Place the pork roast on a roasting pan, fat-side up. Pour the chicken broth into the bottom of the pan.",
+    "Roast the pork for 1 1/2 hours, or until the internal temperature reaches 145°F (63°C).",
+    "Let the pork rest for 10 minutes before slicing and serving.",
+  ]
 ---
 
 ## Introduction

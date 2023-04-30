@@ -1,4 +1,5 @@
 ---
+import { getImage } from "@astrojs/image";
 import { Image } from "@astrojs/image/components";
 import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
@@ -17,12 +18,17 @@ const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
 const { title, description, authors, categories, image, date, tags, prepTime, cookTime, totalTime, recipeYield, calories, recipeCuisine, recipeInstructions, recipe } =
   post.data;
+
+const { src } = await getImage({
+    src: import(image),
+    alt: title
+  });
 ---
 <script type="application/ld+json" set:html={JSON.stringify({ 
   "@type": "Recipe",
   "name": title,
   "image": [
-   image
+    src
   ],
   "author": {
     "@type": "Person",

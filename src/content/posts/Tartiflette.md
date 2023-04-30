@@ -1,11 +1,26 @@
 ---
 title: "Tartiflette: The Classic French Potato and Cheese Dish"
 description: "Learn how to make the classic French dish, Tartiflette, with this easy-to-follow recipe. This hearty and comforting dish is perfect for cold evenings and is sure to be a hit with your family and friends!"
-date: 2023-05-12
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/tartiflette.png"
-recipe: ["1 kg potatoes", "200 g diced bacon", "1 onion", "2 cloves garlic", "200 ml crème fraîche", "200 g Reblochon cheese", "Salt and pepper to taste"]
-imageDescription: ["hearty and cheesy potato dish", "golden brown crust", "served in a cast iron pan", "sprinkled with fresh herbs"]
+recipe:
+  [
+    "1 kg potatoes",
+    "200 g diced bacon",
+    "1 onion",
+    "2 cloves garlic",
+    "200 ml crème fraîche",
+    "200 g Reblochon cheese",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "hearty and cheesy potato dish",
+    "golden brown crust",
+    "served in a cast iron pan",
+    "sprinkled with fresh herbs",
+  ]
 categories: ["French"]
 tags: ["dinner", "potatoes", "cheese", "comfort food", "hearty"]
 prepTime: "PT20M"
@@ -14,8 +29,17 @@ totalTime: "PT70M"
 recipeYield: "4"
 calories: 600
 recipeCuisine: "French"
-recipeInstructions: ["Peel and slice the potatoes into thin rounds. Boil them in salted water for 5 minutes, then drain them and set aside.", "In a pan, cook the diced bacon until crispy. Remove from the pan and set aside.", "In the same pan, sauté the finely chopped onion and garlic until translucent.", "Add the crème fraîche and stir until well combined. Season with salt and pepper to taste.", "Preheat the oven to 200°C. Arrange the sliced potatoes in a large baking dish. Pour the crème fraîche mixture over the potatoes and mix well.", "Cut the Reblochon cheese into thin slices and arrange them on top of the potatoes.", "Bake the Tartiflette for 30-40 minutes, until the cheese is melted and golden brown.", "Garnish with fresh herbs and serve hot."]
-
+recipeInstructions:
+  [
+    "Peel and slice the potatoes into thin rounds. Boil them in salted water for 5 minutes, then drain them and set aside.",
+    "In a pan, cook the diced bacon until crispy. Remove from the pan and set aside.",
+    "In the same pan, sauté the finely chopped onion and garlic until translucent.",
+    "Add the crème fraîche and stir until well combined. Season with salt and pepper to taste.",
+    "Preheat the oven to 200°C. Arrange the sliced potatoes in a large baking dish. Pour the crème fraîche mixture over the potatoes and mix well.",
+    "Cut the Reblochon cheese into thin slices and arrange them on top of the potatoes.",
+    "Bake the Tartiflette for 30-40 minutes, until the cheese is melted and golden brown.",
+    "Garnish with fresh herbs and serve hot.",
+  ]
 ---
 
 Tartiflette is a classic French dish that originated in the Savoie region of France. It's a hearty and comforting potato and cheese dish that's perfect for cold evenings. The dish is made with thinly sliced potatoes, bacon, onions, garlic, crème fraîche, and Reblochon cheese. The potatoes are cooked until tender, then layered with the bacon and onion mixture, topped with the crème fraîche, and finally covered with slices of Reblochon cheese. The dish is then baked until the cheese is melted and golden brown.

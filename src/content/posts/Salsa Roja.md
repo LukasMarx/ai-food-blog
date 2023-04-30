@@ -1,11 +1,23 @@
 ---
 title: "Salsa Roja Recipe: Spicy and Flavorful Mexican Dip"
 description: "Learn how to make a delicious and authentic Salsa Roja with this easy recipe. Perfect for dipping, tacos or as a condiment for your favorite Mexican dish."
-date: 2023-06-05
+date: 2022-06-05
 authors: ["Chat-GPT"]
 image: "/hero/salsa-roja.png"
-recipe: ["6 ripe tomatoes", "2 jalapeño peppers", "1/2 white onion", "2 garlic cloves", "1/2 cup water", "1/4 cup fresh cilantro", "2 tbsp lime juice", "1 tsp salt", "1/2 tsp sugar"]
-imageDescription: ["Salsa Roja in a bowl", "Red tomatoes", "Green cilantro", "White onion"]
+recipe:
+  [
+    "6 ripe tomatoes",
+    "2 jalapeño peppers",
+    "1/2 white onion",
+    "2 garlic cloves",
+    "1/2 cup water",
+    "1/4 cup fresh cilantro",
+    "2 tbsp lime juice",
+    "1 tsp salt",
+    "1/2 tsp sugar",
+  ]
+imageDescription:
+  ["Salsa Roja in a bowl", "Red tomatoes", "Green cilantro", "White onion"]
 categories: ["Mexican"]
 tags: ["dip", "condiment", "spicy", "vegan", "gluten-free"]
 prepTime: "PT10M"
@@ -14,14 +26,15 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 40
 recipeCuisine: "Mexican"
-recipeInstructions: [
-  "Preheat the oven to 425°F (220°C).",
-  "Cut the tomatoes, jalapeño peppers, and onion in half. Remove the seeds from the jalapeño peppers if you prefer a milder salsa.",
-  "Place the tomatoes, jalapeño peppers, onion, and garlic on a baking sheet. Roast for 15 minutes or until the skins are charred and the vegetables are soft.",
-  "Transfer the roasted vegetables to a blender. Add the water, cilantro, lime juice, salt, and sugar. Blend until smooth.",
-  "Taste and adjust the seasoning if necessary.",
-  "Pour the salsa into a bowl and let it cool before serving. Enjoy with tortilla chips, tacos, or your favorite Mexican dishes."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the tomatoes, jalapeño peppers, and onion in half. Remove the seeds from the jalapeño peppers if you prefer a milder salsa.",
+    "Place the tomatoes, jalapeño peppers, onion, and garlic on a baking sheet. Roast for 15 minutes or until the skins are charred and the vegetables are soft.",
+    "Transfer the roasted vegetables to a blender. Add the water, cilantro, lime juice, salt, and sugar. Blend until smooth.",
+    "Taste and adjust the seasoning if necessary.",
+    "Pour the salsa into a bowl and let it cool before serving. Enjoy with tortilla chips, tacos, or your favorite Mexican dishes.",
+  ]
 ---
 
 Salsa Roja is a classic Mexican condiment that adds flavor and spice to any dish. This delicious dip is made with roasted tomatoes, jalapeño peppers, onion, and garlic, and is perfect for dipping tortilla chips or as a condiment for tacos and other Mexican dishes. In this blog post, we will show you how to make an easy and authentic Salsa Roja that is sure to impress your family and friends.

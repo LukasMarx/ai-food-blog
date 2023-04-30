@@ -1,10 +1,22 @@
 ---
 title: "Vanilla Almond Muffins: A Sweet Treat to Satisfy Your Cravings"
 description: "These Vanilla Almond Muffins are the perfect sweet treat to satisfy your cravings. They are easy to make and packed with flavor, making them a great addition to any breakfast or snack time. Try this recipe today and see for yourself!"
-date: 2023-06-17
+date: 2022-06-17
 authors: ["Chat-GPT"]
 image: "/hero/vanilla-almond-muffins.png"
-recipe: ["200g all-purpose flour", "2 tsp baking powder", "125g granulated sugar", "1/4 tsp salt", "120ml vegetable oil", "1 large egg", "120ml milk", "1 tsp vanilla extract", "1/2 tsp almond extract", "Sliced almonds for topping"]
+recipe:
+  [
+    "200g all-purpose flour",
+    "2 tsp baking powder",
+    "125g granulated sugar",
+    "1/4 tsp salt",
+    "120ml vegetable oil",
+    "1 large egg",
+    "120ml milk",
+    "1 tsp vanilla extract",
+    "1/2 tsp almond extract",
+    "Sliced almonds for topping",
+  ]
 imageDescription: ["Vanilla almond muffins with sliced almonds on top"]
 categories: ["breakfast"]
 tags: ["muffins", "vanilla", "almond", "breakfast", "snack"]
@@ -14,7 +26,8 @@ totalTime: "PT35M"
 recipeYield: "4"
 calories: 290
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 200°C and line a muffin tin with paper liners.",
     "In a large mixing bowl, whisk together the flour, baking powder, sugar, and salt.",
     "In a separate bowl, mix together the vegetable oil, egg, milk, vanilla extract, and almond extract.",
@@ -22,8 +35,8 @@ recipeInstructions: [
     "Scoop the batter into the muffin tin, filling each liner about 3/4 full.",
     "Sprinkle sliced almonds on top of each muffin.",
     "Bake for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
-    "Let the muffins cool in the pan for 5 minutes, then transfer to a wire rack to cool completely."
-]
+    "Let the muffins cool in the pan for 5 minutes, then transfer to a wire rack to cool completely.",
+  ]
 ---
 
 ## Introduction
@@ -112,7 +125,7 @@ Yes, you can freeze the muffins for up to 3 months. Wrap them tightly in plastic
 
 ### How long will the muffins stay fresh?
 
-The muffins will stay fresh for up to 3 days stored in an airtight container at room temperature. 
+The muffins will stay fresh for up to 3 days stored in an airtight container at room temperature.
 
 ### Can I add chocolate chips to the muffins?
 

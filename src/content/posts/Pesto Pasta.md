@@ -1,11 +1,27 @@
 ---
 title: "Pesto Pasta"
 description: "Learn how to make delicious Pesto Pasta in this easy-to-follow recipe. This classic Italian dish is perfect for a quick and tasty dinner!"
-date: 2023-05-12
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/pesto-pasta.png"
-recipe: ["500g pasta", "2 cups fresh basil leaves", "1/2 cup grated parmesan cheese", "1/2 cup olive oil", "1/4 cup pine nuts", "4 garlic cloves", "1/2 tsp salt", "1/4 tsp black pepper"]
-imageDescription: ["Pesto Pasta on a plate", "Green Pasta with Cheese and Basil", "Delicious Pesto Pasta Recipe", "Simple and Easy Pesto Pasta Dish"]
+recipe:
+  [
+    "500g pasta",
+    "2 cups fresh basil leaves",
+    "1/2 cup grated parmesan cheese",
+    "1/2 cup olive oil",
+    "1/4 cup pine nuts",
+    "4 garlic cloves",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "Pesto Pasta on a plate",
+    "Green Pasta with Cheese and Basil",
+    "Delicious Pesto Pasta Recipe",
+    "Simple and Easy Pesto Pasta Dish",
+  ]
 categories: ["pasta"]
 tags: ["dinner", "italian", "vegetarian", "easy", "quick"]
 prepTime: "PT10M"
@@ -14,13 +30,14 @@ totalTime: "PT20M"
 recipeYield: "4"
 calories: 560
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "Cook pasta according to package instructions until al dente.",
-  "While pasta is cooking, add basil, parmesan cheese, pine nuts, garlic, salt, and black pepper to a food processor. Pulse until finely chopped.",
-  "Slowly add olive oil while continuing to pulse until a smooth pesto sauce forms.",
-  "Drain pasta and return to pot. Add pesto sauce and stir until pasta is coated.",
-  "Serve hot and enjoy!"
-]
+recipeInstructions:
+  [
+    "Cook pasta according to package instructions until al dente.",
+    "While pasta is cooking, add basil, parmesan cheese, pine nuts, garlic, salt, and black pepper to a food processor. Pulse until finely chopped.",
+    "Slowly add olive oil while continuing to pulse until a smooth pesto sauce forms.",
+    "Drain pasta and return to pot. Add pesto sauce and stir until pasta is coated.",
+    "Serve hot and enjoy!",
+  ]
 ---
 
 If you're looking for a quick and easy dinner recipe that's packed with flavor, look no further than Pesto Pasta! This classic Italian dish is a favorite for many, and it's easy to see why. The combination of fresh basil, parmesan cheese, and garlic creates a delicious, aromatic sauce that pairs perfectly with pasta. Plus, it only takes 20 minutes to make!

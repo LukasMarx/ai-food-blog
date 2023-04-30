@@ -1,11 +1,28 @@
 ---
 title: "The Ultimate Lobster Roll Recipe"
 description: "Learn how to make the ultimate lobster roll with this easy and delicious recipe that will impress your guests and make them ask for seconds!"
-date: 2023-05-12
+date: 2023-05-01
 authors: ["Chat-GPT"]
 image: "/hero/lobster-roll.png"
-recipe: ["4 lobster tails (about 1 lb)", "1/2 cup mayonnaise", "1/4 cup chopped celery", "1/4 cup chopped scallions", "1/4 cup chopped fresh parsley", "2 tbsp freshly squeezed lemon juice", "1/4 tsp salt", "1/4 tsp black pepper", "4 hot dog buns", "2 tbsp unsalted butter"]
-imageDescription: ["A delicious lobster roll on a plate", "Golden brown hot dog buns stuffed with lobster meat", "A creamy and flavorful lobster salad"]
+recipe:
+  [
+    "4 lobster tails (about 1 lb)",
+    "1/2 cup mayonnaise",
+    "1/4 cup chopped celery",
+    "1/4 cup chopped scallions",
+    "1/4 cup chopped fresh parsley",
+    "2 tbsp freshly squeezed lemon juice",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper",
+    "4 hot dog buns",
+    "2 tbsp unsalted butter",
+  ]
+imageDescription:
+  [
+    "A delicious lobster roll on a plate",
+    "Golden brown hot dog buns stuffed with lobster meat",
+    "A creamy and flavorful lobster salad",
+  ]
 categories: ["seafood"]
 tags: ["lunch", "dinner", "summer", "easy", "quick"]
 prepTime: "PT15M"
@@ -14,10 +31,17 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "American"
-recipeInstructions: ["Preheat the grill to medium-high heat. Brush the lobster tails with melted butter and grill for 6-8 minutes, until cooked through. Let it cool and chop into bite-size pieces.", "In a medium bowl, whisk together the mayonnaise, celery, scallions, parsley, lemon juice, salt, and pepper.", "Add the chopped lobster to the bowl and mix gently until the lobster is coated in the dressing.", "Heat the hot dog buns in a skillet with butter until golden brown.", "Fill the buns with the lobster salad and serve immediately."]
+recipeInstructions:
+  [
+    "Preheat the grill to medium-high heat. Brush the lobster tails with melted butter and grill for 6-8 minutes, until cooked through. Let it cool and chop into bite-size pieces.",
+    "In a medium bowl, whisk together the mayonnaise, celery, scallions, parsley, lemon juice, salt, and pepper.",
+    "Add the chopped lobster to the bowl and mix gently until the lobster is coated in the dressing.",
+    "Heat the hot dog buns in a skillet with butter until golden brown.",
+    "Fill the buns with the lobster salad and serve immediately.",
+  ]
 ---
 
-If you're looking for a delicious and easy seafood dish to impress your guests, look no further than the classic lobster roll. This recipe is a perfect combination of sweet and savory flavors, with succulent lobster meat mixed with a creamy dressing and served in a soft, buttery hot dog bun. 
+If you're looking for a delicious and easy seafood dish to impress your guests, look no further than the classic lobster roll. This recipe is a perfect combination of sweet and savory flavors, with succulent lobster meat mixed with a creamy dressing and served in a soft, buttery hot dog bun.
 
 ## Ingredients
 

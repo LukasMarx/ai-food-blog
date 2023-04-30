@@ -1,11 +1,29 @@
 ---
 title: "Mint Chocolate Chip Cake"
 description: "Learn how to make a delicious Mint Chocolate Chip Cake with this easy-to-follow recipe. Perfect for a celebration or just a sweet treat!"
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/mint-chocolate-chip-cake.png"
-recipe: ["2 cups all-purpose flour", "1 3/4 cups granulated sugar", "3/4 cup unsweetened cocoa powder", "2 tsp baking soda", "1 tsp baking powder", "1 tsp salt", "1 cup buttermilk", "1/2 cup vegetable oil", "2 large eggs", "2 tsp vanilla extract", "1 cup hot water", "1 cup mini chocolate chips", "1/2 cup chopped fresh mint"]
-imageDescription: ["A delicious mint chocolate chip cake decorated with whipped cream and chocolate chips"]
+recipe:
+  [
+    "2 cups all-purpose flour",
+    "1 3/4 cups granulated sugar",
+    "3/4 cup unsweetened cocoa powder",
+    "2 tsp baking soda",
+    "1 tsp baking powder",
+    "1 tsp salt",
+    "1 cup buttermilk",
+    "1/2 cup vegetable oil",
+    "2 large eggs",
+    "2 tsp vanilla extract",
+    "1 cup hot water",
+    "1 cup mini chocolate chips",
+    "1/2 cup chopped fresh mint",
+  ]
+imageDescription:
+  [
+    "A delicious mint chocolate chip cake decorated with whipped cream and chocolate chips",
+  ]
 categories: ["cake"]
 tags: ["dessert", "chocolate", "mint", "party", "celebration"]
 prepTime: "PT30M"
@@ -14,7 +32,8 @@ totalTime: "PT1H5M"
 recipeYield: "4"
 calories: 620
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 350°F (175°C) and grease two 9-inch cake pans.",
     "In a large bowl, combine the flour, sugar, cocoa powder, baking soda, baking powder, and salt.",
     "Add the buttermilk, vegetable oil, eggs, and vanilla extract to the bowl and mix until well combined.",
@@ -22,8 +41,8 @@ recipeInstructions: [
     "Fold in the mini chocolate chips and chopped mint.",
     "Divide the batter evenly between the two cake pans and bake for 30-35 minutes, or until a toothpick inserted into the center of the cakes comes out clean.",
     "Let the cakes cool in the pans for 10 minutes before transferring them to a wire rack to cool completely.",
-    "Once the cakes have cooled, you can frost and decorate them as desired. Enjoy!"
-]
+    "Once the cakes have cooled, you can frost and decorate them as desired. Enjoy!",
+  ]
 ---
 
 ## Why You Need to Make This Mint Chocolate Chip Cake

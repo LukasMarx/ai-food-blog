@@ -1,11 +1,33 @@
 ---
 title: "Dim Sum: A Delicious Chinese Cuisine"
 description: "Learn how to cook a classic Chinese dim sum recipe that will delight your palate with every bite. Perfect for a family dinner or a gathering with friends!"
-date: 2023-06-15
+date: 2022-06-15
 authors: ["Chat-GPT"]
 image: "/hero/dim-sum.png"
-recipe: ["300g all-purpose flour", "1/2 tsp salt", "150ml hot water", "150g ground pork", "100g shrimp, peeled and deveined", "1 tbsp soy sauce", "1 tbsp rice wine", "1 tbsp sesame oil", "1 tbsp cornstarch", "1 tbsp grated ginger", "1 garlic clove, minced", "2 green onions, finely chopped", "1/4 tsp black pepper", "1 tbsp vegetable oil"]
-imageDescription: ["Steamed dim sum dumplings on a bamboo basket", "Soy sauce in a small bowl", "Chopped green onions on top of the dim sum", "A cup of hot jasmine tea"]
+recipe:
+  [
+    "300g all-purpose flour",
+    "1/2 tsp salt",
+    "150ml hot water",
+    "150g ground pork",
+    "100g shrimp, peeled and deveined",
+    "1 tbsp soy sauce",
+    "1 tbsp rice wine",
+    "1 tbsp sesame oil",
+    "1 tbsp cornstarch",
+    "1 tbsp grated ginger",
+    "1 garlic clove, minced",
+    "2 green onions, finely chopped",
+    "1/4 tsp black pepper",
+    "1 tbsp vegetable oil",
+  ]
+imageDescription:
+  [
+    "Steamed dim sum dumplings on a bamboo basket",
+    "Soy sauce in a small bowl",
+    "Chopped green onions on top of the dim sum",
+    "A cup of hot jasmine tea",
+  ]
 categories: ["Chinese"]
 tags: ["dinner", "appetizer", "steamed", "pork", "shrimp"]
 prepTime: "PT1H"
@@ -14,7 +36,15 @@ totalTime: "PT1H20M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "Chinese"
-recipeInstructions: ["In a large bowl, mix flour and salt. Slowly add hot water while stirring with chopsticks until a dough forms. Knead the dough for 5-10 minutes until smooth. Cover and let rest for 30 minutes.", "In a medium bowl, mix together ground pork, shrimp, soy sauce, rice wine, sesame oil, cornstarch, ginger, garlic, green onions, and black pepper.", "Divide the dough into 4 pieces. Roll each piece into a long cylinder and cut into 10 pieces. Roll each piece into a small ball and then flatten with a rolling pin into a small circle.", "Place a spoonful of the filling in the center of each circle. Pinch the edges together to form a pouch, leaving the top open.", "Place the dim sum pouches in a steamer lined with parchment paper. Steam for 10-12 minutes until the dough is fully cooked and the filling is hot and juicy.", "Serve hot with soy sauce and chopped green onions. Enjoy!"]
+recipeInstructions:
+  [
+    "In a large bowl, mix flour and salt. Slowly add hot water while stirring with chopsticks until a dough forms. Knead the dough for 5-10 minutes until smooth. Cover and let rest for 30 minutes.",
+    "In a medium bowl, mix together ground pork, shrimp, soy sauce, rice wine, sesame oil, cornstarch, ginger, garlic, green onions, and black pepper.",
+    "Divide the dough into 4 pieces. Roll each piece into a long cylinder and cut into 10 pieces. Roll each piece into a small ball and then flatten with a rolling pin into a small circle.",
+    "Place a spoonful of the filling in the center of each circle. Pinch the edges together to form a pouch, leaving the top open.",
+    "Place the dim sum pouches in a steamer lined with parchment paper. Steam for 10-12 minutes until the dough is fully cooked and the filling is hot and juicy.",
+    "Serve hot with soy sauce and chopped green onions. Enjoy!",
+  ]
 ---
 
 Dim sum is a traditional Chinese cuisine that consists of small bite-sized dishes usually served in bamboo steamer baskets. They are perfect as an appetizer or a main dish, and they are often enjoyed with a cup of hot jasmine tea. The dish originated in the Cantonese region of China and has become popular all over the world. In this blog post, we will teach you how to cook a classic dim sum recipe that will delight your palate with every bite.
@@ -22,11 +52,13 @@ Dim sum is a traditional Chinese cuisine that consists of small bite-sized dishe
 ## Ingredients
 
 For the dough:
+
 - 300g all-purpose flour
 - 1/2 tsp salt
 - 150ml hot water
 
 For the filling:
+
 - 150g ground pork
 - 100g shrimp, peeled and deveined
 - 1 tbsp soy sauce

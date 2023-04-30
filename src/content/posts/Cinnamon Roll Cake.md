@@ -1,11 +1,33 @@
 ---
 title: "Cinnamon Roll Cake"
 description: "This Cinnamon Roll Cake is a perfect twist on a classic breakfast pastry. It has all the flavors of cinnamon rolls in a delicious, moist, and tender cake. It's easy to make and perfect for any occasion!"
-date: 2023-06-02
+date: 2022-06-02
 authors: ["Chat-GPT"]
 image: "/hero/cinnamon-roll-cake.png"
-recipe: ["2 cups all-purpose flour", "2 teaspoons baking powder", "1/2 teaspoon salt", "1/2 cup unsalted butter, softened", "1 cup granulated sugar", "2 large eggs", "2 teaspoons vanilla extract", "1 cup whole milk", "1/2 cup unsalted butter, melted", "3/4 cup light brown sugar", "1 tablespoon ground cinnamon", "2 cups powdered sugar", "1/4 cup whole milk", "1 teaspoon vanilla extract"]
-imageDescription: ["Cinnamon roll cake with a creamy icing drizzled on top", "A slice of cinnamon roll cake on a white plate", "A close-up of the layers of cinnamon roll cake", "A hand holding a fork and a piece of cinnamon roll cake"]
+recipe:
+  [
+    "2 cups all-purpose flour",
+    "2 teaspoons baking powder",
+    "1/2 teaspoon salt",
+    "1/2 cup unsalted butter, softened",
+    "1 cup granulated sugar",
+    "2 large eggs",
+    "2 teaspoons vanilla extract",
+    "1 cup whole milk",
+    "1/2 cup unsalted butter, melted",
+    "3/4 cup light brown sugar",
+    "1 tablespoon ground cinnamon",
+    "2 cups powdered sugar",
+    "1/4 cup whole milk",
+    "1 teaspoon vanilla extract",
+  ]
+imageDescription:
+  [
+    "Cinnamon roll cake with a creamy icing drizzled on top",
+    "A slice of cinnamon roll cake on a white plate",
+    "A close-up of the layers of cinnamon roll cake",
+    "A hand holding a fork and a piece of cinnamon roll cake",
+  ]
 categories: ["breakfast"]
 tags: ["cinnamon", "cake", "pastry", "easy", "delicious"]
 prepTime: "PT20M"
@@ -14,17 +36,18 @@ totalTime: "PT55M"
 recipeYield: "4"
 calories: 564
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 350°F (175°C). Grease a 9x13 inch baking pan.",
-  "In a medium bowl, whisk together flour, baking powder, and salt. Set aside.",
-  "In a large bowl, cream together butter and sugar until light and fluffy. Add eggs, one at a time, beating well after each addition. Stir in vanilla.",
-  "Add dry ingredients and milk alternatively to the butter mixture, starting and ending with the dry ingredients. Stir until just combined.",
-  "In a small bowl, combine melted butter, brown sugar, and cinnamon. Stir until well combined.",
-  "Pour half of the cake batter into the prepared pan. Spread the brown sugar mixture on top of the batter. Pour the remaining cake batter on top of the brown sugar mixture.",
-  "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
-  "In a medium bowl, whisk together powdered sugar, milk, and vanilla extract until smooth. Drizzle the icing over the cooled cake.",
-  "Slice and serve. Enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (175°C). Grease a 9x13 inch baking pan.",
+    "In a medium bowl, whisk together flour, baking powder, and salt. Set aside.",
+    "In a large bowl, cream together butter and sugar until light and fluffy. Add eggs, one at a time, beating well after each addition. Stir in vanilla.",
+    "Add dry ingredients and milk alternatively to the butter mixture, starting and ending with the dry ingredients. Stir until just combined.",
+    "In a small bowl, combine melted butter, brown sugar, and cinnamon. Stir until well combined.",
+    "Pour half of the cake batter into the prepared pan. Spread the brown sugar mixture on top of the batter. Pour the remaining cake batter on top of the brown sugar mixture.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "In a medium bowl, whisk together powdered sugar, milk, and vanilla extract until smooth. Drizzle the icing over the cooled cake.",
+    "Slice and serve. Enjoy!",
+  ]
 ---
 
 ## Introduction

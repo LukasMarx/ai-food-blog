@@ -1,11 +1,25 @@
 ---
 title: "Tostadas Recipe: How to Make Delicious Mexican Tostadas at Home"
 description: "Learn how to make authentic Mexican tostadas with this simple and easy recipe. Crispy tortillas topped with beans, meat, veggies, and all your favorite toppings."
-date: 2023-06-08
+date: 2022-06-08
 authors: ["Chat-GPT"]
 image: "/hero/tostadas.png"
-recipe: ["8 tostada shells", "1 can of refried beans", "1 lb of ground beef", "1 diced onion", "1 diced tomato", "1 diced avocado", "1/2 cup of shredded lettuce", "1/2 cup of shredded cheese", "1/4 cup of sour cream"]
-imageDescription: ["Crispy tostadas with refried beans, beef, lettuce, cheese, tomato and avocado"]
+recipe:
+  [
+    "8 tostada shells",
+    "1 can of refried beans",
+    "1 lb of ground beef",
+    "1 diced onion",
+    "1 diced tomato",
+    "1 diced avocado",
+    "1/2 cup of shredded lettuce",
+    "1/2 cup of shredded cheese",
+    "1/4 cup of sour cream",
+  ]
+imageDescription:
+  [
+    "Crispy tostadas with refried beans, beef, lettuce, cheese, tomato and avocado",
+  ]
 categories: ["Mexican"]
 tags: ["dinner", "easy", "quick", "family-friendly", "budget-friendly"]
 prepTime: "PT10M"
@@ -14,7 +28,10 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 575
 recipeCuisine: "Mexican"
-recipeInstructions: ["Preheat oven to 375°F. Arrange tostada shells on a baking sheet and bake for 5-7 minutes or until crispy. While tostadas are baking, cook the ground beef and onion in a skillet over medium heat until beef is browned and cooked through. Warm up the refried beans in a saucepan over medium heat. Spread a layer of beans on each tostada shell. Top with the cooked beef and onion mixture. Add shredded lettuce, diced tomato, avocado, and shredded cheese. Drizzle with sour cream. Serve immediately and enjoy!"]
+recipeInstructions:
+  [
+    "Preheat oven to 375°F. Arrange tostada shells on a baking sheet and bake for 5-7 minutes or until crispy. While tostadas are baking, cook the ground beef and onion in a skillet over medium heat until beef is browned and cooked through. Warm up the refried beans in a saucepan over medium heat. Spread a layer of beans on each tostada shell. Top with the cooked beef and onion mixture. Add shredded lettuce, diced tomato, avocado, and shredded cheese. Drizzle with sour cream. Serve immediately and enjoy!",
+  ]
 ---
 
 ## Why Tostadas are a Great Idea
@@ -48,18 +65,23 @@ Tostadas are a delicious and easy Mexican dish that can be customized to fit any
 ## Variations
 
 ### Vegetarian Tostadas
+
 To make vegetarian tostadas, simply omit the ground beef and replace it with your favorite meat substitute or extra refried beans. You can also add additional veggies, like bell peppers or corn, for some extra flavor and texture.
 
 ### Vegan Tostadas
+
 To make vegan tostadas, use vegan tostada shells and refried beans. Replace the ground beef with your favorite meat substitute or extra veggies. Omit the cheese and sour cream, or use vegan alternatives.
 
 ### Seafood Tostadas
+
 For a seafood twist on tostadas, top your crispy shells with cooked shrimp, crab, or fish. Add diced avocado, tomato, and cilantro for a fresh and flavorful finish.
 
 ### Breakfast Tostadas
+
 Tostadas are not just for dinner! Try making breakfast tostadas by topping your crispy shells with scrambled eggs, bacon or sausage, and diced veggies. Add a dollop of salsa or hot sauce for some extra kick.
 
 ### Gluten-Free Tostadas
+
 To make gluten-free tostadas, use gluten-free tostada shells or make your own by baking corn tortillas until crispy. Make sure to check that all other ingredients are gluten-free as well.
 
 ## Conclusion

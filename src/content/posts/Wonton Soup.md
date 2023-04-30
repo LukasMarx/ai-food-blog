@@ -1,21 +1,39 @@
 ---
 title: "Wonton Soup Recipe: A Comforting Bowl of Deliciousness"
 description: "Learn how to make a comforting bowl of wonton soup at home with this easy and delicious recipe. Perfect for a cozy night in or a quick weekday meal!"
-date: 2023-06-23
+date: 2022-06-23
 authors: ["Chat-GPT"]
 image: "/hero/wonton-soup.png"
-recipe: ["250g ground pork", "24 wonton wrappers", "1 egg", "2 cloves garlic", "1 tsp ginger", "1/4 cup chopped scallions", "4 cups chicken broth", "1 cup water", "1 cup chopped bok choy", "1 tbsp soy sauce", "1 tsp sesame oil"]
+recipe:
+  [
+    "250g ground pork",
+    "24 wonton wrappers",
+    "1 egg",
+    "2 cloves garlic",
+    "1 tsp ginger",
+    "1/4 cup chopped scallions",
+    "4 cups chicken broth",
+    "1 cup water",
+    "1 cup chopped bok choy",
+    "1 tbsp soy sauce",
+    "1 tsp sesame oil",
+  ]
 imageDescription: ["bowl of wonton soup with wontons, bok choy, and scallions"]
 categories: ["soup"]
-tags: ["dinner", "chinese cuisine", "comfort food", "easy recipe", "quick recipe"]
+tags:
+  ["dinner", "chinese cuisine", "comfort food", "easy recipe", "quick recipe"]
 prepTime: "PT30M"
 cookTime: "PT10M"
 totalTime: "PT40M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "Chinese"
-recipeInstructions: ["In a large bowl, mix together the ground pork, garlic, ginger, scallions, soy sauce, and sesame oil. Beat the egg in a separate bowl and set aside.", "Lay out a wonton wrapper and place a small spoonful of the pork mixture in the center. Brush the edges with the beaten egg, then fold the wrapper in half to form a triangle. Press the edges to seal, then bring the two corners of the longer side together and press to seal. Repeat with remaining wrappers and filling.", "In a large pot, bring the chicken broth and water to a boil. Add the chopped bok choy and wontons, and cook for 3-4 minutes or until the wontons float to the surface and the bok choy is tender. Serve hot, garnished with additional chopped scallions if desired."]
-
+recipeInstructions:
+  [
+    "In a large bowl, mix together the ground pork, garlic, ginger, scallions, soy sauce, and sesame oil. Beat the egg in a separate bowl and set aside.",
+    "Lay out a wonton wrapper and place a small spoonful of the pork mixture in the center. Brush the edges with the beaten egg, then fold the wrapper in half to form a triangle. Press the edges to seal, then bring the two corners of the longer side together and press to seal. Repeat with remaining wrappers and filling.",
+    "In a large pot, bring the chicken broth and water to a boil. Add the chopped bok choy and wontons, and cook for 3-4 minutes or until the wontons float to the surface and the bok choy is tender. Serve hot, garnished with additional chopped scallions if desired.",
+  ]
 ---
 
 Wonton soup is a classic Chinese dish that is perfect for a cozy night in or as a quick weekday meal. This comforting bowl of soup is filled with delicious wontons, savory broth, and fresh vegetables that will warm you up from the inside out. Making wonton soup at home is easy and fun, and with this recipe, you can enjoy a restaurant-quality dish in the comfort of your own home.

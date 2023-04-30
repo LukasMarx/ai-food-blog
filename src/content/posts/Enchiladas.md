@@ -1,11 +1,23 @@
 ---
 title: "Easy Chicken Enchiladas Recipe"
 description: "Learn how to make delicious and easy chicken enchiladas at home with this simple recipe."
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/enchiladas.png"
-recipe: ["10 corn tortillas", "2 cups cooked shredded chicken", "1 can black beans, drained and rinsed", "1 cup corn kernels", "1 cup enchilada sauce", "1 cup shredded cheddar cheese", "1/4 cup chopped fresh cilantro", "1/4 cup diced red onion", "1 lime, cut into wedges"]
-imageDescription: ["enchiladas on a plate", "shredded chicken", "black beans", "corn kernels"]
+recipe:
+  [
+    "10 corn tortillas",
+    "2 cups cooked shredded chicken",
+    "1 can black beans, drained and rinsed",
+    "1 cup corn kernels",
+    "1 cup enchilada sauce",
+    "1 cup shredded cheddar cheese",
+    "1/4 cup chopped fresh cilantro",
+    "1/4 cup diced red onion",
+    "1 lime, cut into wedges",
+  ]
+imageDescription:
+  ["enchiladas on a plate", "shredded chicken", "black beans", "corn kernels"]
 categories: ["Mexican"]
 tags: ["dinner", "chicken", "easy", "gluten-free", "meal prep"]
 prepTime: "PT20M"
@@ -14,15 +26,16 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 450
 recipeCuisine: "Mexican"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 375°F (190°C).",
     "In a large bowl, combine the shredded chicken, black beans, corn kernels, 1/2 cup of enchilada sauce, 1/2 cup of shredded cheddar cheese, cilantro, and red onion. Mix well.",
     "Warm the corn tortillas in the microwave or on a griddle until they are soft and pliable.",
     "Divide the chicken filling evenly among the tortillas and roll them up tightly. Place the enchiladas seam-side down in a 9x13 inch baking dish.",
     "Pour the remaining enchilada sauce over the top of the enchiladas and sprinkle with the remaining shredded cheddar cheese.",
     "Bake for 25-30 minutes, or until the enchiladas are hot and bubbly.",
-    "Garnish with cilantro and lime wedges before serving."
-]
+    "Garnish with cilantro and lime wedges before serving.",
+  ]
 ---
 
 Enchiladas are a classic Mexican dish that are perfect for a simple and delicious dinner. This recipe is easy to make and can be customized to suit your tastes. You can use any kind of protein you like, such as beef, pork, or tofu, and you can add any vegetables or toppings that you prefer. These enchiladas are also gluten-free, making them a great option for those with dietary restrictions.

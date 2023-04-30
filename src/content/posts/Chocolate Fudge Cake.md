@@ -1,11 +1,30 @@
 ---
 title: "Chocolate Fudge Cake Recipe"
 description: "Learn how to make a delicious and moist chocolate fudge cake at home with this easy recipe. Perfect for any celebration or simply as a weekend treat!"
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-fudge-cake.png"
-recipe: ["250g all-purpose flour", "400g granulated sugar", "90g unsweetened cocoa powder", "2 tsp baking soda", "1 tsp baking powder", "1 tsp salt", "2 eggs", "240ml milk", "120ml vegetable oil", "2 tsp vanilla extract", "240ml boiling water"]
-imageDescription: ["chocolate fudge cake on a white plate", "chocolate cake with fudge frosting", "homemade chocolate cake", "moist and delicious chocolate cake"]
+recipe:
+  [
+    "250g all-purpose flour",
+    "400g granulated sugar",
+    "90g unsweetened cocoa powder",
+    "2 tsp baking soda",
+    "1 tsp baking powder",
+    "1 tsp salt",
+    "2 eggs",
+    "240ml milk",
+    "120ml vegetable oil",
+    "2 tsp vanilla extract",
+    "240ml boiling water",
+  ]
+imageDescription:
+  [
+    "chocolate fudge cake on a white plate",
+    "chocolate cake with fudge frosting",
+    "homemade chocolate cake",
+    "moist and delicious chocolate cake",
+  ]
 categories: ["cake"]
 tags: ["chocolate", "dessert", "baking", "celebration", "party"]
 prepTime: "PT20M"
@@ -14,20 +33,21 @@ totalTime: "PT55M"
 recipeYield: "4"
 calories: 480
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 175°C and prepare two 9-inch cake pans by greasing and dusting with flour.",
-  "In a large mixing bowl, whisk together the flour, sugar, cocoa powder, baking soda, baking powder, and salt.",
-  "In a separate mixing bowl, beat the eggs, milk, oil, and vanilla extract until well combined.",
-  "Add the wet ingredients to the dry ingredients and mix until just combined.",
-  "Add the boiling water to the batter and mix until well combined.",
-  "Pour the batter evenly into the prepared cake pans.",
-  "Bake for 30-35 minutes or until a toothpick inserted into the center of the cake comes out clean.",
-  "Remove the cakes from the oven and allow them to cool in the pans for 10 minutes.",
-  "Remove the cakes from the pans and cool completely on a wire rack.",
-  "Once the cakes are cooled, frost the top of one cake with chocolate fudge frosting and place the other cake on top.",
-  "Frost the top and sides of the cake with the remaining frosting.",
-  "Slice and serve!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 175°C and prepare two 9-inch cake pans by greasing and dusting with flour.",
+    "In a large mixing bowl, whisk together the flour, sugar, cocoa powder, baking soda, baking powder, and salt.",
+    "In a separate mixing bowl, beat the eggs, milk, oil, and vanilla extract until well combined.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Add the boiling water to the batter and mix until well combined.",
+    "Pour the batter evenly into the prepared cake pans.",
+    "Bake for 30-35 minutes or until a toothpick inserted into the center of the cake comes out clean.",
+    "Remove the cakes from the oven and allow them to cool in the pans for 10 minutes.",
+    "Remove the cakes from the pans and cool completely on a wire rack.",
+    "Once the cakes are cooled, frost the top of one cake with chocolate fudge frosting and place the other cake on top.",
+    "Frost the top and sides of the cake with the remaining frosting.",
+    "Slice and serve!",
+  ]
 ---
 
 If you're looking for a decadent and rich chocolate cake, look no further than this chocolate fudge cake recipe. This cake is moist, chocolatey, and perfect for any occasion. Whether you're celebrating a birthday, anniversary, or just looking for a weekend treat, this cake is sure to satisfy your sweet tooth.

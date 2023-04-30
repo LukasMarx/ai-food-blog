@@ -1,11 +1,28 @@
 ---
 title: "Apricot Almond Muffins Recipe"
 description: "Learn how to make delicious and moist apricot almond muffins with this easy recipe. Perfect for breakfast or a quick snack on the go!"
-date: 2023-06-01
+date: 2022-06-01
 authors: ["Chat-GPT"]
 image: "/hero/apricot-almond-muffins.jpg"
-recipe: ["200g all-purpose flour", "80g sugar", "2 tsp baking powder", "1/2 tsp salt", "120ml milk", "1 large egg", "80g unsalted butter, melted", "80g dried apricots, chopped", "50g almonds, chopped"]
-imageDescription: ["Apricot almond muffins sitting on a plate", "Moist muffins with chunks of dried apricots and almonds", "Golden brown muffin tops with a sprinkle of sliced almonds", "Freshly baked apricot almond muffins with a cup of coffee"]
+recipe:
+  [
+    "200g all-purpose flour",
+    "80g sugar",
+    "2 tsp baking powder",
+    "1/2 tsp salt",
+    "120ml milk",
+    "1 large egg",
+    "80g unsalted butter, melted",
+    "80g dried apricots, chopped",
+    "50g almonds, chopped",
+  ]
+imageDescription:
+  [
+    "Apricot almond muffins sitting on a plate",
+    "Moist muffins with chunks of dried apricots and almonds",
+    "Golden brown muffin tops with a sprinkle of sliced almonds",
+    "Freshly baked apricot almond muffins with a cup of coffee",
+  ]
 categories: ["breakfast"]
 tags: ["muffins", "apricots", "almonds", "breakfast", "snack"]
 prepTime: "PT15M"
@@ -14,17 +31,18 @@ totalTime: "PT35M"
 recipeYield: "4"
 calories: 325
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 200°C and line a muffin tin with paper liners.",
-  "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
-  "In a separate bowl, whisk together the milk, egg, and melted butter.",
-  "Pour the wet ingredients into the dry mixture and stir until just combined.",
-  "Fold in the chopped apricots and almonds.",
-  "Spoon the batter into the muffin tin, filling each liner about 2/3 full.",
-  "Sprinkle some sliced almonds on top of each muffin.",
-  "Bake for 18-20 minutes or until a toothpick inserted in the center comes out clean.",
-  "Let the muffins cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 200°C and line a muffin tin with paper liners.",
+    "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the milk, egg, and melted butter.",
+    "Pour the wet ingredients into the dry mixture and stir until just combined.",
+    "Fold in the chopped apricots and almonds.",
+    "Spoon the batter into the muffin tin, filling each liner about 2/3 full.",
+    "Sprinkle some sliced almonds on top of each muffin.",
+    "Bake for 18-20 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the muffins cool in the tin for 5 minutes before transferring to a wire rack to cool completely.",
+  ]
 ---
 
 ## Introduction
