@@ -20,6 +20,7 @@ const { className, posts, fluid } = Astro.props;
               class="group-hover:scale-[1.03] transition duration-300 w-full"
               src={post.data.image}
               alt={post.data.title}
+              format={"webp"}
               width={i === 0 ? 925 : 445}
               height={i === 0 ? 475 : 230}
             />
@@ -42,6 +43,7 @@ const { className, posts, fluid } = Astro.props;
                     <Image
                       src={author.data.image}
                       alt={author.data.title}
+                      format={"webp"}
                       height={50}
                       width={50}
                       class="mr-2 h-6 w-6 rounded-full"
