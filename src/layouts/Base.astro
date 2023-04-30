@@ -27,16 +27,16 @@ export interface Props {
 const { title, meta_title, description, image, date, totalTime, tags,categories, calories, noindex, canonical, recipeYield, recipeCuisine, recipeInstructions, recipe, prepTime, cookTime,} =
   Astro.props;
 
-  let src;
-  if(image) {
-    const { src:source } = await getImage({
-      src: image!,
+
+
+    const { src } = await getImage({
+      src: image || "/hero/smores-cake.png",
       alt: title!,
       width: 1000,
       height: 500
     });
-    src = source;
-  }
+  
+  
 ---
 
 <!DOCTYPE html>
@@ -154,6 +154,7 @@ const { title, meta_title, description, image, date, totalTime, tags,categories,
     <meta name="twitter:card" content="summary_large_image" />
 
     <script type="application/ld+json" set:html={JSON.stringify({ 
+      "@context": "https://schema.org/",
       "@type": "Recipe",
       "name": title,
       "image": [
