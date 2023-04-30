@@ -20,11 +20,20 @@ export interface Props {
   image?: string;
   noindex?: boolean;
   canonical?: string;
-
+  totalTime?:string;
+  tags?: string[];
+  categories?: string[]; 
+  calories?:string; 
+  recipeYield?: string; 
+  recipeCuisine?:string; 
+  recipeInstructions?:string[]; 
+  recipe?:string[]; 
+  prepTime?:string; 
+  cookTime?:string
 }
 
 // distructure frontmatters
-const { title, meta_title, description, image, date, totalTime, tags,categories, calories, noindex, canonical, recipeYield, recipeCuisine, recipeInstructions, recipe, prepTime, cookTime,} =
+const { title, meta_title, description, image, date, totalTime, tags,categories, calories, noindex, canonical, recipeYield, recipeCuisine, recipeInstructions, recipe, prepTime, cookTime} =
   Astro.props;
 
 

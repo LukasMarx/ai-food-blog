@@ -22,7 +22,7 @@ export async function getStaticPaths() {
 }
 
 const { page } = Astro.props;
-const { title, meta_title, description, image } = page.data;
+const { title, meta_title, description, image, totalTime, tags,categories, calories, noindex, canonical, recipeYield, recipeCuisine, recipeInstructions, recipe, prepTime, cookTime  } = page.data;
 ---
 
 <Base
@@ -30,6 +30,16 @@ const { title, meta_title, description, image } = page.data;
   meta_title={meta_title}
   description={description}
   image={image}
+  totalTime={totalTime}
+  tags={tags}
+  categories={categories}
+  calories={categories}
+  recipeYield={recipeYield}
+  recipeCuisine={recipeCuisine}
+  recipeInstructions={recipeInstructions}
+  recipe={recipe}
+  prepTime={prepTime}
+  cookTime={cookTime}
 >
   {
     postsSlug.includes(page.slug) ? (

@@ -22,7 +22,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { author } = Astro.props;
+const { author} = Astro.props;
 const { title, meta_title, description, image } = author.data;
 
 // Author Posts
