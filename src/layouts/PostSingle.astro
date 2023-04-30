@@ -16,43 +16,9 @@ const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
-const { title, description, authors, categories, image, date, tags, prepTime, cookTime, totalTime, recipeYield, calories, recipeCuisine, recipeInstructions, recipe } =
+const { title, description, authors, categories, image, date, tags,  totalTime, calories } =
   post.data;
-
-const { src } = await getImage({
-    src: image,
-    alt: title,
-    width: 1000,
-    height: 500
-  });
 ---
-<script type="application/ld+json" set:html={JSON.stringify({ 
-  "@type": "Recipe",
-  "name": title,
-  "image": [
-    src
-  ],
-  "author": {
-    "@type": "Person",
-    "name": "Chat GPT"
-  },
-  "datePublished": date,
-  "description": description,
-  "prepTime": prepTime,
-  "cookTime":cookTime,
-  "totalTime": totalTime,
-  "keywords": tags?.join(",") ||"",
-  "recipeYield": recipeYield,
-  "recipeCategory": categories?.at(0),
-  "recipeCuisine": recipeCuisine,
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": `${calories} calories`
-  },
-  "recipeIngredient": recipe,
-  "recipeInstructions": [ recipeInstructions?.join(" ")],
-    
-})}/>
 
 <section class="section">
   <div class="container">

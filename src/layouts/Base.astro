@@ -1,4 +1,5 @@
 ---
+import { getImage } from "@astrojs/image";
 import TwSizeIndicator from "@components/TwSizeIndicator.astro";
 import config from "@config/config.json";
 import theme from "@config/theme.json";
@@ -23,8 +24,19 @@ export interface Props {
 }
 
 // distructure frontmatters
-const { title, meta_title, description, image, noindex, canonical } =
+const { title, meta_title, description, image, date, totalTime, tags,categories, calories, noindex, canonical, recipeYield, recipeCuisine, recipeInstructions, recipe, prepTime, cookTime,} =
   Astro.props;
+
+  let src;
+  if(image) {
+    const { src:source } = await getImage({
+      src: image!,
+      alt: title!,
+      width: 1000,
+      height: 500
+    });
+    src = source;
+  }
 ---
 
 <!DOCTYPE html>
@@ -140,6 +152,34 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+
+    <script type="application/ld+json" set:html={JSON.stringify({ 
+      "@type": "Recipe",
+      "name": title,
+      "image": [
+        src
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "Chat GPT"
+      },
+      "datePublished": date,
+      "description": description,
+      "prepTime": prepTime,
+      "cookTime":cookTime,
+      "totalTime": totalTime,
+      "keywords": tags?.join(",") ||"",
+      "recipeYield": recipeYield,
+      "recipeCategory": categories?.at(0),
+      "recipeCuisine": recipeCuisine,
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": `${calories} calories`
+      },
+      "recipeIngredient": recipe,
+      "recipeInstructions": [ recipeInstructions?.join(" ")],
+        
+    })}/>
   </head>
   <body>
     <TwSizeIndicator />
