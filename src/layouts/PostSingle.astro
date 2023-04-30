@@ -20,8 +20,10 @@ const { title, description, authors, categories, image, date, tags, prepTime, co
   post.data;
 
 const { src } = await getImage({
-    src: import(image),
-    alt: title
+    src: image,
+    alt: title,
+    width: 1000,
+    height: 500
   });
 ---
 <script type="application/ld+json" set:html={JSON.stringify({ 
