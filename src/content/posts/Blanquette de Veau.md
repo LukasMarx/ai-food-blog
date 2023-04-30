@@ -1,11 +1,30 @@
 ---
 title: "Blanquette de Veau: The Classic French Veal Stew Recipe"
 description: "Learn how to make the classic French dish Blanquette de Veau with this easy-to-follow recipe. This stew is made with tender veal, aromatic vegetables, and a creamy white sauce. Perfect for a cozy dinner at home."
-date: 2023-03-18
+date: 2022-03-18
 authors: ["Chat-GPT"]
 image: "/hero/blanquette-de-veau.png"
-recipe: ["1 kg veal shoulder", "2 onions", "2 carrots", "2 celery stalks", "4 cloves of garlic", "1 bouquet garni (thyme, bay leaves, parsley)", "50g butter", "50g flour", "2 egg yolks", "200ml heavy cream", "Salt and pepper to taste"]
-imageDescription: ["A bowl of Blanquette de Veau with tender veal and creamy white sauce", "A pot of Blanquette de Veau cooking on the stove", "A plate of Blanquette de Veau with a side of bread", "A fork and knife cutting into a piece of tender veal in Blanquette de Veau"]
+recipe:
+  [
+    "1 kg veal shoulder",
+    "2 onions",
+    "2 carrots",
+    "2 celery stalks",
+    "4 cloves of garlic",
+    "1 bouquet garni (thyme, bay leaves, parsley)",
+    "50g butter",
+    "50g flour",
+    "2 egg yolks",
+    "200ml heavy cream",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "A bowl of Blanquette de Veau with tender veal and creamy white sauce",
+    "A pot of Blanquette de Veau cooking on the stove",
+    "A plate of Blanquette de Veau with a side of bread",
+    "A fork and knife cutting into a piece of tender veal in Blanquette de Veau",
+  ]
 categories: ["stew"]
 tags: ["French cuisine", "dinner", "veal", "creamy", "comfort food"]
 prepTime: "PT30M"
@@ -14,15 +33,16 @@ totalTime: "PT3H"
 recipeYield: "4"
 calories: 650
 recipeCuisine: "French"
-recipeInstructions: [
-  "Cut the veal into large pieces and place it in a large pot. Add enough cold water to cover the meat by about 1 inch. Bring to a boil and then reduce the heat to low. Skim off any foam or impurities that rise to the surface.",
-  "Add the onions, carrots, celery, garlic, and bouquet garni to the pot. Season with salt and pepper. Cover and simmer for 2 hours or until the meat is tender.",
-  "Remove the meat and vegetables from the pot with a slotted spoon and set aside. Discard the bouquet garni.",
-  "In a separate saucepan, melt the butter over low heat. Add the flour and stir constantly with a whisk for 2 minutes to make a roux.",
-  "Add 500ml of the cooking liquid from the pot to the roux, whisking constantly to prevent lumps. Bring to a boil and then reduce the heat to low. Simmer for 10 minutes or until the sauce thickens.",
-  "In a small bowl, whisk together the egg yolks and heavy cream. Slowly pour the egg mixture into the sauce, whisking constantly. Cook over low heat for 5 minutes or until the sauce is thick and creamy.",
-  "Return the meat and vegetables to the pot with the sauce. Reheat gently over low heat for 5 minutes or until heated through. Serve hot with crusty bread and a glass of white wine."
-]
+recipeInstructions:
+  [
+    "Cut the veal into large pieces and place it in a large pot. Add enough cold water to cover the meat by about 1 inch. Bring to a boil and then reduce the heat to low. Skim off any foam or impurities that rise to the surface.",
+    "Add the onions, carrots, celery, garlic, and bouquet garni to the pot. Season with salt and pepper. Cover and simmer for 2 hours or until the meat is tender.",
+    "Remove the meat and vegetables from the pot with a slotted spoon and set aside. Discard the bouquet garni.",
+    "In a separate saucepan, melt the butter over low heat. Add the flour and stir constantly with a whisk for 2 minutes to make a roux.",
+    "Add 500ml of the cooking liquid from the pot to the roux, whisking constantly to prevent lumps. Bring to a boil and then reduce the heat to low. Simmer for 10 minutes or until the sauce thickens.",
+    "In a small bowl, whisk together the egg yolks and heavy cream. Slowly pour the egg mixture into the sauce, whisking constantly. Cook over low heat for 5 minutes or until the sauce is thick and creamy.",
+    "Return the meat and vegetables to the pot with the sauce. Reheat gently over low heat for 5 minutes or until heated through. Serve hot with crusty bread and a glass of white wine.",
+  ]
 ---
 
 Blanquette de Veau is a classic French dish that is perfect for a cozy dinner at home. This stew is made with tender veal, aromatic vegetables, and a creamy white sauce. The name "blanquette" comes from the French word "blanc," which means white. This refers to the creamy white sauce that is the hallmark of this dish.

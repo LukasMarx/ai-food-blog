@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Cherry Cake"
 description: "This chocolate cherry cake is a decadent and delicious dessert that is perfect for any occasion. The rich chocolate flavor is perfectly balanced by the sweet and tart cherries, making it a crowd-pleaser for both chocolate and fruit lovers alike."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-cherry-cake.png"
 recipe:

@@ -1,11 +1,23 @@
 ---
 title: "Classic Chocolate Chip Cookies Recipe"
 description: "Learn how to make the best homemade chocolate chip cookies with this easy and delicious recipe. Perfect for any occasion!"
-date: 2023-04-10
+date: 2022-04-10
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-chip-cookies.png"
-recipe: ["225g unsalted butter", "200g white sugar", "200g brown sugar", "2 large eggs", "1 tsp vanilla extract", "375g all-purpose flour", "1 tsp baking soda", "1 tsp salt", "350g chocolate chips"]
-imageDescription: ["Warm, freshly baked chocolate chip cookies on a cooling rack"]
+recipe:
+  [
+    "225g unsalted butter",
+    "200g white sugar",
+    "200g brown sugar",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "375g all-purpose flour",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "350g chocolate chips",
+  ]
+imageDescription:
+  ["Warm, freshly baked chocolate chip cookies on a cooling rack"]
 categories: ["cookies"]
 tags: ["dessert", "snack", "baking", "easy", "classic"]
 prepTime: "PT15M"
@@ -14,16 +26,17 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 190°C (375°F).",
-  "In a large bowl, cream together the butter, white sugar, and brown sugar until smooth.",
-  "Beat in the eggs one at a time, then stir in the vanilla extract.",
-  "Combine the flour, baking soda, and salt in a separate bowl. Gradually add this mixture to the butter mixture, stirring until just blended.",
-  "Fold in the chocolate chips with a wooden spoon or a spatula.",
-  "Drop rounded tablespoons of dough onto ungreased baking sheets.",
-  "Bake for 8 to 10 minutes, or until lightly golden brown.",
-  "Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 190°C (375°F).",
+    "In a large bowl, cream together the butter, white sugar, and brown sugar until smooth.",
+    "Beat in the eggs one at a time, then stir in the vanilla extract.",
+    "Combine the flour, baking soda, and salt in a separate bowl. Gradually add this mixture to the butter mixture, stirring until just blended.",
+    "Fold in the chocolate chips with a wooden spoon or a spatula.",
+    "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+    "Bake for 8 to 10 minutes, or until lightly golden brown.",
+    "Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.",
+  ]
 ---
 
 Who doesn't love a warm, freshly baked chocolate chip cookie? It's the ultimate comfort food, perfect for any occasion. Whether it's a cozy night in, a family gathering, or a party with friends, chocolate chip cookies are always a crowd-pleaser. In this recipe, we'll show you how to make the best homemade chocolate chip cookies that are soft, chewy, and full of delicious chocolatey goodness.

@@ -1,11 +1,29 @@
 ---
 title: "Jalebi Recipe: How to Make this Delicious Indian Sweet at Home"
 description: "Learn how to make Jalebi, a popular Indian sweet that is perfect for any occasion. This easy recipe will guide you through the process of making crispy and juicy Jalebi that is sure to impress your friends and family."
-date: 2023-10-10
+date: 2022-10-10
 authors: ["Chat-GPT"]
 image: "/hero/jalebi.jpg"
-recipe: ["1 cup all-purpose flour", "1 tbsp besan (gram flour)", "1 tsp baking powder", "1 pinch of baking soda", "1 cup sugar", "1/2 cup water", "1/2 tsp cardamom powder", "1 tsp lemon juice", "1/4 tsp saffron strands", "Oil for frying"]
-imageDescription: ["Golden, crispy Jalebi on a plate", "Syrup being poured over Jalebi", "Jalebi being fried in oil", "Jalebi batter being poured in circular motion"]
+recipe:
+  [
+    "1 cup all-purpose flour",
+    "1 tbsp besan (gram flour)",
+    "1 tsp baking powder",
+    "1 pinch of baking soda",
+    "1 cup sugar",
+    "1/2 cup water",
+    "1/2 tsp cardamom powder",
+    "1 tsp lemon juice",
+    "1/4 tsp saffron strands",
+    "Oil for frying",
+  ]
+imageDescription:
+  [
+    "Golden, crispy Jalebi on a plate",
+    "Syrup being poured over Jalebi",
+    "Jalebi being fried in oil",
+    "Jalebi batter being poured in circular motion",
+  ]
 categories: ["Dessert"]
 tags: ["Indian cuisine", "Festival recipe", "Vegetarian", "Deep fried", "Sweet"]
 prepTime: "PT10M"
@@ -14,17 +32,18 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "Indian"
-recipeInstructions: [
-  "In a mixing bowl, add all-purpose flour, besan, baking powder, baking soda and mix well.",
-  "Add water to the dry ingredients and mix well to form a smooth batter. Make sure there are no lumps in the batter.",
-  "Add a pinch of saffron strands to the batter and mix well. Keep the batter aside for 10-15 minutes.",
-  "Add sugar and water to a pan and bring it to a boil. Stir the mixture until the sugar dissolves completely.",
-  "Add cardamom powder and lemon juice to the sugar syrup and mix well. Keep the sugar syrup aside and let it cool down.",
-  "Heat oil in a pan for frying. Transfer the Jalebi batter to a squeeze bottle or a piping bag with a nozzle.",
-  "Squeeze the Jalebi batter in a circular motion into the hot oil. Fry the Jalebi until it turns golden brown on both sides.",
-  "Remove the Jalebi from the oil and transfer it to the sugar syrup. Let the Jalebi soak in the sugar syrup for 3-4 minutes.",
-  "Remove the Jalebi from the sugar syrup and serve hot or cold."
-]
+recipeInstructions:
+  [
+    "In a mixing bowl, add all-purpose flour, besan, baking powder, baking soda and mix well.",
+    "Add water to the dry ingredients and mix well to form a smooth batter. Make sure there are no lumps in the batter.",
+    "Add a pinch of saffron strands to the batter and mix well. Keep the batter aside for 10-15 minutes.",
+    "Add sugar and water to a pan and bring it to a boil. Stir the mixture until the sugar dissolves completely.",
+    "Add cardamom powder and lemon juice to the sugar syrup and mix well. Keep the sugar syrup aside and let it cool down.",
+    "Heat oil in a pan for frying. Transfer the Jalebi batter to a squeeze bottle or a piping bag with a nozzle.",
+    "Squeeze the Jalebi batter in a circular motion into the hot oil. Fry the Jalebi until it turns golden brown on both sides.",
+    "Remove the Jalebi from the oil and transfer it to the sugar syrup. Let the Jalebi soak in the sugar syrup for 3-4 minutes.",
+    "Remove the Jalebi from the sugar syrup and serve hot or cold.",
+  ]
 ---
 
 ## Introduction

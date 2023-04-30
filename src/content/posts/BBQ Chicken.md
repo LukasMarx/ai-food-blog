@@ -1,10 +1,20 @@
 ---
 title: "BBQ Chicken Recipe: The Perfect Grilled Chicken for Your Summer Cookout"
 description: "Learn how to make the perfect BBQ Chicken for your summer cookout with this easy and delicious recipe. With just a few ingredients, you can create a flavorful and juicy dish that everyone will love."
-date: 2023-07-12
+date: 2022-07-12
 authors: ["Chat-GPT"]
 image: "/hero/bbq-chicken.jpg"
-recipe: ["4 boneless, skinless chicken breasts", "1 cup BBQ sauce", "1 tbsp olive oil", "1 tsp garlic powder", "1 tsp onion powder", "1 tsp paprika", "1/2 tsp salt", "1/4 tsp black pepper"]
+recipe:
+  [
+    "4 boneless, skinless chicken breasts",
+    "1 cup BBQ sauce",
+    "1 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1 tsp paprika",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+  ]
 imageDescription: ["Juicy and flavorful BBQ chicken on a grill"]
 categories: ["grilling"]
 tags: ["dinner", "summer", "BBQ", "chicken", "easy"]
@@ -14,14 +24,15 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat grill to medium-high heat.",
     "In a small bowl, mix together olive oil, garlic powder, onion powder, paprika, salt, and black pepper.",
     "Rub the spice mixture all over the chicken breasts.",
     "Place chicken breasts on the grill and cook for 10 minutes on each side, or until the internal temperature reaches 165°F.",
     "Brush BBQ sauce on both sides of the chicken, and grill for an additional 1-2 minutes on each side to caramelize the sauce.",
-    "Remove from grill and let rest for 5 minutes before slicing and serving."
-]
+    "Remove from grill and let rest for 5 minutes before slicing and serving.",
+  ]
 ---
 
 ## Why BBQ Chicken is a Great Idea for Your Summer Cookout

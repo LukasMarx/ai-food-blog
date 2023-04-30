@@ -1,11 +1,27 @@
 ---
 title: "Boeuf Bourguignon: A Classic French Dish Perfect for Cozy Nights In"
 description: "Learn how to make the classic French dish Boeuf Bourguignon, perfect for cozy nights in with family and friends. This recipe is easy to follow and will have you feeling like a master chef in no time!"
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/boeuf-bourguignon.png"
-recipe: ["1kg beef chuck, cut into 2-inch pieces", "200g bacon, chopped", "1 onion, chopped", "2 garlic cloves, minced", "2 tbsp tomato paste", "750ml red wine", "500ml beef broth", "1 bouquet garni (thyme, bay leaf, parsley)", "500g pearl onions, peeled", "250g mushrooms, quartered", "3 tbsp butter", "3 tbsp flour", "Salt and pepper"]
-imageDescription: ["A hearty and savory bowl of Boeuf Bourguignon topped with fresh herbs."]
+recipe:
+  [
+    "1kg beef chuck, cut into 2-inch pieces",
+    "200g bacon, chopped",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "2 tbsp tomato paste",
+    "750ml red wine",
+    "500ml beef broth",
+    "1 bouquet garni (thyme, bay leaf, parsley)",
+    "500g pearl onions, peeled",
+    "250g mushrooms, quartered",
+    "3 tbsp butter",
+    "3 tbsp flour",
+    "Salt and pepper",
+  ]
+imageDescription:
+  ["A hearty and savory bowl of Boeuf Bourguignon topped with fresh herbs."]
 categories: ["French"]
 tags: ["dinner", "comfort food", "beef", "red wine", "slow-cooker"]
 prepTime: "PT30M"
@@ -14,20 +30,21 @@ totalTime: "PT4H30M"
 recipeYield: "4"
 calories: 625
 recipeCuisine: "French"
-recipeInstructions: [
-  "Preheat oven to 350°F (175°C).",
-  "In a large Dutch oven or ovenproof pot, cook bacon over medium heat until crispy. Remove bacon and set aside, leaving the fat in the pot.",
-  "Season beef with salt and pepper, then brown in the bacon fat over high heat. Remove beef and set aside.",
-  "Add chopped onion and garlic to the pot and cook until softened.",
-  "Add tomato paste and cook for another minute.",
-  "Add red wine and beef broth, then add beef and bacon back to the pot. Add bouquet garni and bring to a simmer.",
-  "Cover the pot and transfer to the oven. Cook for 2 hours.",
-  "In a separate pan, melt butter and sauté pearl onions until golden brown. Remove and set aside.",
-  "In the same pan, add mushrooms and sauté until golden brown. Remove and set aside.",
-  "Remove the pot from the oven and add the sautéed onions and mushrooms. Return to the oven and cook for another hour.",
-  "In a small bowl, mix flour and butter until a smooth paste forms. Slowly add the paste to the pot and stir until the sauce thickens.",
-  "Remove the bouquet garni and serve hot with crusty bread, mashed potatoes, or egg noodles."
-]
+recipeInstructions:
+  [
+    "Preheat oven to 350°F (175°C).",
+    "In a large Dutch oven or ovenproof pot, cook bacon over medium heat until crispy. Remove bacon and set aside, leaving the fat in the pot.",
+    "Season beef with salt and pepper, then brown in the bacon fat over high heat. Remove beef and set aside.",
+    "Add chopped onion and garlic to the pot and cook until softened.",
+    "Add tomato paste and cook for another minute.",
+    "Add red wine and beef broth, then add beef and bacon back to the pot. Add bouquet garni and bring to a simmer.",
+    "Cover the pot and transfer to the oven. Cook for 2 hours.",
+    "In a separate pan, melt butter and sauté pearl onions until golden brown. Remove and set aside.",
+    "In the same pan, add mushrooms and sauté until golden brown. Remove and set aside.",
+    "Remove the pot from the oven and add the sautéed onions and mushrooms. Return to the oven and cook for another hour.",
+    "In a small bowl, mix flour and butter until a smooth paste forms. Slowly add the paste to the pot and stir until the sauce thickens.",
+    "Remove the bouquet garni and serve hot with crusty bread, mashed potatoes, or egg noodles.",
+  ]
 ---
 
 Boeuf Bourguignon is a classic French dish that is perfect for cozy nights in with family and friends. This hearty and savory dish is made with tender beef stewed in red wine and served with a variety of vegetables. It is a dish that is sure to impress and will have everyone asking for seconds!

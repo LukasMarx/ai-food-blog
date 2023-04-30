@@ -1,7 +1,7 @@
 ---
 title: "Decadent Chocolate Cake Recipe"
 description: "Indulge in this rich and moist chocolate cake with a decadent chocolate frosting that is sure to satisfy your sweet tooth."
-date: 2023-07-25
+date: 2022-07-25
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-cake.png"
 recipe: ["2 cups all-purpose flour", "2 cups granulated sugar", "3/4 cup unsweetened cocoa powder", "2 tsp baking powder", "1 1/2 tsp baking soda", "1 tsp salt", "1 cup milk", "1/2 cup vegetable oil", "2 large eggs", "2 tsp vanilla extract", "1 cup boiling water", "1/2 cup unsalted butter", "2/3 cup unsweetened cocoa powder", "3 cups powdered sugar", "1/3 cup milk", "1 tsp vanilla extract"]
@@ -36,6 +36,7 @@ Chocolate cake is a classic dessert that everyone loves. It’s perfect for any 
 ## Ingredients
 
 For the cake:
+
 - 2 cups all-purpose flour
 - 2 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
@@ -49,6 +50,7 @@ For the cake:
 - 1 cup boiling water
 
 For the frosting:
+
 - 1/2 cup unsalted butter
 - 2/3 cup unsweetened cocoa powder
 - 3 cups powdered sugar
@@ -76,7 +78,7 @@ For the frosting:
 
 ### Assemble the Cake
 
-1. Frost the top of one cake layer and place the second cake layer on top. 
+1. Frost the top of one cake layer and place the second cake layer on top.
 2. Frost the entire cake with the remaining frosting.
 3. Decorate the cake with chocolate shavings or sprinkles, if desired.
 

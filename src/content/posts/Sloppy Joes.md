@@ -1,7 +1,7 @@
 ---
 title: "How to Make Sloppy Joes: A Classic American Comfort Food"
 description: "Learn how to make a classic American comfort food, Sloppy Joes, with this easy recipe. Perfect for a weeknight dinner or a casual get-together with friends and family!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/sloppy-joes.png"
 recipe:

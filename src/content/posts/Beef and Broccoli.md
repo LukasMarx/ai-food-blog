@@ -1,11 +1,30 @@
 ---
 title: "Beef and Broccoli Recipe"
 description: "Learn how to make a delicious and easy beef and broccoli recipe at home! This classic Chinese-American dish is perfect for a quick and healthy dinner."
-date: 2023-08-01
+date: 2022-08-01
 authors: ["Chat-GPT"]
 image: "/hero/beef-and-broccoli.png"
-recipe: ["500g beef sirloin, thinly sliced", "2 cups broccoli florets", "1 onion, sliced", "4 cloves garlic, minced", "1 tsp ginger, minced", "1/4 cup soy sauce", "2 tbsp oyster sauce", "2 tbsp cornstarch", "2 tbsp vegetable oil", "1/2 cup water", "1/4 tsp black pepper"]
-imageDescription: ["A plate of beef and broccoli stir-fry with rice on the side", "Tender slices of beef and vibrant green broccoli tossed in a savory sauce", "A quick and easy Chinese-American dish perfect for dinner", "A healthy and satisfying meal that's ready in under 30 minutes"]
+recipe:
+  [
+    "500g beef sirloin, thinly sliced",
+    "2 cups broccoli florets",
+    "1 onion, sliced",
+    "4 cloves garlic, minced",
+    "1 tsp ginger, minced",
+    "1/4 cup soy sauce",
+    "2 tbsp oyster sauce",
+    "2 tbsp cornstarch",
+    "2 tbsp vegetable oil",
+    "1/2 cup water",
+    "1/4 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "A plate of beef and broccoli stir-fry with rice on the side",
+    "Tender slices of beef and vibrant green broccoli tossed in a savory sauce",
+    "A quick and easy Chinese-American dish perfect for dinner",
+    "A healthy and satisfying meal that's ready in under 30 minutes",
+  ]
 categories: ["Chinese"]
 tags: ["dinner", "stir-fry", "beef", "broccoli", "healthy"]
 prepTime: "PT15M"
@@ -14,14 +33,15 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 315
 recipeCuisine: "Chinese"
-recipeInstructions: [
-  "In a small bowl, whisk together the soy sauce, oyster sauce, cornstarch, and black pepper until smooth. Set aside.",
-  "Heat the vegetable oil in a large skillet or wok over high heat. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. Remove from the skillet and set aside.",
-  "Add the sliced onion, minced garlic, and minced ginger to the skillet. Stir-fry for 1-2 minutes, or until fragrant.",
-  "Add the broccoli florets and 1/2 cup of water to the skillet. Cover and steam for 2-3 minutes, or until the broccoli is tender but still crisp.",
-  "Return the beef to the skillet and pour the sauce over the top. Stir-fry for 1-2 minutes, or until the sauce has thickened and the beef and broccoli are coated.",
-  "Serve hot with steamed rice or noodles."
-]
+recipeInstructions:
+  [
+    "In a small bowl, whisk together the soy sauce, oyster sauce, cornstarch, and black pepper until smooth. Set aside.",
+    "Heat the vegetable oil in a large skillet or wok over high heat. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. Remove from the skillet and set aside.",
+    "Add the sliced onion, minced garlic, and minced ginger to the skillet. Stir-fry for 1-2 minutes, or until fragrant.",
+    "Add the broccoli florets and 1/2 cup of water to the skillet. Cover and steam for 2-3 minutes, or until the broccoli is tender but still crisp.",
+    "Return the beef to the skillet and pour the sauce over the top. Stir-fry for 1-2 minutes, or until the sauce has thickened and the beef and broccoli are coated.",
+    "Serve hot with steamed rice or noodles.",
+  ]
 ---
 
 ## Introduction

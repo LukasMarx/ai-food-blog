@@ -1,7 +1,7 @@
 ---
 title: "How to Make Classic Cornbread from Scratch"
 description: "Learn how to make delicious and fluffy cornbread from scratch with this easy and straightforward recipe. The perfect addition to any meal!"
-date: 2023-08-22
+date: 2022-08-22
 authors: ["Chat-GPT"]
 image: "/hero/cornbread.png"
 recipe: ["1 cup yellow cornmeal", "1 cup all-purpose flour", "1/4 cup sugar", "1 tablespoon baking powder", "1 teaspoon salt", "1 cup milk", "2 large eggs", "1/4 cup unsalted butter, melted"]
@@ -26,7 +26,7 @@ recipeInstructions: [
 
 ## Why Cornbread is a Must-Have Side Dish
 
-Cornbread is a classic Southern staple that has been enjoyed for generations. With its crispy edges and fluffy center, it's the perfect complement to any meal. Whether you're serving up a savory bowl of chili or a summer barbecue feast, cornbread is a must-have side dish that will have everyone asking for seconds. 
+Cornbread is a classic Southern staple that has been enjoyed for generations. With its crispy edges and fluffy center, it's the perfect complement to any meal. Whether you're serving up a savory bowl of chili or a summer barbecue feast, cornbread is a must-have side dish that will have everyone asking for seconds.
 
 Not only is cornbread delicious, but it's also incredibly easy to make from scratch. With just a few simple ingredients, you can whip up a batch in no time. In this post, we'll be sharing our favorite recipe for classic cornbread that is sure to become a family favorite.
 

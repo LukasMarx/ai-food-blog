@@ -1,11 +1,26 @@
 ---
 title: "Steamed Fish with Ginger and Scallions"
 description: "Learn how to make this delicious and healthy Steamed Fish with Ginger and Scallions recipe! Perfect for a quick and easy weeknight meal or an impressive dinner party dish."
-date: 2023-04-12
+date: 2022-04-12
 authors: ["Chat-GPT"]
 image: "/hero/steamed-fish-with-ginger-and-scallions.png"
-recipe: ["1 whole fish, about 1kg, scaled and gutted", "2 inches ginger, sliced into matchsticks", "4 scallions, sliced into 2-inch pieces", "1 tbsp soy sauce", "1 tbsp Shaoxing wine", "1 tbsp vegetable oil", "Salt and pepper to taste"]
-imageDescription: ["Steamed fish with ginger and scallions on a plate", "Steamed fish with ginger and scallions served with rice and vegetables", "Close up of steamed fish with ginger and scallions", "Top view of steamed fish with ginger and scallions"]
+recipe:
+  [
+    "1 whole fish, about 1kg, scaled and gutted",
+    "2 inches ginger, sliced into matchsticks",
+    "4 scallions, sliced into 2-inch pieces",
+    "1 tbsp soy sauce",
+    "1 tbsp Shaoxing wine",
+    "1 tbsp vegetable oil",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "Steamed fish with ginger and scallions on a plate",
+    "Steamed fish with ginger and scallions served with rice and vegetables",
+    "Close up of steamed fish with ginger and scallions",
+    "Top view of steamed fish with ginger and scallions",
+  ]
 categories: ["seafood"]
 tags: ["dinner", "healthy", "easy", "Chinese cuisine", "steamed fish"]
 prepTime: "PT15M"
@@ -14,14 +29,15 @@ totalTime: "PT35M"
 recipeYield: "4"
 calories: 250
 recipeCuisine: "Chinese"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Clean the fish and pat dry with paper towels. Season the fish with salt and pepper inside and outside the fish.",
     "Place the fish on a heatproof plate that will fit inside your steamer. Scatter the ginger and scallions on top and inside the fish.",
     "In a small bowl, mix together the soy sauce, Shaoxing wine, and vegetable oil. Pour the mixture over the fish.",
     "Fill a wok or pot with water and bring to a boil. Place the plate with the fish in the steamer basket and carefully place the basket over the boiling water.",
     "Cover the steamer with a lid and steam the fish for about 15-20 minutes or until the flesh is opaque and flakes easily with a fork.",
-    "Carefully remove the steamer basket from the pot and transfer the fish to a serving platter. Garnish with additional scallions, if desired."
-]
+    "Carefully remove the steamer basket from the pot and transfer the fish to a serving platter. Garnish with additional scallions, if desired.",
+  ]
 ---
 
 ## Why Steamed Fish with Ginger and Scallions is a Great Idea

@@ -1,11 +1,28 @@
 ---
 title: "Spinach and Ricotta Stuffed Shells Recipe"
 description: "Learn how to make delicious Spinach and Ricotta Stuffed Shells. This easy recipe will impress your guests and satisfy your cravings."
-date: 2023-09-12
+date: 2022-09-12
 authors: ["Chat-GPT"]
 image: "/hero/spinach-ricotta-stuffed-shells.png"
-recipe: ["500g jumbo pasta shells", "500g ricotta cheese", "300g fresh spinach", "2 cups marinara sauce", "1/2 cup grated parmesan cheese", "1 egg", "2 cloves garlic, minced", "1/4 tsp salt", "1/4 tsp black pepper"]
-imageDescription: ["Spinach and Ricotta Stuffed Shells on a plate", "Jumbo pasta shells stuffed with spinach and ricotta filling", "Creamy and flavorful stuffed shells", "A delicious and satisfying dinner recipe"]
+recipe:
+  [
+    "500g jumbo pasta shells",
+    "500g ricotta cheese",
+    "300g fresh spinach",
+    "2 cups marinara sauce",
+    "1/2 cup grated parmesan cheese",
+    "1 egg",
+    "2 cloves garlic, minced",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "Spinach and Ricotta Stuffed Shells on a plate",
+    "Jumbo pasta shells stuffed with spinach and ricotta filling",
+    "Creamy and flavorful stuffed shells",
+    "A delicious and satisfying dinner recipe",
+  ]
 categories: ["pasta"]
 tags: ["dinner", "italian", "vegetarian", "easy", "comfort food"]
 prepTime: "PT25M"
@@ -14,16 +31,17 @@ totalTime: "PT65M"
 recipeYield: "4"
 calories: 570
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "Preheat the oven to 375°F (190°C).",
-  "Cook the pasta shells according to package instructions until al dente. Drain and rinse under cold water. Set aside.",
-  "In a large mixing bowl, combine the ricotta cheese, minced garlic, grated parmesan cheese, egg, salt, and black pepper. Mix well.",
-  "Add the fresh spinach to a pot of boiling water and blanch for 1-2 minutes until wilted. Drain and rinse under cold water. Squeeze out any excess water and chop the spinach into small pieces. Add the spinach to the ricotta mixture and stir well.",
-  "Spread a thin layer of marinara sauce on the bottom of a 9x13 inch baking dish.",
-  "Fill each pasta shell with the ricotta mixture and place them in the baking dish. Spoon the remaining marinara sauce over the shells.",
-  "Cover the baking dish with foil and bake for 25 minutes. Remove the foil and bake for an additional 15 minutes until the top is golden brown and bubbly.",
-  "Let the stuffed shells cool for a few minutes before serving. Enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta shells according to package instructions until al dente. Drain and rinse under cold water. Set aside.",
+    "In a large mixing bowl, combine the ricotta cheese, minced garlic, grated parmesan cheese, egg, salt, and black pepper. Mix well.",
+    "Add the fresh spinach to a pot of boiling water and blanch for 1-2 minutes until wilted. Drain and rinse under cold water. Squeeze out any excess water and chop the spinach into small pieces. Add the spinach to the ricotta mixture and stir well.",
+    "Spread a thin layer of marinara sauce on the bottom of a 9x13 inch baking dish.",
+    "Fill each pasta shell with the ricotta mixture and place them in the baking dish. Spoon the remaining marinara sauce over the shells.",
+    "Cover the baking dish with foil and bake for 25 minutes. Remove the foil and bake for an additional 15 minutes until the top is golden brown and bubbly.",
+    "Let the stuffed shells cool for a few minutes before serving. Enjoy!",
+  ]
 ---
 
 If you're looking for a comforting and easy-to-make dinner recipe, look no further than Spinach and Ricotta Stuffed Shells. This Italian classic is as delicious as it is impressive, and it's sure to become a favorite in your household.
@@ -55,7 +73,7 @@ Here's what you'll need to make Spinach and Ricotta Stuffed Shells for 4 people:
 
 ## Vegetarian and Vegan Variations
 
-If you're vegetarian, this recipe is perfect as is! It's a great source of protein and nutrients, and it's a filling and satisfying meal. 
+If you're vegetarian, this recipe is perfect as is! It's a great source of protein and nutrients, and it's a filling and satisfying meal.
 
 If you're vegan, you can make a few simple substitutions to make this recipe plant-based. Swap out the ricotta cheese for a vegan ricotta or tofu ricotta, and use a vegan parmesan cheese. You can also make your own marinara sauce using canned tomatoes, olive oil, garlic, and basil.
 

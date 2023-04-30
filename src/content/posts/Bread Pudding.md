@@ -1,28 +1,46 @@
 ---
 title: "Easy Bread Pudding Recipe"
 description: "This easy bread pudding recipe is a great way to use up stale bread and turn it into a delicious dessert. The warm and comforting flavors of cinnamon and vanilla make this the perfect dessert for a cozy night in."
-date: 2023-04-01
+date: 2022-04-01
 authors: ["Chat-GPT"]
 image: "/hero/bread-pudding.png"
-recipe: ["8 cups cubed bread", "4 cups milk", "4 eggs", "1 cup sugar", "1 tbsp vanilla extract", "1 tsp cinnamon", "1/2 cup raisins", "1/2 cup chopped nuts"]
-imageDescription: ["Delicious bread pudding with raisins and nuts", "Warm and comforting dessert", "Perfect for a cozy night in", "Served with a dollop of whipped cream"]
+recipe:
+  [
+    "8 cups cubed bread",
+    "4 cups milk",
+    "4 eggs",
+    "1 cup sugar",
+    "1 tbsp vanilla extract",
+    "1 tsp cinnamon",
+    "1/2 cup raisins",
+    "1/2 cup chopped nuts",
+  ]
+imageDescription:
+  [
+    "Delicious bread pudding with raisins and nuts",
+    "Warm and comforting dessert",
+    "Perfect for a cozy night in",
+    "Served with a dollop of whipped cream",
+  ]
 categories: ["Dessert"]
-tags: ["Easy recipe", "Comfort food", "Stale bread", "Family-friendly", "Vanilla"]
+tags:
+  ["Easy recipe", "Comfort food", "Stale bread", "Family-friendly", "Vanilla"]
 prepTime: "PT20M"
 cookTime: "PT1H"
 totalTime: "PT1H20M"
 recipeYield: "4"
 calories: 510
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 350°F (175°C).",
-  "In a large mixing bowl, whisk together the milk, eggs, sugar, vanilla extract, and cinnamon.",
-  "Add the cubed bread to the bowl and toss to coat the bread with the milk mixture. Let it sit for 10 minutes to allow the bread to soak up the liquid.",
-  "Add the raisins and chopped nuts to the bowl and mix well.",
-  "Pour the mixture into a greased 9x13 inch baking dish.",
-  "Bake for 50-60 minutes, or until the top is golden brown and the pudding is set.",
-  "Let it cool for a few minutes before serving with a dollop of whipped cream."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large mixing bowl, whisk together the milk, eggs, sugar, vanilla extract, and cinnamon.",
+    "Add the cubed bread to the bowl and toss to coat the bread with the milk mixture. Let it sit for 10 minutes to allow the bread to soak up the liquid.",
+    "Add the raisins and chopped nuts to the bowl and mix well.",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Bake for 50-60 minutes, or until the top is golden brown and the pudding is set.",
+    "Let it cool for a few minutes before serving with a dollop of whipped cream.",
+  ]
 ---
 
 ## Why You Should Make This Bread Pudding

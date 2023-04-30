@@ -1,11 +1,28 @@
 ---
 title: "Strawberry Cake Recipe: A Sweet and Delicious Treat"
 description: "This strawberry cake recipe is a perfect way to showcase the sweet and juicy flavors of fresh strawberries. It's easy to make and perfect for any occasion, from birthdays to summer picnics. Follow this recipe and enjoy a delicious and moist cake that will leave everyone craving for more!"
-date: 2023-03-17
+date: 2022-03-17
 authors: ["Chat-GPT"]
 image: "/hero/strawberry-cake.png"
-recipe: ["225g unsalted butter", "300g granulated sugar", "4 large eggs", "1 tsp vanilla extract", "360g all-purpose flour", "4 tsp baking powder", "1/2 tsp salt", "240ml whole milk", "250g fresh strawberries"]
-imageDescription: ["A delicious strawberry cake with fresh whipped cream on top", "Slices of strawberry cake on a plate", "A close-up of a slice of strawberry cake with fresh strawberries on top", "A whole strawberry cake with fresh strawberries and whipped cream"]
+recipe:
+  [
+    "225g unsalted butter",
+    "300g granulated sugar",
+    "4 large eggs",
+    "1 tsp vanilla extract",
+    "360g all-purpose flour",
+    "4 tsp baking powder",
+    "1/2 tsp salt",
+    "240ml whole milk",
+    "250g fresh strawberries",
+  ]
+imageDescription:
+  [
+    "A delicious strawberry cake with fresh whipped cream on top",
+    "Slices of strawberry cake on a plate",
+    "A close-up of a slice of strawberry cake with fresh strawberries on top",
+    "A whole strawberry cake with fresh strawberries and whipped cream",
+  ]
 categories: ["cake"]
 tags: ["dessert", "strawberry", "baking", "summer", "party"]
 prepTime: "PT30M"
@@ -14,7 +31,16 @@ totalTime: "PT1H15M"
 recipeYield: "4"
 calories: 530
 recipeCuisine: "American"
-recipeInstructions: ["Preheat the oven to 350°F (180°C). Grease and flour two 9-inch cake pans.", "In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla extract.", "In a separate bowl, whisk together the flour, baking powder, and salt. Gradually add the dry ingredients to the butter mixture, alternating with the milk and mixing well after each addition.", "Fold in the chopped strawberries.", "Divide the batter evenly between the prepared cake pans and smooth the tops with a spatula. Bake for 40-45 minutes, or until a toothpick inserted into the center of the cakes comes out clean.", "Let the cakes cool in the pans for 10 minutes, then transfer them to a wire rack to cool completely.", "Serve the cake slices with fresh strawberries and whipped cream on top." ]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (180°C). Grease and flour two 9-inch cake pans.",
+    "In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla extract.",
+    "In a separate bowl, whisk together the flour, baking powder, and salt. Gradually add the dry ingredients to the butter mixture, alternating with the milk and mixing well after each addition.",
+    "Fold in the chopped strawberries.",
+    "Divide the batter evenly between the prepared cake pans and smooth the tops with a spatula. Bake for 40-45 minutes, or until a toothpick inserted into the center of the cakes comes out clean.",
+    "Let the cakes cool in the pans for 10 minutes, then transfer them to a wire rack to cool completely.",
+    "Serve the cake slices with fresh strawberries and whipped cream on top.",
+  ]
 ---
 
 # Why Strawberry Cake is a Great Idea
@@ -57,7 +83,7 @@ To make this recipe vegan, substitute the butter with vegan margarine and the eg
 
 ## Gluten-Free Strawberry Cake
 
-To make this recipe gluten-free, use a gluten-free flour blend instead of all-purpose flour. Make sure that the baking powder is gluten-free as well. 
+To make this recipe gluten-free, use a gluten-free flour blend instead of all-purpose flour. Make sure that the baking powder is gluten-free as well.
 
 ## Strawberry Cupcakes
 

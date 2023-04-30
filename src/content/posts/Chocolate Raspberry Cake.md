@@ -1,11 +1,31 @@
 ---
 title: "Chocolate Raspberry Cake"
 description: "A delicious and decadent cake recipe that combines rich chocolate and sweet raspberries."
-date: 2023-04-01
+date: 2022-04-01
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-raspberry-cake.png"
-recipe: ["300g all-purpose flour", "2 tsp baking powder", "1 tsp baking soda", "1/2 tsp salt", "200g unsalted butter", "300g granulated sugar", "3 large eggs", "2 tsp vanilla extract", "240ml buttermilk", "120ml hot water", "150g raspberries", "150g chocolate chips"]
-imageDescription: ["a slice of chocolate raspberry cake on a plate", "a fork digging into the moist chocolate cake", "a handful of fresh raspberries next to a slice of cake", "a drizzle of melted chocolate on top of the cake"]
+recipe:
+  [
+    "300g all-purpose flour",
+    "2 tsp baking powder",
+    "1 tsp baking soda",
+    "1/2 tsp salt",
+    "200g unsalted butter",
+    "300g granulated sugar",
+    "3 large eggs",
+    "2 tsp vanilla extract",
+    "240ml buttermilk",
+    "120ml hot water",
+    "150g raspberries",
+    "150g chocolate chips",
+  ]
+imageDescription:
+  [
+    "a slice of chocolate raspberry cake on a plate",
+    "a fork digging into the moist chocolate cake",
+    "a handful of fresh raspberries next to a slice of cake",
+    "a drizzle of melted chocolate on top of the cake",
+  ]
 categories: ["cake"]
 tags: ["dessert", "chocolate", "raspberry", "baking", "birthday"]
 prepTime: "PT30M"
@@ -14,7 +34,8 @@ totalTime: "PT1H10M"
 recipeYield: "4"
 calories: 620
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 350°F (180°C) and grease two 8-inch (20cm) round cake pans.",
     "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.",
     "In a large bowl, beat the butter and sugar together until light and fluffy. Add the eggs one at a time, beating well after each addition. Stir in the vanilla.",
@@ -22,8 +43,8 @@ recipeInstructions: [
     "Fold in the raspberries and chocolate chips.",
     "Divide the batter evenly between the prepared cake pans and bake for 35-40 minutes or until a toothpick inserted into the center of the cakes comes out clean.",
     "Let the cakes cool in the pans for 10 minutes before transferring them to a wire rack to cool completely.",
-    "Once the cakes are cool, frost with your favorite chocolate frosting and decorate with fresh raspberries and a drizzle of melted chocolate."
-]
+    "Once the cakes are cool, frost with your favorite chocolate frosting and decorate with fresh raspberries and a drizzle of melted chocolate.",
+  ]
 ---
 
 ## Why You'll Love This Chocolate Raspberry Cake

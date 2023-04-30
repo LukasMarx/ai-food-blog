@@ -1,11 +1,26 @@
 ---
 title: "Pistachio Cake"
 description: "This easy-to-make pistachio cake is a perfect dessert for any occasion. It's moist, fluffy, and bursting with nutty flavor!"
-date: 2023-10-20
+date: 2022-10-20
 authors: ["Chat-GPT"]
 image: "/hero/pistachio-cake.png"
-recipe: ["1 1/2 cups (300g) granulated sugar", "1 cup (226g) unsalted butter, at room temperature", "4 large eggs", "1 tsp vanilla extract", "2 cups (240g) all-purpose flour", "2 tsp baking powder", "1/2 tsp baking soda", "1/2 tsp salt", "1 cup (240ml) milk", "1/2 cup (65g) shelled pistachios, chopped"]
-imageDescription: ["Pistachio cake topped with chopped pistachios and dusted with powdered sugar"]
+recipe:
+  [
+    "1 1/2 cups (300g) granulated sugar",
+    "1 cup (226g) unsalted butter, at room temperature",
+    "4 large eggs",
+    "1 tsp vanilla extract",
+    "2 cups (240g) all-purpose flour",
+    "2 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/2 tsp salt",
+    "1 cup (240ml) milk",
+    "1/2 cup (65g) shelled pistachios, chopped",
+  ]
+imageDescription:
+  [
+    "Pistachio cake topped with chopped pistachios and dusted with powdered sugar",
+  ]
 categories: ["dessert"]
 tags: ["cake", "pistachio", "nutty", "fluffy", "moist"]
 prepTime: "PT20M"
@@ -14,7 +29,14 @@ totalTime: "PT1H10M"
 recipeYield: "4"
 calories: 580
 recipeCuisine: "American"
-recipeInstructions: ["Preheat oven to 350°F (175°C). Grease and flour a 9-inch (23cm) cake pan.", "In a large bowl, cream together the sugar and butter until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla extract.", "In a separate bowl, whisk together the flour, baking powder, baking soda, and salt. Gradually add the dry ingredients to the creamed mixture, alternating with the milk, and mix until just combined.", "Fold in the chopped pistachios. Pour the batter into the prepared pan and bake for 45-50 minutes or until a toothpick inserted into the center comes out clean.", "Allow the cake to cool in the pan for 10 minutes before removing it to a wire rack to cool completely. Dust with powdered sugar and top with additional chopped pistachios, if desired." ]
+recipeInstructions:
+  [
+    "Preheat oven to 350°F (175°C). Grease and flour a 9-inch (23cm) cake pan.",
+    "In a large bowl, cream together the sugar and butter until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla extract.",
+    "In a separate bowl, whisk together the flour, baking powder, baking soda, and salt. Gradually add the dry ingredients to the creamed mixture, alternating with the milk, and mix until just combined.",
+    "Fold in the chopped pistachios. Pour the batter into the prepared pan and bake for 45-50 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cake to cool in the pan for 10 minutes before removing it to a wire rack to cool completely. Dust with powdered sugar and top with additional chopped pistachios, if desired.",
+  ]
 ---
 
 ## Pistachio Cake

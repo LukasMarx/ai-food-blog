@@ -1,11 +1,26 @@
 ---
 title: "Easy Chicken Salad Recipe"
 description: "Learn how to make a delicious and easy chicken salad with this recipe. Perfect for a quick and healthy lunch or dinner!"
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/chicken-salad.png"
-recipe: ["2 boneless, skinless chicken breasts", "1/2 cup mayonnaise", "1/4 cup diced celery", "1/4 cup diced red onion", "1 tbsp dijon mustard", "1 tbsp lemon juice", "salt and pepper to taste"]
-imageDescription: ["chicken salad on a plate", "creamy chicken salad", "healthy chicken salad", "easy chicken salad recipe"]
+recipe:
+  [
+    "2 boneless, skinless chicken breasts",
+    "1/2 cup mayonnaise",
+    "1/4 cup diced celery",
+    "1/4 cup diced red onion",
+    "1 tbsp dijon mustard",
+    "1 tbsp lemon juice",
+    "salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "chicken salad on a plate",
+    "creamy chicken salad",
+    "healthy chicken salad",
+    "easy chicken salad recipe",
+  ]
 categories: ["salad"]
 tags: ["lunch", "dinner", "chicken", "healthy", "easy"]
 prepTime: "PT20M"
@@ -14,8 +29,13 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 280
 recipeCuisine: "American"
-recipeInstructions: ["Preheat the oven to 375°F. Place the chicken breasts on a baking sheet and season with salt and pepper. Bake for 20-25 minutes, or until cooked through. Let the chicken cool for 10 minutes, then dice into small pieces.", "In a large bowl, whisk together the mayonnaise, dijon mustard, lemon juice, salt, and pepper. Add the diced chicken, celery, and red onion to the bowl and stir until well combined.", "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or until ready to serve.", "Serve the chicken salad on a bed of lettuce or with your favorite crackers or bread."]
-
+recipeInstructions:
+  [
+    "Preheat the oven to 375°F. Place the chicken breasts on a baking sheet and season with salt and pepper. Bake for 20-25 minutes, or until cooked through. Let the chicken cool for 10 minutes, then dice into small pieces.",
+    "In a large bowl, whisk together the mayonnaise, dijon mustard, lemon juice, salt, and pepper. Add the diced chicken, celery, and red onion to the bowl and stir until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or until ready to serve.",
+    "Serve the chicken salad on a bed of lettuce or with your favorite crackers or bread.",
+  ]
 ---
 
 Are you looking for a quick and easy lunch or dinner idea? Look no further than this delicious and healthy chicken salad recipe! Packed with protein and flavor, this chicken salad is perfect for any occasion. Plus, it's easy to make and can be prepared in advance for a quick and convenient meal.

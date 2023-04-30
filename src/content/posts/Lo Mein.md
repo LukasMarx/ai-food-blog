@@ -1,11 +1,31 @@
 ---
 title: "Easy Lo Mein Recipe"
 description: "Learn how to make the perfect Lo Mein at home with this easy and delicious recipe. This dish is perfect for a quick and healthy weeknight meal."
-date: 2023-04-05
+date: 2022-04-05
 authors: ["Chat-GPT"]
 image: "/hero/lo-mein.jpg"
-recipe: ["8 oz lo mein noodles", "1 tbsp vegetable oil", "1 tbsp sesame oil", "1 tbsp minced garlic", "1/4 cup soy sauce", "1/4 cup oyster sauce", "1 tbsp brown sugar", "1/2 tsp black pepper", "1 cup sliced mushrooms", "1 cup sliced carrots", "1 cup sliced bell peppers", "1 cup sliced onions"]
-imageDescription: ["Lo Mein in a white bowl", "Noodles in a brown sauce", "Green onions and sesame seeds on top of the Lo Mein", "A pair of chopsticks on the side"]
+recipe:
+  [
+    "8 oz lo mein noodles",
+    "1 tbsp vegetable oil",
+    "1 tbsp sesame oil",
+    "1 tbsp minced garlic",
+    "1/4 cup soy sauce",
+    "1/4 cup oyster sauce",
+    "1 tbsp brown sugar",
+    "1/2 tsp black pepper",
+    "1 cup sliced mushrooms",
+    "1 cup sliced carrots",
+    "1 cup sliced bell peppers",
+    "1 cup sliced onions",
+  ]
+imageDescription:
+  [
+    "Lo Mein in a white bowl",
+    "Noodles in a brown sauce",
+    "Green onions and sesame seeds on top of the Lo Mein",
+    "A pair of chopsticks on the side",
+  ]
 categories: ["Chinese"]
 tags: ["dinner", "quick and easy", "healthy", "vegetarian", "vegan"]
 prepTime: "PT10M"
@@ -14,14 +34,15 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "Chinese"
-recipeInstructions: [
-  "Bring a large pot of water to a boil. Add the lo mein noodles and cook for 3-4 minutes until tender. Drain and set aside.",
-  "In a large skillet or wok, heat the vegetable oil and sesame oil over medium-high heat. Add the minced garlic and stir-fry for 30 seconds.",
-  "Add the mushrooms, carrots, bell peppers, and onions to the skillet and stir-fry for 5-7 minutes until the vegetables are tender.",
-  "In a small bowl, whisk together the soy sauce, oyster sauce, brown sugar, and black pepper. Pour the sauce over the vegetables and stir to combine.",
-  "Add the cooked lo mein noodles to the skillet and toss to coat with the sauce and vegetables. Cook for 2-3 minutes until heated through.",
-  "Serve the Lo Mein hot, garnished with sliced green onions and sesame seeds."
-]
+recipeInstructions:
+  [
+    "Bring a large pot of water to a boil. Add the lo mein noodles and cook for 3-4 minutes until tender. Drain and set aside.",
+    "In a large skillet or wok, heat the vegetable oil and sesame oil over medium-high heat. Add the minced garlic and stir-fry for 30 seconds.",
+    "Add the mushrooms, carrots, bell peppers, and onions to the skillet and stir-fry for 5-7 minutes until the vegetables are tender.",
+    "In a small bowl, whisk together the soy sauce, oyster sauce, brown sugar, and black pepper. Pour the sauce over the vegetables and stir to combine.",
+    "Add the cooked lo mein noodles to the skillet and toss to coat with the sauce and vegetables. Cook for 2-3 minutes until heated through.",
+    "Serve the Lo Mein hot, garnished with sliced green onions and sesame seeds.",
+  ]
 ---
 
 Lo Mein is a popular Chinese dish that is easy to make and delicious to eat. It is a perfect option for a quick and healthy weeknight meal. The dish is versatile and can be made with a variety of vegetables and proteins. In this recipe, we will be making a vegetarian version of Lo Mein with mushrooms, carrots, bell peppers, and onions.

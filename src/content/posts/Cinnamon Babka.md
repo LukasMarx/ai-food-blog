@@ -1,11 +1,28 @@
 ---
 title: "Cinnamon Babka Recipe"
 description: "Learn how to make a delicious Cinnamon Babka with this easy recipe. Perfect for breakfast or dessert, this babka is sure to impress!"
-date: 2023-07-05
+date: 2022-07-05
 authors: ["Chat-GPT"]
 image: "/hero/cinnamon-babka.png"
-recipe: ["500g all-purpose flour", "7g active dry yeast", "100g sugar", "1 tsp salt", "3 eggs", "250ml milk", "120g unsalted butter", "1 tbsp cinnamon", "100g brown sugar"]
-imageDescription: ["slice of cinnamon babka", "swirls of cinnamon", "golden brown crust", "soft and fluffy bread"]
+recipe:
+  [
+    "500g all-purpose flour",
+    "7g active dry yeast",
+    "100g sugar",
+    "1 tsp salt",
+    "3 eggs",
+    "250ml milk",
+    "120g unsalted butter",
+    "1 tbsp cinnamon",
+    "100g brown sugar",
+  ]
+imageDescription:
+  [
+    "slice of cinnamon babka",
+    "swirls of cinnamon",
+    "golden brown crust",
+    "soft and fluffy bread",
+  ]
 categories: ["breakfast"]
 tags: ["baking", "dessert", "sweet", "cinnamon", "yeast"]
 prepTime: "PT2H"
@@ -14,7 +31,8 @@ totalTime: "PT2H45M"
 recipeYield: "4"
 calories: 480
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "In a large bowl, mix together flour, yeast, sugar, and salt.",
     "In a separate bowl, whisk together eggs and milk. Pour into the flour mixture and stir until a dough forms.",
     "Knead the dough for 10 minutes until it becomes smooth and elastic.",
@@ -27,8 +45,8 @@ recipeInstructions: [
     "Cover the pan with a damp cloth and let it rise for another 30 minutes.",
     "Preheat oven to 350°F (180°C).",
     "Bake for 45 minutes or until the crust is golden brown.",
-    "Let it cool for 10 minutes before slicing and serving."
-]
+    "Let it cool for 10 minutes before slicing and serving.",
+  ]
 ---
 
 ## Introduction

@@ -1,11 +1,24 @@
 ---
 title: "Homemade Gelato: A Creamy and Delicious Italian Dessert"
 description: "Learn how to make homemade gelato with this easy recipe. Perfect for a hot summer day, this creamy and delicious Italian dessert will satisfy your sweet tooth and impress your guests."
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/gelato.png"
-recipe: ["500ml whole milk", "200g heavy cream", "150g sugar", "4 egg yolks", "1 tsp vanilla extract"]
-imageDescription: ["scoop of gelato in a cone", "gelato in a cup with toppings", "gelato being scooped with a spoon", "various flavors of gelato in a display case"]
+recipe:
+  [
+    "500ml whole milk",
+    "200g heavy cream",
+    "150g sugar",
+    "4 egg yolks",
+    "1 tsp vanilla extract",
+  ]
+imageDescription:
+  [
+    "scoop of gelato in a cone",
+    "gelato in a cup with toppings",
+    "gelato being scooped with a spoon",
+    "various flavors of gelato in a display case",
+  ]
 categories: ["dessert"]
 tags: ["italian", "summer", "ice cream", "easy", "delicious"]
 prepTime: "PT20M"
@@ -14,7 +27,8 @@ totalTime: "PT6H30M"
 recipeYield: "4"
 calories: 400
 recipeCuisine: "Italian"
-recipeInstructions: [
+recipeInstructions:
+  [
     "In a medium saucepan, heat the milk and heavy cream over medium heat until it starts to simmer.",
     "In a separate bowl, whisk together the sugar and egg yolks until pale and creamy.",
     "Slowly pour the hot milk mixture into the bowl with the egg yolks, whisking constantly.",
@@ -22,8 +36,8 @@ recipeInstructions: [
     "Remove from heat and stir in the vanilla extract.",
     "Let the mixture cool to room temperature, then cover and refrigerate for at least 6 hours or overnight.",
     "Churn the mixture in an ice cream maker according to the manufacturer's instructions.",
-    "Transfer the gelato to a container and freeze for at least 2 hours before serving."
-]
+    "Transfer the gelato to a container and freeze for at least 2 hours before serving.",
+  ]
 ---
 
 Gelato is a popular Italian frozen dessert that is similar to ice cream but has a lower fat content and a creamier texture. Unlike ice cream, which is churned quickly to incorporate air and increase its volume, gelato is churned slowly to give it a denser texture and a more intense flavor. Gelato is also served at a slightly warmer temperature than ice cream, which makes it softer and easier to scoop.

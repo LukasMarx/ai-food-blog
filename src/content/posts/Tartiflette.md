@@ -1,7 +1,7 @@
 ---
 title: "Tartiflette: The Classic French Potato and Cheese Dish"
 description: "Learn how to make the classic French dish, Tartiflette, with this easy-to-follow recipe. This hearty and comforting dish is perfect for cold evenings and is sure to be a hit with your family and friends!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/tartiflette.png"
 recipe:

@@ -1,11 +1,31 @@
 ---
 title: "Spaghetti Bolognese: A Classic Italian Dish"
 description: "Learn how to make the perfect Spaghetti Bolognese with this easy recipe. This classic Italian dish is perfect for a weeknight dinner and is sure to be a crowd-pleaser."
-date: 2023-07-05
+date: 2022-07-05
 authors: ["Chat-GPT"]
 image: "/hero/spaghetti-bolognese.png"
-recipe: ["400g spaghetti", "500g ground beef", "1 onion", "2 cloves of garlic", "1 tbsp olive oil", "400g canned tomatoes", "2 tbsp tomato paste", "1 tsp dried oregano", "1 tsp dried basil", "1 bay leaf", "Salt and pepper to taste", "Parmesan cheese for serving"]
-imageDescription: ["Spaghetti Bolognese on a plate", "Pasta with tomato sauce", "Ground beef with tomato sauce", "Italian cuisine"]
+recipe:
+  [
+    "400g spaghetti",
+    "500g ground beef",
+    "1 onion",
+    "2 cloves of garlic",
+    "1 tbsp olive oil",
+    "400g canned tomatoes",
+    "2 tbsp tomato paste",
+    "1 tsp dried oregano",
+    "1 tsp dried basil",
+    "1 bay leaf",
+    "Salt and pepper to taste",
+    "Parmesan cheese for serving",
+  ]
+imageDescription:
+  [
+    "Spaghetti Bolognese on a plate",
+    "Pasta with tomato sauce",
+    "Ground beef with tomato sauce",
+    "Italian cuisine",
+  ]
 categories: ["pasta"]
 tags: ["dinner", "Italian", "meat", "easy", "weeknight"]
 prepTime: "PT10M"
@@ -14,17 +34,18 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 670
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "In a large pot, bring water to a boil. Add salt and spaghetti and cook according to package instructions.",
-  "In a large pan, heat olive oil over medium heat. Add chopped onion and cook until translucent.",
-  "Add minced garlic and cook for 1 minute.",
-  "Add ground beef and cook until browned.",
-  "Add canned tomatoes, tomato paste, dried oregano, dried basil, bay leaf, salt, and pepper.",
-  "Stir well and bring to a simmer. Cover and cook for 20 minutes.",
-  "Remove the bay leaf and taste the sauce. Adjust the seasoning as needed.",
-  "Drain the spaghetti and add it to the pan with the sauce. Toss well to coat the pasta with the sauce.",
-  "Serve hot with grated Parmesan cheese."
-]
+recipeInstructions:
+  [
+    "In a large pot, bring water to a boil. Add salt and spaghetti and cook according to package instructions.",
+    "In a large pan, heat olive oil over medium heat. Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add ground beef and cook until browned.",
+    "Add canned tomatoes, tomato paste, dried oregano, dried basil, bay leaf, salt, and pepper.",
+    "Stir well and bring to a simmer. Cover and cook for 20 minutes.",
+    "Remove the bay leaf and taste the sauce. Adjust the seasoning as needed.",
+    "Drain the spaghetti and add it to the pan with the sauce. Toss well to coat the pasta with the sauce.",
+    "Serve hot with grated Parmesan cheese.",
+  ]
 ---
 
 ## Introduction
@@ -68,7 +89,7 @@ Spaghetti Bolognese is a classic Italian dish that has become a favourite all ar
 
 ## Vegetarian/Vegan Option
 
-If you are vegetarian or vegan, you can substitute the ground beef with plant-based meat crumbles or chopped mushrooms. You can also use vegetable broth instead of beef broth to make the sauce. 
+If you are vegetarian or vegan, you can substitute the ground beef with plant-based meat crumbles or chopped mushrooms. You can also use vegetable broth instead of beef broth to make the sauce.
 
 ## Gluten-Free Option
 

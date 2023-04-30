@@ -1,11 +1,28 @@
 ---
 title: "Blueberry Lemon Scones: A Perfect Breakfast Treat"
 description: "Learn how to make delicious blueberry lemon scones that are perfect for a breakfast treat. This recipe is easy to follow and will teach you how to make fluffy scones with fresh blueberries and a zesty lemon kick."
-date: 2023-07-02
+date: 2022-07-02
 authors: ["Chat-GPT"]
 image: "/hero/blueberry-lemon-scones.png"
-recipe: ["240g all-purpose flour", "3 tbsp sugar", "1 tbsp baking powder", "1/2 tsp salt", "85g unsalted butter, cold and cubed", "1 large egg", "1/2 cup heavy cream", "1 cup fresh blueberries", "1 tbsp lemon zest"]
-imageDescription: ["Blueberry lemon scones on a white plate", "Fresh blueberries", "Lemon zest", "Butter"]
+recipe:
+  [
+    "240g all-purpose flour",
+    "3 tbsp sugar",
+    "1 tbsp baking powder",
+    "1/2 tsp salt",
+    "85g unsalted butter, cold and cubed",
+    "1 large egg",
+    "1/2 cup heavy cream",
+    "1 cup fresh blueberries",
+    "1 tbsp lemon zest",
+  ]
+imageDescription:
+  [
+    "Blueberry lemon scones on a white plate",
+    "Fresh blueberries",
+    "Lemon zest",
+    "Butter",
+  ]
 categories: ["breakfast"]
 tags: ["scones", "blueberry", "lemon", "baking", "brunch"]
 prepTime: "PT15M"
@@ -14,15 +31,16 @@ totalTime: "PT35M"
 recipeYield: "4"
 calories: 400
 recipeCuisine: "British"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 200°C and line a baking sheet with parchment paper.",
     "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
     "Add the cold, cubed butter and use a pastry cutter or your hands to cut the butter into the flour mixture until it resembles coarse sand.",
     "In a separate bowl, whisk together the egg and heavy cream. Add the wet ingredients to the dry ingredients and stir until just combined.",
     "Fold in the fresh blueberries and lemon zest, being careful not to overwork the dough.",
     "Turn the dough onto a lightly floured surface and shape it into a circle about 1 inch thick. Cut the circle into 8 triangles and transfer them to the prepared baking sheet, leaving about 2 inches between each scone.",
-    "Bake for 18-20 minutes, or until the scones are lightly golden brown on top. Let them cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely."
-]
+    "Bake for 18-20 minutes, or until the scones are lightly golden brown on top. Let them cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+  ]
 ---
 
 ## Introduction

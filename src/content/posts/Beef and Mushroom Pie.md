@@ -1,11 +1,32 @@
 ---
 title: "Beef and Mushroom Pie Recipe"
 description: "Learn how to make a delicious beef and mushroom pie that is perfect for dinner or lunch. This recipe is easy to follow and uses simple ingredients that you probably already have in your kitchen. "
-date: 2023-11-12
+date: 2022-11-12
 authors: ["Chat-GPT"]
 image: "/hero/beef-and-mushroom-pie.jpg"
-recipe: ["1 lb (450g) beef, cubed", "1 onion, chopped", "2 cloves garlic, minced", "8 oz (225g) mushrooms, sliced", "2 tbsp (30g) butter", "2 tbsp (20g) all-purpose flour", "1 cup (240ml) beef broth", "1 tsp (5g) salt", "1/2 tsp (2g) black pepper", "1/2 tsp (1g) dried thyme", "1/2 tsp (1g) dried rosemary", "1 sheet puff pastry", "1 egg, beaten"]
-imageDescription: ["beef and mushroom pie on a plate", "flaky crust", "aromatic filling", "golden brown color"]
+recipe:
+  [
+    "1 lb (450g) beef, cubed",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "8 oz (225g) mushrooms, sliced",
+    "2 tbsp (30g) butter",
+    "2 tbsp (20g) all-purpose flour",
+    "1 cup (240ml) beef broth",
+    "1 tsp (5g) salt",
+    "1/2 tsp (2g) black pepper",
+    "1/2 tsp (1g) dried thyme",
+    "1/2 tsp (1g) dried rosemary",
+    "1 sheet puff pastry",
+    "1 egg, beaten",
+  ]
+imageDescription:
+  [
+    "beef and mushroom pie on a plate",
+    "flaky crust",
+    "aromatic filling",
+    "golden brown color",
+  ]
 categories: ["pie"]
 tags: ["dinner", "lunch", "comfort food", "easy", "family-friendly"]
 prepTime: "PT30M"
@@ -14,21 +35,22 @@ totalTime: "PT1H30M"
 recipeYield: "4"
 calories: 520
 recipeCuisine: "British"
-recipeInstructions: [
-  "Preheat the oven to 400°F (200°C).",
-  "In a large skillet, heat the butter over medium-high heat.",
-  "Add the beef and cook until browned on all sides, about 5 minutes. Remove the beef from the skillet and set aside.",
-  "Add the onion and garlic to the skillet and cook until softened, about 3 minutes.",
-  "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
-  "Add the flour, salt, pepper, thyme, and rosemary to the skillet and stir to combine.",
-  "Slowly pour in the beef broth, stirring constantly, and bring to a simmer.",
-  "Add the beef back to the skillet and stir to combine with the mushrooms and sauce.",
-  "Roll out the puff pastry on a lightly floured surface and cut into 4 equal squares.",
-  "Divide the beef and mushroom mixture among the squares, leaving a 1/2 inch (1cm) border around the edges.",
-  "Brush the edges of the pastry with the beaten egg and fold over to seal the edges.",
-  "Brush the tops of the pastry with the remaining egg and cut a small slit in the center of each pie to allow steam to escape.",
-  "Bake for 25-30 minutes or until the pastry is golden brown and puffed.",
-  "Let cool for a few minutes before serving."
+recipeInstructions:
+  [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, heat the butter over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove the beef from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the flour, salt, pepper, thyme, and rosemary to the skillet and stir to combine.",
+    "Slowly pour in the beef broth, stirring constantly, and bring to a simmer.",
+    "Add the beef back to the skillet and stir to combine with the mushrooms and sauce.",
+    "Roll out the puff pastry on a lightly floured surface and cut into 4 equal squares.",
+    "Divide the beef and mushroom mixture among the squares, leaving a 1/2 inch (1cm) border around the edges.",
+    "Brush the edges of the pastry with the beaten egg and fold over to seal the edges.",
+    "Brush the tops of the pastry with the remaining egg and cut a small slit in the center of each pie to allow steam to escape.",
+    "Bake for 25-30 minutes or until the pastry is golden brown and puffed.",
+    "Let cool for a few minutes before serving.",
   ]
 ---
 

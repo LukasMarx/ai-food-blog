@@ -1,7 +1,7 @@
 ---
 title: "Enchiladas Verdes"
 description: "Learn how to make delicious Enchiladas Verdes with this easy recipe. These enchiladas are filled with chicken and topped with a tangy green sauce and cheese."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/enchiladas-verdes.png"
 recipe:

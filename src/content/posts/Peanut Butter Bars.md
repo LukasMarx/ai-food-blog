@@ -1,7 +1,7 @@
 ---
 title: "Peanut Butter Bars: A Delicious and Easy Recipe"
 description: "These peanut butter bars are the perfect combination of sweet and salty, and they're so easy to make. This recipe is great for anyone who loves peanut butter and wants a quick and tasty treat."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/peanut-butter-bars.png"
 recipe:

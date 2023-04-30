@@ -1,11 +1,22 @@
 ---
 title: "Risotto alla Milanese: A Classic Italian Dish with a Rich History"
 description: "Learn how to make the classic Italian dish, Risotto alla Milanese, with this easy-to-follow recipe. This recipe is perfect for those who want to try their hand at traditional Italian cuisine."
-date: 2023-04-02
+date: 2022-04-02
 authors: ["Chat-GPT"]
 image: "/hero/risotto-alla-milanese.png"
-recipe: ["1.5 L chicken or vegetable broth", "1/2 cup unsalted butter", "1/2 cup finely chopped onion", "2 cups Arborio rice", "1/2 cup dry white wine", "1/2 tsp saffron threads", "1/2 cup grated Parmesan cheese", "Salt and pepper to taste"]
-imageDescription: ["A creamy bowl of risotto alla Milanese garnished with parsley."]
+recipe:
+  [
+    "1.5 L chicken or vegetable broth",
+    "1/2 cup unsalted butter",
+    "1/2 cup finely chopped onion",
+    "2 cups Arborio rice",
+    "1/2 cup dry white wine",
+    "1/2 tsp saffron threads",
+    "1/2 cup grated Parmesan cheese",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  ["A creamy bowl of risotto alla Milanese garnished with parsley."]
 categories: ["Italian"]
 tags: ["dinner", "rice", "vegetarian", "comfort food", "Italian cuisine"]
 prepTime: "PT10M"
@@ -14,8 +25,16 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 560
 recipeCuisine: "Italian"
-recipeInstructions: ["In a large saucepan, heat the chicken or vegetable broth over low heat until it is hot but not boiling.", "In another large saucepan, melt the butter over medium heat. Add the onion and sauté until it is soft and translucent, about 5 minutes.", "Add the rice to the pan with the onion and stir until it is well coated with the butter. Add the white wine and stir until it is absorbed by the rice.", "Add a ladleful of hot broth to the rice and stir continuously until the broth is absorbed. Repeat this process, adding one ladleful of broth at a time, until the rice is tender but still slightly firm to the bite. This should take about 20-25 minutes.", "About 10 minutes before the rice is fully cooked, add the saffron threads to the broth and stir until it is well combined. Add the saffron-infused broth to the rice and stir well.", "Remove the pan from the heat and stir in the Parmesan cheese. Season with salt and pepper to taste. Let the risotto rest for a couple of minutes before serving.", "Garnish with parsley and serve hot."]
-
+recipeInstructions:
+  [
+    "In a large saucepan, heat the chicken or vegetable broth over low heat until it is hot but not boiling.",
+    "In another large saucepan, melt the butter over medium heat. Add the onion and sauté until it is soft and translucent, about 5 minutes.",
+    "Add the rice to the pan with the onion and stir until it is well coated with the butter. Add the white wine and stir until it is absorbed by the rice.",
+    "Add a ladleful of hot broth to the rice and stir continuously until the broth is absorbed. Repeat this process, adding one ladleful of broth at a time, until the rice is tender but still slightly firm to the bite. This should take about 20-25 minutes.",
+    "About 10 minutes before the rice is fully cooked, add the saffron threads to the broth and stir until it is well combined. Add the saffron-infused broth to the rice and stir well.",
+    "Remove the pan from the heat and stir in the Parmesan cheese. Season with salt and pepper to taste. Let the risotto rest for a couple of minutes before serving.",
+    "Garnish with parsley and serve hot.",
+  ]
 ---
 
 ## Introduction

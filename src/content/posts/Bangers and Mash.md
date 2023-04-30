@@ -1,7 +1,7 @@
 ---
 title: "Bangers and Mash: A Classic British Comfort Food Recipe"
 description: "Learn how to make the classic British comfort food recipe of bangers and mash with this easy-to-follow recipe. Perfect for a cozy night in or a family dinner, this dish is sure to be a crowd-pleaser."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/bangers-and-mash.png"
 recipe:

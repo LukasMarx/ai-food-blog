@@ -1,11 +1,26 @@
 ---
 title: "Biscotti Recipe: An Italian Classic"
 description: "Learn how to make Biscotti, the classic Italian twice-baked cookies, with this easy and delicious recipe. Perfect for dunking in coffee or tea, these crunchy cookies are sure to become a new favorite in your house."
-date: 2023-07-02
+date: 2022-07-02
 authors: ["Chat-GPT"]
 image: "/hero/biscotti.png"
-recipe: ["350g all-purpose flour", "1 tsp baking powder", "1/2 tsp salt", "200g sugar", "3 eggs", "1 tsp vanilla extract", "100g chopped almonds"]
-imageDescription: ["golden and crunchy biscotti", "dunked in coffee", "on a plate", "served with almonds"]
+recipe:
+  [
+    "350g all-purpose flour",
+    "1 tsp baking powder",
+    "1/2 tsp salt",
+    "200g sugar",
+    "3 eggs",
+    "1 tsp vanilla extract",
+    "100g chopped almonds",
+  ]
+imageDescription:
+  [
+    "golden and crunchy biscotti",
+    "dunked in coffee",
+    "on a plate",
+    "served with almonds",
+  ]
 categories: ["cookies"]
 tags: ["dessert", "coffee", "tea", "italian", "almonds"]
 prepTime: "PT20M"
@@ -14,20 +29,21 @@ totalTime: "PT1H5M"
 recipeYield: "4"
 calories: 236
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "Preheat the oven to 180°C and line a baking sheet with parchment paper.",
-  "In a large bowl, mix together the flour, baking powder, and salt.",
-  "In another bowl, beat together the sugar, eggs, and vanilla extract until light and fluffy.",
-  "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
-  "Stir in the chopped almonds.",
-  "Divide the dough in half and shape each half into a log (about 4 cm wide).",
-  "Place the logs onto the prepared baking sheet and flatten them slightly.",
-  "Bake for 25-30 minutes, or until golden brown and firm to the touch.",
-  "Remove from the oven and let cool for 10 minutes.",
-  "Using a sharp knife, cut the logs into slices (about 1 cm thick).",
-  "Place the slices onto the baking sheet and bake for another 10-15 minutes, or until golden brown and crunchy.",
-  "Remove from the oven and let cool completely before serving."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 180°C and line a baking sheet with parchment paper.",
+    "In a large bowl, mix together the flour, baking powder, and salt.",
+    "In another bowl, beat together the sugar, eggs, and vanilla extract until light and fluffy.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Stir in the chopped almonds.",
+    "Divide the dough in half and shape each half into a log (about 4 cm wide).",
+    "Place the logs onto the prepared baking sheet and flatten them slightly.",
+    "Bake for 25-30 minutes, or until golden brown and firm to the touch.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Using a sharp knife, cut the logs into slices (about 1 cm thick).",
+    "Place the slices onto the baking sheet and bake for another 10-15 minutes, or until golden brown and crunchy.",
+    "Remove from the oven and let cool completely before serving.",
+  ]
 ---
 
 ## Introduction

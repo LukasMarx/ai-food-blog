@@ -1,11 +1,27 @@
 ---
 title: "Baba Ghanoush Recipe: A Delicious Middle Eastern Dip"
 description: "Learn how to make Baba Ghanoush, a delicious Middle Eastern dip that's perfect for parties or as a healthy snack. This recipe is easy to follow and uses simple ingredients that you can find in your local grocery store."
-date: 2023-04-03
+date: 2022-04-03
 authors: ["Chat-GPT"]
 image: "/hero/baba-ghanoush.png"
-recipe: ["2 large eggplants", "2 cloves garlic, minced", "1/4 cup tahini", "1/4 cup lemon juice", "1/4 cup olive oil", "1/2 tsp salt", "1/4 tsp paprika", "1 tbsp chopped parsley"]
-imageDescription: ["Baba Ghanoush in a bowl", "Eggplant dip with olive oil", "Middle Eastern appetizer", "Healthy snack option"]
+recipe:
+  [
+    "2 large eggplants",
+    "2 cloves garlic, minced",
+    "1/4 cup tahini",
+    "1/4 cup lemon juice",
+    "1/4 cup olive oil",
+    "1/2 tsp salt",
+    "1/4 tsp paprika",
+    "1 tbsp chopped parsley",
+  ]
+imageDescription:
+  [
+    "Baba Ghanoush in a bowl",
+    "Eggplant dip with olive oil",
+    "Middle Eastern appetizer",
+    "Healthy snack option",
+  ]
 categories: ["appetizers"]
 tags: ["vegetarian", "vegan", "gluten-free", "healthy", "easy"]
 prepTime: "PT10M"
@@ -14,7 +30,12 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 190
 recipeCuisine: "Middle Eastern"
-recipeInstructions: ["Preheat oven to 400°F. Cut eggplants in half and place them cut-side down on a baking sheet. Roast for 35-40 minutes until the eggplants are tender and the skin is charred. Let them cool for a few minutes.", "Scoop out the flesh of the eggplants into a bowl and mash it with a fork. Add minced garlic, tahini, lemon juice, olive oil, salt, and paprika. Mix well.", "Transfer the mixture to a serving bowl and drizzle with olive oil. Sprinkle chopped parsley on top. Serve with pita bread, crackers, or vegetables."]
+recipeInstructions:
+  [
+    "Preheat oven to 400°F. Cut eggplants in half and place them cut-side down on a baking sheet. Roast for 35-40 minutes until the eggplants are tender and the skin is charred. Let them cool for a few minutes.",
+    "Scoop out the flesh of the eggplants into a bowl and mash it with a fork. Add minced garlic, tahini, lemon juice, olive oil, salt, and paprika. Mix well.",
+    "Transfer the mixture to a serving bowl and drizzle with olive oil. Sprinkle chopped parsley on top. Serve with pita bread, crackers, or vegetables.",
+  ]
 ---
 
 Baba Ghanoush Recipe: A Delicious Middle Eastern Dip
@@ -22,6 +43,7 @@ Baba Ghanoush Recipe: A Delicious Middle Eastern Dip
 Baba Ghanoush is a classic Middle Eastern dip that's full of flavor and nutrition. This eggplant-based dish is a great alternative to hummus and is perfect as a dip, spread or side dish. It's easy to make and uses simple ingredients that you can find in your local grocery store. Baba Ghanoush is a great healthy snack option or appetizer that's perfect for parties and gatherings.
 
 Ingredients (4 servings):
+
 - 2 large eggplants
 - 2 cloves garlic, minced
 - 1/4 cup tahini

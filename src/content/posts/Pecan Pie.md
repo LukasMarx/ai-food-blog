@@ -1,11 +1,27 @@
 ---
 title: "Perfect Pecan Pie: A Classic and Delicious Recipe"
 description: "Learn how to make the perfect pecan pie with this classic and easy recipe. This sweet and nutty pie is perfect for any occasion and is sure to be a crowd-pleaser."
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/pecan-pie.png"
-recipe: ["1 9-inch pie crust", "1 cup light corn syrup", "1 cup granulated sugar", "3 eggs", "1/3 cup melted butter", "1 tsp vanilla extract", "1/4 tsp salt", "1 1/2 cups pecan halves"]
-imageDescription: ["pecan pie on a plate", "sliced pecans on top", "golden brown crust", "sweet and nutty filling"]
+recipe:
+  [
+    "1 9-inch pie crust",
+    "1 cup light corn syrup",
+    "1 cup granulated sugar",
+    "3 eggs",
+    "1/3 cup melted butter",
+    "1 tsp vanilla extract",
+    "1/4 tsp salt",
+    "1 1/2 cups pecan halves",
+  ]
+imageDescription:
+  [
+    "pecan pie on a plate",
+    "sliced pecans on top",
+    "golden brown crust",
+    "sweet and nutty filling",
+  ]
 categories: ["pies"]
 tags: ["dessert", "holiday", "thanksgiving", "southern", "baking"]
 prepTime: "PT15M"
@@ -14,14 +30,15 @@ totalTime: "PT1H5M"
 recipeYield: "4"
 calories: 570
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 350°F (175°C).",
     "In a large bowl, whisk together the corn syrup, sugar, eggs, melted butter, vanilla extract, and salt until well combined.",
     "Stir in the pecan halves.",
     "Pour the mixture into the pie crust.",
     "Bake for 45-50 minutes, or until the filling is set and the crust is golden brown.",
-    "Let the pie cool completely before serving."
-]
+    "Let the pie cool completely before serving.",
+  ]
 ---
 
 ## Introduction

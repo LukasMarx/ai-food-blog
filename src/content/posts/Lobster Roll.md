@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Lobster Roll Recipe"
 description: "Learn how to make the ultimate lobster roll with this easy and delicious recipe that will impress your guests and make them ask for seconds!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/lobster-roll.png"
 recipe:

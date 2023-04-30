@@ -1,11 +1,25 @@
 ---
 title: "Easy French Toast Recipe"
 description: "Learn how to make delicious French toast with this easy and quick recipe that is perfect for breakfast or brunch. With simple ingredients and a few easy steps, you can have this classic dish on your table in no time!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/french-toast.png"
-recipe: ["4 slices of bread", "2 eggs", "1/2 cup of milk", "1 tsp of vanilla extract", "1 tsp of cinnamon", "1 tbsp of butter"]
-imageDescription: ["Golden brown French toast on a plate", "Syrup drizzled over French toast", "Fresh berries on top of French toast", "French toast with powdered sugar"]
+recipe:
+  [
+    "4 slices of bread",
+    "2 eggs",
+    "1/2 cup of milk",
+    "1 tsp of vanilla extract",
+    "1 tsp of cinnamon",
+    "1 tbsp of butter",
+  ]
+imageDescription:
+  [
+    "Golden brown French toast on a plate",
+    "Syrup drizzled over French toast",
+    "Fresh berries on top of French toast",
+    "French toast with powdered sugar",
+  ]
 categories: ["breakfast"]
 tags: ["easy", "brunch", "quick", "simple", "kid-friendly"]
 prepTime: "PT10M"
@@ -14,8 +28,14 @@ totalTime: "PT20M"
 recipeYield: "4"
 calories: 220
 recipeCuisine: "French"
-recipeInstructions: ["In a shallow bowl, whisk together the eggs, milk, vanilla extract, and cinnamon.", "Melt the butter in a large non-stick skillet over medium heat.", "Dip each slice of bread into the egg mixture, coating both sides evenly.", "Place the bread in the skillet and cook until golden brown, about 2-3 minutes per side.", "Serve hot with your favorite toppings."]
-
+recipeInstructions:
+  [
+    "In a shallow bowl, whisk together the eggs, milk, vanilla extract, and cinnamon.",
+    "Melt the butter in a large non-stick skillet over medium heat.",
+    "Dip each slice of bread into the egg mixture, coating both sides evenly.",
+    "Place the bread in the skillet and cook until golden brown, about 2-3 minutes per side.",
+    "Serve hot with your favorite toppings.",
+  ]
 ---
 
 ## Why French Toast is a Great Idea for Breakfast

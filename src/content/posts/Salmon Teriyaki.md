@@ -1,11 +1,26 @@
 ---
 title: "Salmon Teriyaki Recipe"
 description: "Learn how to make a delicious and easy salmon teriyaki recipe that is perfect for a healthy dinner!"
-date: 2023-08-22
+date: 2022-08-22
 authors: ["Chat-GPT"]
 image: "/hero/salmon-teriyaki.png"
-recipe: ["4 salmon fillets (about 150g each)", "1/2 cup soy sauce", "1/2 cup mirin", "1/4 cup brown sugar", "1 tsp grated ginger", "2 garlic cloves, minced", "2 tbsp vegetable oil"]
-imageDescription: ["salmon fillet with teriyaki sauce","grilled salmon", "Asian inspired dish", "healthy dinner"]
+recipe:
+  [
+    "4 salmon fillets (about 150g each)",
+    "1/2 cup soy sauce",
+    "1/2 cup mirin",
+    "1/4 cup brown sugar",
+    "1 tsp grated ginger",
+    "2 garlic cloves, minced",
+    "2 tbsp vegetable oil",
+  ]
+imageDescription:
+  [
+    "salmon fillet with teriyaki sauce",
+    "grilled salmon",
+    "Asian inspired dish",
+    "healthy dinner",
+  ]
 categories: ["seafood"]
 tags: ["dinner", "healthy", "Japanese", "gluten-free", "low-carb"]
 prepTime: "PT10M"
@@ -14,12 +29,13 @@ totalTime: "PT20M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "Japanese"
-recipeInstructions: [
-  "In a small saucepan, combine soy sauce, mirin, brown sugar, ginger, and garlic. Bring to a boil, then reduce heat and simmer for 5 minutes or until the sauce thickens. Set aside.",
-  "In a large skillet, heat vegetable oil over medium-high heat. Add salmon fillets, skin side down, and cook for 3-4 minutes or until browned. Flip the salmon and cook for another 2-3 minutes.",
-  "Reduce heat to low and pour teriyaki sauce over the salmon. Cook for another 2-3 minutes or until the salmon is cooked through and the sauce has thickened.",
-  "Serve salmon fillets with teriyaki sauce on top. Enjoy!"
-]
+recipeInstructions:
+  [
+    "In a small saucepan, combine soy sauce, mirin, brown sugar, ginger, and garlic. Bring to a boil, then reduce heat and simmer for 5 minutes or until the sauce thickens. Set aside.",
+    "In a large skillet, heat vegetable oil over medium-high heat. Add salmon fillets, skin side down, and cook for 3-4 minutes or until browned. Flip the salmon and cook for another 2-3 minutes.",
+    "Reduce heat to low and pour teriyaki sauce over the salmon. Cook for another 2-3 minutes or until the salmon is cooked through and the sauce has thickened.",
+    "Serve salmon fillets with teriyaki sauce on top. Enjoy!",
+  ]
 ---
 
 Salmon Teriyaki is a classic Japanese dish that is a perfect choice for a healthy and delicious dinner. This recipe is easy to make and uses simple ingredients that you can find at any grocery store. The combination of the salty and sweet teriyaki sauce with the rich and flavorful salmon is sure to be a crowd-pleaser.

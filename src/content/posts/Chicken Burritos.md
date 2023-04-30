@@ -1,11 +1,32 @@
 ---
 title: "Easy Chicken Burritos Recipe"
 description: "Learn how to prepare delicious and easy chicken burritos with this simple and quick recipe. Perfect for a weeknight meal or a weekend lunch, these burritos are loaded with flavor and are sure to be a hit with your family and friends."
-date: 2023-03-20
+date: 2022-03-20
 authors: ["Chat-GPT"]
 image: "/hero/chicken-burritos.png"
-recipe: ["4 large flour tortillas", "500g chicken breast", "1 red bell pepper", "1 green bell pepper", "1 onion", "1 can of black beans", "1 cup of shredded cheddar cheese", "1 tbsp olive oil", "1 tsp chili powder", "1 tsp cumin", "1 tsp garlic powder", "1 tsp salt", "1/2 tsp black pepper"]
-imageDescription: ["chicken burritos on a plate", "a close-up of the chicken burrito filling", "a side view of the chicken burritos", "a top view of the chicken burritos"]
+recipe:
+  [
+    "4 large flour tortillas",
+    "500g chicken breast",
+    "1 red bell pepper",
+    "1 green bell pepper",
+    "1 onion",
+    "1 can of black beans",
+    "1 cup of shredded cheddar cheese",
+    "1 tbsp olive oil",
+    "1 tsp chili powder",
+    "1 tsp cumin",
+    "1 tsp garlic powder",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "chicken burritos on a plate",
+    "a close-up of the chicken burrito filling",
+    "a side view of the chicken burritos",
+    "a top view of the chicken burritos",
+  ]
 categories: ["Mexican"]
 tags: ["dinner", "lunch", "easy", "quick", "family-friendly"]
 prepTime: "PT15M"
@@ -14,18 +35,19 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 550
 recipeCuisine: "Mexican"
-recipeInstructions: [
-  "Preheat the oven to 180°C.",
-  "Cut the chicken breast, red bell pepper, green bell pepper, and onion into thin strips.",
-  "In a large skillet over medium heat, heat the olive oil. Add the chicken strips and sauté for 5 minutes, or until browned.",
-  "Add the red and green bell peppers and onion to the skillet and sauté for an additional 3-4 minutes, or until vegetables are slightly tender.",
-  "Add the black beans, chili powder, cumin, garlic powder, salt, and black pepper to the skillet. Stir to combine and cook for an additional 2-3 minutes, or until the beans are heated through.",
-  "Place the flour tortillas on a baking sheet. Spoon the chicken and black bean mixture onto each tortilla, dividing it evenly between the four tortillas.",
-  "Sprinkle each tortilla with shredded cheddar cheese.",
-  "Fold up the bottom of each tortilla, then fold in the sides, and roll up tightly to create a burrito.",
-  "Bake the burritos in the preheated oven for 10-12 minutes, or until the cheese is melted and the tortillas are lightly browned.",
-  "Serve hot and enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 180°C.",
+    "Cut the chicken breast, red bell pepper, green bell pepper, and onion into thin strips.",
+    "In a large skillet over medium heat, heat the olive oil. Add the chicken strips and sauté for 5 minutes, or until browned.",
+    "Add the red and green bell peppers and onion to the skillet and sauté for an additional 3-4 minutes, or until vegetables are slightly tender.",
+    "Add the black beans, chili powder, cumin, garlic powder, salt, and black pepper to the skillet. Stir to combine and cook for an additional 2-3 minutes, or until the beans are heated through.",
+    "Place the flour tortillas on a baking sheet. Spoon the chicken and black bean mixture onto each tortilla, dividing it evenly between the four tortillas.",
+    "Sprinkle each tortilla with shredded cheddar cheese.",
+    "Fold up the bottom of each tortilla, then fold in the sides, and roll up tightly to create a burrito.",
+    "Bake the burritos in the preheated oven for 10-12 minutes, or until the cheese is melted and the tortillas are lightly browned.",
+    "Serve hot and enjoy!",
+  ]
 ---
 
 If you're looking for a quick and easy meal that's loaded with flavor, then look no further than these delicious chicken burritos. Packed with tender chicken, black beans, and a variety of vegetables, these burritos are the perfect combination of spicy and savory. Plus, they are incredibly easy to make, so you can have dinner on the table in no time at all!

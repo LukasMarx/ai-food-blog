@@ -1,11 +1,28 @@
 ---
 title: "Lavender Honey Cake Recipe"
 description: "This delicious and easy-to-make Lavender Honey Cake is perfect for any occasion, whether it's a special celebration or just a weekend treat. The delicate flavors of lavender and honey make for a light and refreshing dessert that's sure to impress your guests!"
-date: 2023-07-19
+date: 2022-07-19
 authors: ["Chat-GPT"]
 image: "/hero/lavender-honey-cake.png"
-recipe: ["200g all-purpose flour", "1 tsp baking powder", "1/2 tsp baking soda", "1/4 tsp salt", "1/2 cup honey", "1/4 cup vegetable oil", "2 eggs", "1/2 cup milk", "1 tbsp dried lavender"]
-imageDescription: ["A slice of Lavender Honey Cake on a plate", "A jar of honey next to the cake", "A sprig of fresh lavender on top of the cake", "A cup of tea in the background"]
+recipe:
+  [
+    "200g all-purpose flour",
+    "1 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/4 tsp salt",
+    "1/2 cup honey",
+    "1/4 cup vegetable oil",
+    "2 eggs",
+    "1/2 cup milk",
+    "1 tbsp dried lavender",
+  ]
+imageDescription:
+  [
+    "A slice of Lavender Honey Cake on a plate",
+    "A jar of honey next to the cake",
+    "A sprig of fresh lavender on top of the cake",
+    "A cup of tea in the background",
+  ]
 categories: ["cake"]
 tags: ["dessert", "honey", "lavender", "baking", "easy"]
 prepTime: "PT15M"
@@ -14,19 +31,22 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "American"
-recipeInstructions: [ "Preheat oven to 350°F (175°C) and grease a 9-inch cake pan.",
-                      "In a medium bowl, mix together the flour, baking powder, baking soda, and salt.",
-                      "In a separate large bowl, whisk together the honey, vegetable oil, and eggs until smooth.",
-                      "Add the dry ingredients to the honey mixture and stir until just combined.",
-                      "Stir in the milk and dried lavender until well combined.",
-                      "Pour the batter into the prepared cake pan and bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
-                      "Let the cake cool in the pan for 10 minutes before removing it and placing it on a wire rack to cool completely.",
-                      "Serve the cake with a drizzle of honey and a sprig of fresh lavender."]
+recipeInstructions:
+  [
+    "Preheat oven to 350°F (175°C) and grease a 9-inch cake pan.",
+    "In a medium bowl, mix together the flour, baking powder, baking soda, and salt.",
+    "In a separate large bowl, whisk together the honey, vegetable oil, and eggs until smooth.",
+    "Add the dry ingredients to the honey mixture and stir until just combined.",
+    "Stir in the milk and dried lavender until well combined.",
+    "Pour the batter into the prepared cake pan and bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+    "Let the cake cool in the pan for 10 minutes before removing it and placing it on a wire rack to cool completely.",
+    "Serve the cake with a drizzle of honey and a sprig of fresh lavender.",
+  ]
 ---
 
 ## Introduction
 
-Lavender Honey Cake is a delightful dessert that combines the floral sweetness of honey with the subtle and soothing aroma of lavender. This cake is perfect for any occasion, be it a birthday or a weekend treat. It is easy to make and can be enjoyed by everyone, young and old alike. 
+Lavender Honey Cake is a delightful dessert that combines the floral sweetness of honey with the subtle and soothing aroma of lavender. This cake is perfect for any occasion, be it a birthday or a weekend treat. It is easy to make and can be enjoyed by everyone, young and old alike.
 
 ## Ingredients
 
@@ -55,15 +75,15 @@ Lavender Honey Cake is a delightful dessert that combines the floral sweetness o
 
 ### Vegan Version
 
-For a vegan version of this cake, replace the eggs with 1/2 cup unsweetened applesauce or mashed bananas. Use any plant-based milk instead of dairy milk. Ensure that the honey you use is vegan-friendly. 
+For a vegan version of this cake, replace the eggs with 1/2 cup unsweetened applesauce or mashed bananas. Use any plant-based milk instead of dairy milk. Ensure that the honey you use is vegan-friendly.
 
 ### Gluten-Free Version
 
-To make this cake gluten-free, replace the all-purpose flour with a gluten-free flour blend. Ensure that all other ingredients used are gluten-free as well. 
+To make this cake gluten-free, replace the all-purpose flour with a gluten-free flour blend. Ensure that all other ingredients used are gluten-free as well.
 
 ### Lemon Lavender Honey Cake
 
-To add a citrusy twist to this cake, add the zest of one lemon to the batter. 
+To add a citrusy twist to this cake, add the zest of one lemon to the batter.
 
 ## Conclusion
 

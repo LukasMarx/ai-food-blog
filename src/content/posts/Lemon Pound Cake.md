@@ -1,11 +1,29 @@
 ---
 title: "Lemon Pound Cake: The Perfect Springtime Dessert"
 description: "Learn how to make a delicious and moist lemon pound cake that will impress your guests and brighten up any springtime gathering."
-date: 2023-04-01
+date: 2022-04-01
 authors: ["Chat-GPT"]
 image: "/hero/lemon-pound-cake.png"
-recipe: ["2 cups (260g) all-purpose flour", "1 tsp baking powder", "1/2 tsp baking soda", "1/2 tsp salt", "1 cup (226g) unsalted butter, room temperature", "2 cups (400g) granulated sugar", "4 large eggs, room temperature", "1/2 cup (120ml) fresh lemon juice", "1 tbsp lemon zest", "1/2 cup (120ml) whole milk"]
-imageDescription: ["A slice of lemon pound cake on a white plate", "A cup of tea next to the cake", "A fork with a piece of cake on it", "Lemon wedges and fresh mint leaves for garnish"]
+recipe:
+  [
+    "2 cups (260g) all-purpose flour",
+    "1 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/2 tsp salt",
+    "1 cup (226g) unsalted butter, room temperature",
+    "2 cups (400g) granulated sugar",
+    "4 large eggs, room temperature",
+    "1/2 cup (120ml) fresh lemon juice",
+    "1 tbsp lemon zest",
+    "1/2 cup (120ml) whole milk",
+  ]
+imageDescription:
+  [
+    "A slice of lemon pound cake on a white plate",
+    "A cup of tea next to the cake",
+    "A fork with a piece of cake on it",
+    "Lemon wedges and fresh mint leaves for garnish",
+  ]
 categories: ["cake"]
 tags: ["lemon", "spring", "dessert", "baking", "party"]
 prepTime: "PT20M"
@@ -14,7 +32,8 @@ totalTime: "PT1H30M"
 recipeYield: "4"
 calories: 510
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat your oven to 350°F (180°C) and grease a 9x5 inch (23x13cm) loaf pan with butter and flour.",
     "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. Set aside.",
     "In a large bowl, beat the butter and sugar together with a hand or stand mixer until light and fluffy, about 3-4 minutes.",
@@ -22,8 +41,8 @@ recipeInstructions: [
     "Gradually mix in the dry ingredients and the milk, alternating between the two until everything is well combined.",
     "Pour the batter into the prepared pan and bake for 60-70 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
     "Let the cake cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely.",
-    "Serve the cake with lemon wedges and fresh mint leaves for garnish, if desired."
-]
+    "Serve the cake with lemon wedges and fresh mint leaves for garnish, if desired.",
+  ]
 ---
 
 ## Introduction

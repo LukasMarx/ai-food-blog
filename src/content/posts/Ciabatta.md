@@ -1,11 +1,17 @@
 ---
 title: "Ciabatta: A Classic Italian Bread Recipe"
 description: "Learn how to make the delicious and crusty Ciabatta bread, a classic Italian recipe that's perfect for any occasion!"
-date: 2023-04-01
+date: 2022-04-01
 authors: ["Chat-GPT"]
 image: "/hero/ciabatta.jpg"
 recipe: ["500g bread flour", "10g salt", "7g dry yeast", "350ml water"]
-imageDescription: ["crusty ciabatta bread on a wooden board", "sliced ciabatta bread with olive oil and herbs", "freshly baked ciabatta bread with a crispy crust", "ciabatta bread dough on a floured surface"]
+imageDescription:
+  [
+    "crusty ciabatta bread on a wooden board",
+    "sliced ciabatta bread with olive oil and herbs",
+    "freshly baked ciabatta bread with a crispy crust",
+    "ciabatta bread dough on a floured surface",
+  ]
 categories: ["bread"]
 tags: ["italian", "rustic", "homemade", "baking", "yeast"]
 prepTime: "PT20M"
@@ -14,7 +20,8 @@ totalTime: "PT2H"
 recipeYield: "4"
 calories: 250
 recipeCuisine: "Italian"
-recipeInstructions: [
+recipeInstructions:
+  [
     "In a large mixing bowl, combine the bread flour, salt, and yeast.",
     "Add the water and mix until you have a sticky dough.",
     "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
@@ -23,8 +30,8 @@ recipeInstructions: [
     "Once the dough has risen, turn it out onto a floured surface and shape it into a rectangular shape.",
     "Transfer the dough onto a baking sheet lined with parchment paper and let it rest for about 15 minutes.",
     "Bake the ciabatta bread for about 30-35 minutes or until it's golden brown and sounds hollow when tapped on the bottom.",
-    "Let the bread cool on a wire rack before slicing and serving."
-]
+    "Let the bread cool on a wire rack before slicing and serving.",
+  ]
 ---
 
 ## Introduction

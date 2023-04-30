@@ -1,7 +1,7 @@
 ---
 title: "Pesto Pasta"
 description: "Learn how to make delicious Pesto Pasta in this easy-to-follow recipe. This classic Italian dish is perfect for a quick and tasty dinner!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/pesto-pasta.png"
 recipe:

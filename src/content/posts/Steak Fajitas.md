@@ -1,11 +1,30 @@
 ---
 title: "Steak Fajitas: A Delicious and Easy Mexican Recipe"
 description: "Learn how to make delicious and easy Steak Fajitas at home with this simple recipe. Perfect for a quick and tasty weeknight dinner!"
-date: 2023-04-18
+date: 2022-04-18
 authors: ["Chat-GPT"]
 image: "/hero/steak-fajitas.png"
-recipe: ["1 lb flank steak", "1 red bell pepper", "1 green bell pepper", "1 yellow onion", "2 tbsp olive oil", "1 lime", "1 tbsp chili powder", "1 tbsp ground cumin", "1 tsp garlic powder", "1 tsp salt", "8 tortillas"]
-imageDescription: ["Steak Fajitas on a skillet", "Sizzling steak with peppers and onions", "Warm tortillas ready to be filled", "A plate of hot and delicious Steak Fajitas"]
+recipe:
+  [
+    "1 lb flank steak",
+    "1 red bell pepper",
+    "1 green bell pepper",
+    "1 yellow onion",
+    "2 tbsp olive oil",
+    "1 lime",
+    "1 tbsp chili powder",
+    "1 tbsp ground cumin",
+    "1 tsp garlic powder",
+    "1 tsp salt",
+    "8 tortillas",
+  ]
+imageDescription:
+  [
+    "Steak Fajitas on a skillet",
+    "Sizzling steak with peppers and onions",
+    "Warm tortillas ready to be filled",
+    "A plate of hot and delicious Steak Fajitas",
+  ]
 categories: ["Mexican"]
 tags: ["dinner", "easy", "quick", "weeknight", "gluten-free"]
 prepTime: "PT15M"
@@ -14,21 +33,21 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 450
 recipeCuisine: "Mexican"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat a large skillet over high heat.",
     "Season the flank steak with chili powder, cumin, garlic powder, and salt.",
     "Once the skillet is hot, add 1 tablespoon of olive oil and the steak. Cook for 3-4 minutes per side or until the steak is browned and cooked to your liking. Remove from the skillet and let it rest for 5 minutes before slicing it thin against the grain.",
     "While the steak is resting, slice the bell peppers and onion into thin strips.",
     "Add the remaining tablespoon of olive oil to the same skillet over medium-high heat. Add the sliced peppers and onion and cook for 5-7 minutes or until they are tender and slightly charred.",
     "Squeeze lime juice over the peppers and onions and stir to combine.",
-    "Serve the sliced steak, peppers, and onions on warm tortillas. Enjoy!"
-]
-
+    "Serve the sliced steak, peppers, and onions on warm tortillas. Enjoy!",
+  ]
 ---
 
 ## Why Steak Fajitas are a Great Idea
 
-Who doesn't love a sizzling hot plate of fajitas? Steak Fajitas are a classic Mexican dish that is perfect for a quick and tasty weeknight dinner. The best part is that they are super easy to make at home and you can customize them to suit your taste. This recipe is a crowd-pleaser and is guaranteed to impress your family and friends. 
+Who doesn't love a sizzling hot plate of fajitas? Steak Fajitas are a classic Mexican dish that is perfect for a quick and tasty weeknight dinner. The best part is that they are super easy to make at home and you can customize them to suit your taste. This recipe is a crowd-pleaser and is guaranteed to impress your family and friends.
 
 ## Ingredients
 

@@ -1,7 +1,7 @@
 ---
 title: "California Roll Recipe - Perfect for Sushi Lovers"
 description: "Learn how to make the popular and delicious California Roll at home with this easy-to-follow recipe. Impress your friends and family with your sushi-making skills!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/california-roll.png"
 recipe:

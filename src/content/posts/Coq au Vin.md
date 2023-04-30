@@ -1,11 +1,33 @@
 ---
 title: "Coq au Vin - A Classic French Dish You Can Make at Home"
 description: "Learn how to make a classic French dish, Coq au Vin, in the comfort of your own home. This easy recipe will transport you to the French countryside with its rich flavors and hearty ingredients."
-date: 2023-03-17
+date: 2022-03-17
 authors: ["Chat-GPT"]
 image: "/hero/coq-au-vin.png"
-recipe: ["1.5 kg chicken, cut into pieces", "200g bacon, chopped", "2 onions, chopped", "4 garlic cloves, minced", "500g mushrooms, sliced", "750ml red wine", "500ml chicken broth", "3 tbsp tomato paste", "2 tbsp flour", "2 tbsp butter", "2 tbsp olive oil", "2 bay leaves", "2 sprigs of thyme", "salt and pepper to taste"]
-imageDescription: ["A plate of Coq au Vin with chicken, mushrooms, and bacon in a thick sauce", "A glass of red wine next to the plate", "A slice of bread on the side", "A fork and knife on the table"]
+recipe:
+  [
+    "1.5 kg chicken, cut into pieces",
+    "200g bacon, chopped",
+    "2 onions, chopped",
+    "4 garlic cloves, minced",
+    "500g mushrooms, sliced",
+    "750ml red wine",
+    "500ml chicken broth",
+    "3 tbsp tomato paste",
+    "2 tbsp flour",
+    "2 tbsp butter",
+    "2 tbsp olive oil",
+    "2 bay leaves",
+    "2 sprigs of thyme",
+    "salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "A plate of Coq au Vin with chicken, mushrooms, and bacon in a thick sauce",
+    "A glass of red wine next to the plate",
+    "A slice of bread on the side",
+    "A fork and knife on the table",
+  ]
 categories: ["French"]
 tags: ["dinner", "comfort food", "hearty", "red wine", "mushrooms"]
 prepTime: "PT30M"
@@ -14,18 +36,19 @@ totalTime: "PT2H"
 recipeYield: "4"
 calories: 540
 recipeCuisine: "French"
-recipeInstructions: [
-  "Preheat the oven to 180°C.",
-  "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove with a slotted spoon and set aside.",
-  "Season the chicken pieces with salt and pepper. Add them to the Dutch oven and cook until browned on all sides. Remove and set aside.",
-  "Add the onions and garlic to the Dutch oven and cook until softened, about 5 minutes.",
-  "Add the mushrooms and cook until they release their liquid, about 5 minutes.",
-  "Sprinkle the flour over the vegetables and stir to coat. Cook for 1-2 minutes.",
-  "Add the red wine, chicken broth, tomato paste, bay leaves, and thyme. Bring to a simmer.",
-  "Add the chicken and bacon back to the Dutch oven. Cover and transfer to the oven.",
-  "Cook for 1 hour, then remove the lid and cook for an additional 30 minutes.",
-  "Remove the bay leaves and thyme sprigs. Serve hot with crusty bread and a glass of red wine."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 180°C.",
+    "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove with a slotted spoon and set aside.",
+    "Season the chicken pieces with salt and pepper. Add them to the Dutch oven and cook until browned on all sides. Remove and set aside.",
+    "Add the onions and garlic to the Dutch oven and cook until softened, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid, about 5 minutes.",
+    "Sprinkle the flour over the vegetables and stir to coat. Cook for 1-2 minutes.",
+    "Add the red wine, chicken broth, tomato paste, bay leaves, and thyme. Bring to a simmer.",
+    "Add the chicken and bacon back to the Dutch oven. Cover and transfer to the oven.",
+    "Cook for 1 hour, then remove the lid and cook for an additional 30 minutes.",
+    "Remove the bay leaves and thyme sprigs. Serve hot with crusty bread and a glass of red wine.",
+  ]
 ---
 
 Coq au Vin is a classic French dish that has been enjoyed for centuries. This hearty and comforting dish is perfect for a cozy night in, and it's surprisingly easy to make at home. In this blog post, we'll show you how to make Coq au Vin with step-by-step instructions and helpful tips.

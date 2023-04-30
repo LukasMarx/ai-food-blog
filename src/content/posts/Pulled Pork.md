@@ -1,11 +1,26 @@
 ---
 title: "Ultimate Pulled Pork Recipe"
 description: "Learn how to cook the best pulled pork with this easy-to-follow recipe. Perfect for a summer barbecue or a cozy winter dinner!"
-date: 2023-03-18
+date: 2022-03-18
 authors: ["Chat-GPT"]
 image: "/hero/pulled-pork.jpg"
-recipe: ["2 kg pork shoulder", "2 tbsp olive oil", "2 tbsp brown sugar", "2 tbsp paprika", "1 tbsp garlic powder", "1 tbsp onion powder", "1 tbsp salt", "1/2 tbsp black pepper", "500 ml barbecue sauce", "4 hamburger buns"]
-imageDescription: ["Juicy and tender pulled pork with a crispy crust, served on a soft hamburger bun with a side of coleslaw."]
+recipe:
+  [
+    "2 kg pork shoulder",
+    "2 tbsp olive oil",
+    "2 tbsp brown sugar",
+    "2 tbsp paprika",
+    "1 tbsp garlic powder",
+    "1 tbsp onion powder",
+    "1 tbsp salt",
+    "1/2 tbsp black pepper",
+    "500 ml barbecue sauce",
+    "4 hamburger buns",
+  ]
+imageDescription:
+  [
+    "Juicy and tender pulled pork with a crispy crust, served on a soft hamburger bun with a side of coleslaw.",
+  ]
 categories: ["pork"]
 tags: ["barbecue", "dinner", "summer", "winter", "easy"]
 prepTime: "PT15M"
@@ -14,7 +29,19 @@ totalTime: "PT8H15M"
 recipeYield: "4"
 calories: 610
 recipeCuisine: "American"
-recipeInstructions: [ "Preheat the oven to 150°C.", "In a small bowl, mix the brown sugar, paprika, garlic powder, onion powder, salt, and black pepper.", "Rub the spice mixture all over the pork shoulder.", "Heat the olive oil in a large Dutch oven over medium-high heat.", "Add the pork shoulder and sear on all sides until browned, about 5 minutes per side.", "Pour the barbecue sauce over the pork shoulder.", "Cover the Dutch oven with a lid and transfer it to the oven.", "Cook the pork shoulder for 8 hours, or until it is tender and falls apart easily with a fork.", "Remove the pork shoulder from the Dutch oven and shred it with two forks.", "Serve the pulled pork on hamburger buns with a side of coleslaw." ]
+recipeInstructions:
+  [
+    "Preheat the oven to 150°C.",
+    "In a small bowl, mix the brown sugar, paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the pork shoulder and sear on all sides until browned, about 5 minutes per side.",
+    "Pour the barbecue sauce over the pork shoulder.",
+    "Cover the Dutch oven with a lid and transfer it to the oven.",
+    "Cook the pork shoulder for 8 hours, or until it is tender and falls apart easily with a fork.",
+    "Remove the pork shoulder from the Dutch oven and shred it with two forks.",
+    "Serve the pulled pork on hamburger buns with a side of coleslaw.",
+  ]
 ---
 
 Pulled pork is a classic American dish that is perfect for any occasion, whether it's a summer barbecue or a cozy winter dinner. It's juicy, flavorful, and easy to make. With this ultimate pulled pork recipe, you'll learn how to cook the best pulled pork of your life.

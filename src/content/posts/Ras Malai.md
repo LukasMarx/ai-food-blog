@@ -1,11 +1,21 @@
 ---
 title: "Ras Malai Recipe: Delicious Indian Sweet Dessert"
 description: "Learn how to make Ras Malai, a classic Indian dessert made with cheese balls in sweetened milk. This easy recipe is perfect for any occasion!"
-date: 2023-07-14
+date: 2022-07-14
 authors: ["Chat-GPT"]
 image: "/hero/ras-malai.png"
-recipe: ["1 litre full cream milk", "2 tbsp lemon juice", "4 cups water", "1 cup sugar", "1 tsp cardamom powder", "Saffron strands (optional)", "Chopped nuts for garnish"]
-imageDescription: ["A plate of Ras Malai balls in sweetened milk, garnished with chopped nuts."]
+recipe:
+  [
+    "1 litre full cream milk",
+    "2 tbsp lemon juice",
+    "4 cups water",
+    "1 cup sugar",
+    "1 tsp cardamom powder",
+    "Saffron strands (optional)",
+    "Chopped nuts for garnish",
+  ]
+imageDescription:
+  ["A plate of Ras Malai balls in sweetened milk, garnished with chopped nuts."]
 categories: ["dessert"]
 tags: ["Indian", "sweet", "cheese", "milk", "easy"]
 prepTime: "PT20M"
@@ -14,8 +24,13 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 380
 recipeCuisine: "Indian"
-recipeInstructions: ["In a heavy-bottomed pan, heat milk and bring it to a boil. Add lemon juice and stir until the milk curdles. Drain the curdled milk in a muslin cloth and wash it under running water.", "Squeeze out the excess water from the cheese cloth and knead the cheese until it becomes smooth. Divide the dough into small portions and roll them into balls.", "In a separate pan, add water and sugar and bring it to a boil. Add the cheese balls and cook for 10-12 minutes.", "Add cardamom powder and saffron strands and let it simmer for 5 more minutes. Garnish with chopped nuts and serve chilled."]
-
+recipeInstructions:
+  [
+    "In a heavy-bottomed pan, heat milk and bring it to a boil. Add lemon juice and stir until the milk curdles. Drain the curdled milk in a muslin cloth and wash it under running water.",
+    "Squeeze out the excess water from the cheese cloth and knead the cheese until it becomes smooth. Divide the dough into small portions and roll them into balls.",
+    "In a separate pan, add water and sugar and bring it to a boil. Add the cheese balls and cook for 10-12 minutes.",
+    "Add cardamom powder and saffron strands and let it simmer for 5 more minutes. Garnish with chopped nuts and serve chilled.",
+  ]
 ---
 
 Ras Malai is a classic Indian dessert that is made with cheese balls soaked in sweetened milk. This delicious dessert has its roots in the eastern part of India and is a popular dessert served at festivals and special occasions. The name "Ras Malai" comes from two words: "Ras" which means juice and "Malai" which means cream.

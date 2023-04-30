@@ -1,10 +1,29 @@
 ---
 title: "German Chocolate Cake: A Classic Recipe for Chocolate Lovers"
 description: "Learn how to make the classic German Chocolate Cake with this easy-to-follow recipe. Perfect for chocolate lovers and special occasions!"
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/german-chocolate-cake.png"
-recipe: ["240g all-purpose flour", "2 tsp baking powder", "1 tsp baking soda", "1 tsp salt", "115g unsalted butter", "200g granulated sugar", "2 large eggs", "1 tsp vanilla extract", "120ml buttermilk", "120ml hot water", "100g unsweetened chocolate", "240g sweetened shredded coconut", "240ml evaporated milk", "200g brown sugar", "115g unsalted butter", "1 tsp vanilla extract", "2 large egg yolks"]
+recipe:
+  [
+    "240g all-purpose flour",
+    "2 tsp baking powder",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "115g unsalted butter",
+    "200g granulated sugar",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "120ml buttermilk",
+    "120ml hot water",
+    "100g unsweetened chocolate",
+    "240g sweetened shredded coconut",
+    "240ml evaporated milk",
+    "200g brown sugar",
+    "115g unsalted butter",
+    "1 tsp vanilla extract",
+    "2 large egg yolks",
+  ]
 imageDescription: ["German Chocolate Cake on a cake stand"]
 categories: ["cake"]
 tags: ["chocolate", "dessert", "birthday", "celebration", "baking"]
@@ -14,26 +33,28 @@ totalTime: "PT1H"
 recipeYield: "4"
 calories: 570
 recipeCuisine: "German"
-recipeInstructions: [
-  "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
-  "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.",
-  "In a large bowl, cream the butter and granulated sugar until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla extract.",
-  "Gradually mix in the flour mixture, alternating with the buttermilk, until everything is well combined.",
-  "In a small saucepan, melt the unsweetened chocolate over low heat. Once melted, stir in the hot water and mix well. Add the chocolate mixture to the cake batter and stir until smooth.",
-  "Divide the batter evenly between the prepared cake pans and smooth out the tops with a spatula. Bake for 25-30 minutes, or until a toothpick inserted into the center of the cakes comes out clean.",
-  "While the cakes are baking, prepare the frosting. In a large saucepan, combine the shredded coconut, evaporated milk, brown sugar, unsalted butter, vanilla extract, and egg yolks. Cook over medium heat, stirring constantly, until the mixture thickens and starts to bubble. Remove from the heat and let cool to room temperature.",
-  "Once the cakes have cooled, use a knife to loosen the edges and remove them from the pans. Place one cake layer on a cake stand or plate, then spread a thick layer of the coconut frosting on top. Place the second cake layer on top of the frosting, then spread more frosting on top and around the sides of the cake.",
-  "Decorate the cake with additional shredded coconut or chopped pecans, if desired. Serve and enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+    "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.",
+    "In a large bowl, cream the butter and granulated sugar until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla extract.",
+    "Gradually mix in the flour mixture, alternating with the buttermilk, until everything is well combined.",
+    "In a small saucepan, melt the unsweetened chocolate over low heat. Once melted, stir in the hot water and mix well. Add the chocolate mixture to the cake batter and stir until smooth.",
+    "Divide the batter evenly between the prepared cake pans and smooth out the tops with a spatula. Bake for 25-30 minutes, or until a toothpick inserted into the center of the cakes comes out clean.",
+    "While the cakes are baking, prepare the frosting. In a large saucepan, combine the shredded coconut, evaporated milk, brown sugar, unsalted butter, vanilla extract, and egg yolks. Cook over medium heat, stirring constantly, until the mixture thickens and starts to bubble. Remove from the heat and let cool to room temperature.",
+    "Once the cakes have cooled, use a knife to loosen the edges and remove them from the pans. Place one cake layer on a cake stand or plate, then spread a thick layer of the coconut frosting on top. Place the second cake layer on top of the frosting, then spread more frosting on top and around the sides of the cake.",
+    "Decorate the cake with additional shredded coconut or chopped pecans, if desired. Serve and enjoy!",
+  ]
 ---
- 
+
 ## Introduction
- 
+
 German Chocolate Cake is a classic dessert that has been enjoyed by chocolate lovers for generations. Traditionally made with a rich chocolate cake and a coconut-pecan frosting, this cake is perfect for birthdays, holidays, or any special occasion. In this recipe, we'll show you how to make a delicious German Chocolate Cake from scratch, with easy-to-follow instructions and common ingredients that you can find at your local grocery store.
- 
+
 ## Ingredients
- 
+
 For the cake:
+
 - 240g all-purpose flour
 - 2 tsp baking powder
 - 1 tsp baking soda
@@ -45,17 +66,18 @@ For the cake:
 - 120ml buttermilk
 - 120ml hot water
 - 100g unsweetened chocolate
- 
+
 For the frosting:
+
 - 240g sweetened shredded coconut
 - 240ml evaporated milk
 - 200g brown sugar
 - 115g unsalted butter
 - 1 tsp vanilla extract
 - 2 large egg yolks
- 
+
 ## Instructions
- 
+
 1. Preheat the oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.
 2. In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.
 3. In a large bowl, cream the butter and granulated sugar until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla extract.
@@ -65,15 +87,15 @@ For the frosting:
 7. While the cakes are baking, prepare the frosting. In a large saucepan, combine the shredded coconut, evaporated milk, brown sugar, unsalted butter, vanilla extract, and egg yolks. Cook over medium heat, stirring constantly, until the mixture thickens and starts to bubble. Remove from the heat and let cool to room temperature.
 8. Once the cakes have cooled, use a knife to loosen the edges and remove them from the pans. Place one cake layer on a cake stand or plate, then spread a thick layer of the coconut frosting on top. Place the second cake layer on top of the frosting, then spread more frosting on top and around the sides of the cake.
 9. Decorate the cake with additional shredded coconut or chopped pecans, if desired. Serve and enjoy!
- 
+
 ## Variations
- 
+
 - Vegan German Chocolate Cake: To make this cake vegan, use vegan butter and replace the eggs with flax eggs or applesauce. For the frosting, use a non-dairy milk and vegan butter.
 - Gluten-Free German Chocolate Cake: Use a gluten-free flour blend instead of all-purpose flour in the cake recipe. Be sure to check that all other ingredients are also gluten-free.
 - Cupcakes: To make German Chocolate Cupcakes, divide the batter into cupcake liners and bake for 15-20 minutes. Top each cupcake with a dollop of frosting and a sprinkle of shredded coconut.
- 
+
 ## Conclusion
- 
+
 German Chocolate Cake is a classic dessert that everyone should try at least once. With this easy recipe, you can make a delicious cake that is perfect for any occasion. Whether you're baking for a birthday, holiday, or just because, this cake is sure to please chocolate lovers of all ages. So go ahead and give it a try – you won't be disappointed!
 
 ## FAQ

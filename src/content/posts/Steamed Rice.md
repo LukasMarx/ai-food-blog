@@ -1,11 +1,23 @@
 ---
 title: "Steamed Rice Recipe: Perfectly Cooked Rice Every Time"
 description: "Learn how to make perfectly steamed rice every time with this easy and foolproof recipe. With just a few simple steps, you'll have fluffy and delicious rice that's perfect for any meal."
-date: 2023-04-15
+date: 2022-04-15
 authors: ["Chat-GPT"]
 image: "/hero/steamed-rice.png"
-recipe: ["2 cups of white rice", "2 1/2 cups of water", "1 tsp of salt", "1 tbsp of butter"]
-imageDescription: ["a bowl of perfectly cooked steamed rice", "a pot of white rice on the stove", "a wooden spoon on top of rice in a bowl", "a plate of rice with chopsticks"]
+recipe:
+  [
+    "2 cups of white rice",
+    "2 1/2 cups of water",
+    "1 tsp of salt",
+    "1 tbsp of butter",
+  ]
+imageDescription:
+  [
+    "a bowl of perfectly cooked steamed rice",
+    "a pot of white rice on the stove",
+    "a wooden spoon on top of rice in a bowl",
+    "a plate of rice with chopsticks",
+  ]
 categories: ["rice"]
 tags: ["dinner", "side dish", "easy", "healthy", "vegan"]
 prepTime: "PT5M"
@@ -14,12 +26,13 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 205
 recipeCuisine: "Asian"
-recipeInstructions: [
-  "Rinse the rice in a fine mesh strainer until the water runs clear.",
-  "In a medium pot, combine the rice, water, salt, and butter. Bring to a boil over high heat, then reduce the heat to low and cover the pot with a tight-fitting lid.",
-  "Cook the rice for 18-20 minutes, or until all the water is absorbed and the rice is tender and fluffy.",
-  "Remove the pot from the heat and let the rice rest for 5 minutes before fluffing it with a fork and serving."
-]
+recipeInstructions:
+  [
+    "Rinse the rice in a fine mesh strainer until the water runs clear.",
+    "In a medium pot, combine the rice, water, salt, and butter. Bring to a boil over high heat, then reduce the heat to low and cover the pot with a tight-fitting lid.",
+    "Cook the rice for 18-20 minutes, or until all the water is absorbed and the rice is tender and fluffy.",
+    "Remove the pot from the heat and let the rice rest for 5 minutes before fluffing it with a fork and serving.",
+  ]
 ---
 
 ## Introduction

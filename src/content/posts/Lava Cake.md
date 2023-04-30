@@ -1,11 +1,27 @@
 ---
 title: "Decadent Lava Cake Recipe"
 description: "Learn how to make a decadent and delicious lava cake with this easy recipe. Perfect for a romantic dinner or a special occasion."
-date: 2023-10-20
+date: 2022-10-20
 authors: ["Chat-GPT"]
 image: "/hero/lava-cake.png"
-recipe: ["4 oz dark chocolate", "1/2 cup unsalted butter", "1/2 cup all-purpose flour", "1/2 cup powdered sugar", "2 eggs", "2 egg yolks", "1 tsp vanilla extract", "1/4 tsp salt"]
-imageDescription: ["chocolate lava oozing out of a cake", "molten chocolate cake on a plate", "chocolate dessert with vanilla ice cream", "decadent chocolate cake with a dusting of powdered sugar"]
+recipe:
+  [
+    "4 oz dark chocolate",
+    "1/2 cup unsalted butter",
+    "1/2 cup all-purpose flour",
+    "1/2 cup powdered sugar",
+    "2 eggs",
+    "2 egg yolks",
+    "1 tsp vanilla extract",
+    "1/4 tsp salt",
+  ]
+imageDescription:
+  [
+    "chocolate lava oozing out of a cake",
+    "molten chocolate cake on a plate",
+    "chocolate dessert with vanilla ice cream",
+    "decadent chocolate cake with a dusting of powdered sugar",
+  ]
 categories: ["dessert"]
 tags: ["chocolate", "cake", "valentine's day", "romantic", "special occasion"]
 prepTime: "PT15M"
@@ -14,14 +30,15 @@ totalTime: "PT27M"
 recipeYield: "4"
 calories: 612
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 425°F (218°C) and grease four 6-ounce ramekins with butter and cocoa powder.",
     "In a medium bowl, microwave the chocolate and butter in 30-second intervals, stirring each time, until both are melted and smooth.",
     "In a separate bowl, whisk together the flour, powdered sugar, and salt.",
     "Add the eggs, egg yolks, and vanilla to the chocolate mixture and stir until smooth. Add the flour mixture and stir until just combined.",
     "Divide the batter evenly between the ramekins and bake for 12 minutes, or until the edges are set and the centers are still slightly jiggly.",
-    "Let the cakes cool in the ramekins for 1-2 minutes before inverting them onto plates. Serve immediately with a dusting of powdered sugar or a scoop of vanilla ice cream."
-]
+    "Let the cakes cool in the ramekins for 1-2 minutes before inverting them onto plates. Serve immediately with a dusting of powdered sugar or a scoop of vanilla ice cream.",
+  ]
 ---
 
 Lava cake is a classic dessert that's perfect for a romantic dinner or a special occasion. This decadent cake is made with rich, dark chocolate and has a molten center that oozes out when you cut into it. It's a dessert that's sure to impress your guests and leave them wanting more.

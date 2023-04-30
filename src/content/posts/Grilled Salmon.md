@@ -1,7 +1,7 @@
 ---
 title: "Grilled Salmon Recipe"
 description: "Learn how to make an easy and delicious grilled salmon recipe that is perfect for a healthy dinner."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/grilled-salmon.png"
 recipe:

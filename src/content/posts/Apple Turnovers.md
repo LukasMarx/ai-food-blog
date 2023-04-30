@@ -1,11 +1,30 @@
 ---
 title: "Apple Turnovers: A Classic Fall Dessert"
 description: "Learn how to make delicious apple turnovers, the perfect dessert for any fall occasion. These flaky pastries filled with warm cinnamon-spiced apples are easy to make and sure to impress your guests."
-date: 2023-11-01
+date: 2022-11-01
 authors: ["Chat-GPT"]
 image: "/hero/apple-turnovers.png"
-recipe: ["2 cups all-purpose flour", "1 tbsp sugar", "1 tsp salt", "1 cup unsalted butter, cold and cubed", "1/2 cup ice water", "2 cups apples, peeled and diced", "1/2 cup brown sugar", "1 tsp cinnamon", "1/4 tsp nutmeg", "1/4 tsp salt", "1 tbsp lemon juice", "1 egg, beaten", "1 tbsp water", "1 tbsp turbinado sugar"]
-imageDescription: ["Golden-brown apple turnovers with a flaky crust and a dusting of cinnamon sugar"]
+recipe:
+  [
+    "2 cups all-purpose flour",
+    "1 tbsp sugar",
+    "1 tsp salt",
+    "1 cup unsalted butter, cold and cubed",
+    "1/2 cup ice water",
+    "2 cups apples, peeled and diced",
+    "1/2 cup brown sugar",
+    "1 tsp cinnamon",
+    "1/4 tsp nutmeg",
+    "1/4 tsp salt",
+    "1 tbsp lemon juice",
+    "1 egg, beaten",
+    "1 tbsp water",
+    "1 tbsp turbinado sugar",
+  ]
+imageDescription:
+  [
+    "Golden-brown apple turnovers with a flaky crust and a dusting of cinnamon sugar",
+  ]
 categories: ["Desserts"]
 tags: ["Fall", "Apples", "Pastry", "Easy", "Quick"]
 prepTime: "PT30M"
@@ -14,18 +33,20 @@ totalTime: "PT55M"
 recipeYield: "4"
 calories: 470
 recipeCuisine: "American"
-recipeInstructions: ["Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
-                     "In a large mixing bowl, combine the flour, sugar, and salt. Add the cold, cubed butter and use a pastry cutter or your hands to work the butter into the flour mixture until it resembles coarse crumbs.",
-                     "Add the ice water and mix until the dough comes together. Divide the dough into 4 equal portions and shape each into a disk. Wrap the disks in plastic wrap and refrigerate for at least 30 minutes.",
-                     "In a separate mixing bowl, combine the diced apples, brown sugar, cinnamon, nutmeg, salt, and lemon juice. Mix until the apples are evenly coated.",
-                     "On a floured surface, roll out each disk of dough into a circle about 1/8 inch thick. Cut each circle into quarters.",
-                     "Spoon about 2 tablespoons of the apple mixture onto one side of each dough quarter, leaving a small border around the edge. Fold the other half of the dough over the filling and press the edges to seal.",
-                     "Transfer the turnovers to the prepared baking sheet. Use a sharp knife to cut 2 or 3 small slits in the top of each turnover to allow steam to escape.",
-                     "In a small bowl, whisk together the beaten egg and water to make an egg wash. Brush the tops of the turnovers with the egg wash and sprinkle with turbinado sugar.",
-                     "Bake the turnovers for 20-25 minutes, or until golden brown. Allow to cool for a few minutes before serving."
-                    ]
+recipeInstructions:
+  [
+    "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "In a large mixing bowl, combine the flour, sugar, and salt. Add the cold, cubed butter and use a pastry cutter or your hands to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "Add the ice water and mix until the dough comes together. Divide the dough into 4 equal portions and shape each into a disk. Wrap the disks in plastic wrap and refrigerate for at least 30 minutes.",
+    "In a separate mixing bowl, combine the diced apples, brown sugar, cinnamon, nutmeg, salt, and lemon juice. Mix until the apples are evenly coated.",
+    "On a floured surface, roll out each disk of dough into a circle about 1/8 inch thick. Cut each circle into quarters.",
+    "Spoon about 2 tablespoons of the apple mixture onto one side of each dough quarter, leaving a small border around the edge. Fold the other half of the dough over the filling and press the edges to seal.",
+    "Transfer the turnovers to the prepared baking sheet. Use a sharp knife to cut 2 or 3 small slits in the top of each turnover to allow steam to escape.",
+    "In a small bowl, whisk together the beaten egg and water to make an egg wash. Brush the tops of the turnovers with the egg wash and sprinkle with turbinado sugar.",
+    "Bake the turnovers for 20-25 minutes, or until golden brown. Allow to cool for a few minutes before serving.",
+  ]
 ---
- 
+
 ## Why Apple Turnovers Are the Perfect Fall Dessert
 
 Fall is the season of apples, and what better way to enjoy this fruit than in a delicious apple turnover? These flaky pastries are filled with warm, cinnamon-spiced apples and are the perfect dessert for any fall occasion. Whether you're looking for an easy and quick dessert to make for a family dinner or you want to impress your guests at a dinner party, apple turnovers are sure to please.

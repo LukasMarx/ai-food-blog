@@ -1,11 +1,26 @@
 ---
 title: "Chicken Alfredo Recipe: Creamy and Delicious!"
 description: "Learn how to make a delicious Chicken Alfredo with this easy recipe. Perfect for a cozy night in or a family dinner, this classic Italian dish is sure to please everyone."
-date: 2023-03-18
+date: 2022-03-18
 authors: ["Chat-GPT"]
 image: "/hero/chicken-alfredo.png"
-recipe: ["400g fettuccine pasta", "500g chicken breast, cut into bite-sized pieces", "2 cups heavy cream", "1/2 cup grated Parmesan cheese", "4 cloves garlic, minced", "2 tbsp olive oil", "Salt and pepper to taste"]
-imageDescription: ["Creamy chicken Alfredo pasta on a plate", "Rich and indulgent chicken Alfredo pasta", "Warm and comforting chicken Alfredo pasta dish", "Decadent and flavorful chicken Alfredo pasta"]
+recipe:
+  [
+    "400g fettuccine pasta",
+    "500g chicken breast, cut into bite-sized pieces",
+    "2 cups heavy cream",
+    "1/2 cup grated Parmesan cheese",
+    "4 cloves garlic, minced",
+    "2 tbsp olive oil",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "Creamy chicken Alfredo pasta on a plate",
+    "Rich and indulgent chicken Alfredo pasta",
+    "Warm and comforting chicken Alfredo pasta dish",
+    "Decadent and flavorful chicken Alfredo pasta",
+  ]
 categories: ["pasta"]
 tags: ["dinner", "Italian", "chicken", "comfort food", "easy recipe"]
 prepTime: "PT10M"
@@ -14,15 +29,16 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 750
 recipeCuisine: "Italian"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Cook the fettuccine pasta according to package instructions. Drain and set aside.",
     "In a large saucepan, heat the olive oil over medium heat. Add the minced garlic and cook until fragrant.",
     "Add the chicken breast pieces to the pan and season with salt and pepper. Cook until browned on all sides, about 6-8 minutes.",
     "Pour in the heavy cream and stir well. Bring the mixture to a simmer and let cook for 5-7 minutes, until the sauce has thickened slightly.",
     "Add the grated Parmesan cheese to the pan and stir until melted and well combined.",
     "Add the cooked fettuccine pasta to the pan and toss until evenly coated with the sauce.",
-    "Serve hot, garnished with additional Parmesan cheese and chopped parsley if desired."
-]
+    "Serve hot, garnished with additional Parmesan cheese and chopped parsley if desired.",
+  ]
 ---
 
 ## Chicken Alfredo Recipe: Creamy and Delicious!

@@ -1,7 +1,7 @@
 ---
 title: "Delicious Corn Chowder Recipe: A Perfect Comfort Food for Any Occasion"
 description: "Looking for a perfect comfort food for any occasion? Look no further than this delicious corn chowder recipe! Made with fresh corn, potatoes, and bacon, this creamy and savory soup is sure to be a hit with your family and friends."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/corn-chowder.png"
 recipe: ["4 ears of fresh corn", "3 tablespoons unsalted butter", "6 slices bacon", "1 onion diced", "2 garlic cloves minced", "2 medium potatoes peeled and cubed", "4 cups chicken or vegetable broth", "1 cup heavy cream", "1 teaspoon dried thyme", "Salt and black pepper to taste"]
@@ -26,7 +26,7 @@ recipeInstructions: [
 
 ## Why Corn Chowder is a Great Idea
 
-Corn chowder is a perfect comfort food for any occasion. It's creamy, savory, and delicious, and it's sure to be a hit with your family and friends. Whether it's for a cozy night in or a dinner party, this recipe is easy to make and will be sure to please. Made with fresh corn, potatoes, and bacon, this soup is perfect for the summer months when fresh corn is in season. 
+Corn chowder is a perfect comfort food for any occasion. It's creamy, savory, and delicious, and it's sure to be a hit with your family and friends. Whether it's for a cozy night in or a dinner party, this recipe is easy to make and will be sure to please. Made with fresh corn, potatoes, and bacon, this soup is perfect for the summer months when fresh corn is in season.
 
 ## Ingredients
 

@@ -1,11 +1,22 @@
 ---
 title: "Caprese Salad: A Fresh and Simple Italian Classic"
 description: "Learn how to make a classic Caprese Salad with this easy-to-follow recipe. This dish is perfect for a light lunch or as a side dish for a summer barbecue."
-date: 2023-05-22
+date: 2022-05-22
 authors: ["Chat-GPT"]
 image: "/hero/caprese-salad.png"
-recipe: ["4 large tomatoes", "400g fresh mozzarella cheese", "1/2 cup fresh basil leaves", "3 tbsp olive oil", "1 tbsp balsamic vinegar", "Salt and pepper to taste"]
-imageDescription: ["a plate of Caprese salad with sliced tomatoes and fresh mozzarella cheese, topped with basil leaves and drizzled with balsamic vinegar."]
+recipe:
+  [
+    "4 large tomatoes",
+    "400g fresh mozzarella cheese",
+    "1/2 cup fresh basil leaves",
+    "3 tbsp olive oil",
+    "1 tbsp balsamic vinegar",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "a plate of Caprese salad with sliced tomatoes and fresh mozzarella cheese, topped with basil leaves and drizzled with balsamic vinegar.",
+  ]
 categories: ["salad"]
 tags: ["lunch", "summer", "vegetarian", "Italian", "healthy"]
 prepTime: "PT10M"
@@ -14,14 +25,15 @@ totalTime: "PT10M"
 recipeYield: "4"
 calories: 250
 recipeCuisine: "Italian"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Slice the tomatoes and mozzarella cheese into 1/4-inch thick slices.",
     "Arrange the tomato and mozzarella slices on a large platter, alternating between the two.",
     "Sprinkle salt and pepper over the tomatoes and mozzarella slices.",
     "Drizzle olive oil and balsamic vinegar over the salad.",
     "Garnish with fresh basil leaves.",
-    "Serve immediately and enjoy!"
-]
+    "Serve immediately and enjoy!",
+  ]
 ---
 
 ## Introduction

@@ -1,11 +1,25 @@
 ---
 title: "Koulouri: A Delicious Greek Street Food Recipe"
 description: "Learn how to make the classic Greek street food, Koulouri, with this easy recipe. Perfect for a quick breakfast or snack!"
-date: 2023-04-20
+date: 2022-04-20
 authors: ["Chat-GPT"]
 image: "/hero/koulouri.jpeg"
-recipe: ["500g all-purpose flour", "1 tbsp active dry yeast", "1 tbsp sugar", "1 tbsp salt", "300ml warm water", "1/2 cup sesame seeds"]
-imageDescription: ["golden brown koulouri on a plate", "sesame seeds", "freshly baked bread", "Greek street food"]
+recipe:
+  [
+    "500g all-purpose flour",
+    "1 tbsp active dry yeast",
+    "1 tbsp sugar",
+    "1 tbsp salt",
+    "300ml warm water",
+    "1/2 cup sesame seeds",
+  ]
+imageDescription:
+  [
+    "golden brown koulouri on a plate",
+    "sesame seeds",
+    "freshly baked bread",
+    "Greek street food",
+  ]
 categories: ["bread"]
 tags: ["breakfast", "snack", "Greek food", "street food", "easy recipe"]
 prepTime: "PT15M"
@@ -14,12 +28,24 @@ totalTime: "PT35M"
 recipeYield: "4"
 calories: 240
 recipeCuisine: "Greek"
-recipeInstructions: ["In a large mixing bowl, combine flour, yeast, sugar, and salt. Mix well.", "Add warm water to the dry ingredients and mix until a dough forms. Knead the dough for 5-10 minutes until smooth and elastic.", "Cover the dough with a damp cloth and let it rest for 10 minutes.", "Divide the dough into 8 equal parts and roll each part into a long rope.", "Form each rope into a circle, pinching the ends together to seal.", "Brush each circle with water and dip into sesame seeds, making sure to coat both sides.", "Place the koulouri on a baking sheet and let rest for 5 minutes.", "Preheat the oven to 200°C (390°F).", "Bake the koulouri for 20 minutes or until golden brown.", "Serve warm and enjoy!"]
+recipeInstructions:
+  [
+    "In a large mixing bowl, combine flour, yeast, sugar, and salt. Mix well.",
+    "Add warm water to the dry ingredients and mix until a dough forms. Knead the dough for 5-10 minutes until smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 10 minutes.",
+    "Divide the dough into 8 equal parts and roll each part into a long rope.",
+    "Form each rope into a circle, pinching the ends together to seal.",
+    "Brush each circle with water and dip into sesame seeds, making sure to coat both sides.",
+    "Place the koulouri on a baking sheet and let rest for 5 minutes.",
+    "Preheat the oven to 200°C (390°F).",
+    "Bake the koulouri for 20 minutes or until golden brown.",
+    "Serve warm and enjoy!",
+  ]
 ---
 
 ## Introduction
 
-Koulouri is a classic Greek street food that is perfect for a quick breakfast or snack. This delicious bread is soft, chewy, and coated in sesame seeds, making it a tasty and satisfying treat. In this blog post, we'll show you how to make Koulouri at home with this easy recipe. 
+Koulouri is a classic Greek street food that is perfect for a quick breakfast or snack. This delicious bread is soft, chewy, and coated in sesame seeds, making it a tasty and satisfying treat. In this blog post, we'll show you how to make Koulouri at home with this easy recipe.
 
 ## Ingredients
 

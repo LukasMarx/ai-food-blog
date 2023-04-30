@@ -1,11 +1,33 @@
 ---
 title: "Stifado: A Delicious Greek Beef Stew Recipe"
 description: "Learn how to make a rich and flavorful Greek beef stew, also known as stifado, with this easy-to-follow recipe. Perfect for a cozy dinner with family and friends."
-date: 2023-04-22
+date: 2022-04-22
 authors: ["Chat-GPT"]
 image: "/hero/stifado.png"
-recipe: ["1 kg beef stew meat", "500g small onions", "2 tbsp tomato paste", "1 tsp cinnamon", "1 tsp allspice", "1 tsp black pepper", "2 bay leaves", "3 cloves of garlic", "3 tbsp olive oil", "500g canned diced tomatoes", "1 cup red wine", "2 cups beef broth", "1 tbsp honey", "1 tsp salt"]
-imageDescription: ["A plate of delicious stifado with beef and onions", "A close-up of the rich and flavorful stew", "A bowl of stifado, perfect for a cozy dinner", "A rustic pot of Greek beef stew"]
+recipe:
+  [
+    "1 kg beef stew meat",
+    "500g small onions",
+    "2 tbsp tomato paste",
+    "1 tsp cinnamon",
+    "1 tsp allspice",
+    "1 tsp black pepper",
+    "2 bay leaves",
+    "3 cloves of garlic",
+    "3 tbsp olive oil",
+    "500g canned diced tomatoes",
+    "1 cup red wine",
+    "2 cups beef broth",
+    "1 tbsp honey",
+    "1 tsp salt",
+  ]
+imageDescription:
+  [
+    "A plate of delicious stifado with beef and onions",
+    "A close-up of the rich and flavorful stew",
+    "A bowl of stifado, perfect for a cozy dinner",
+    "A rustic pot of Greek beef stew",
+  ]
 categories: ["stew"]
 tags: ["dinner", "Greek", "beef", "comfort food", "winter"]
 prepTime: "PT20M"
@@ -14,15 +36,16 @@ totalTime: "PT3H20M"
 recipeYield: "4"
 calories: 560
 recipeCuisine: "Greek"
-recipeInstructions: [
-  "Start by peeling the small onions and slicing off the root and stem ends. Set them aside.",
-  "In a large pot or Dutch oven, heat the olive oil over medium-high heat. Add the beef stew meat and brown on all sides, about 5-10 minutes. Once browned, remove the beef from the pot and set it aside on a plate.",
-  "Add the onions to the pot and cook for 5 minutes until they start to soften. Then add the garlic and cook for another 2 minutes.",
-  "Add the tomato paste, cinnamon, allspice, black pepper, and bay leaves to the pot and stir everything together. Cook for 2 minutes until fragrant.",
-  "Pour in the red wine and beef broth and stir everything together. Then add the canned diced tomatoes, honey, and salt.",
-  "Add the beef back to the pot and stir everything together. Bring the stew to a boil, then reduce the heat to low and cover the pot with a lid.",
-  "Simmer the stew for 2-3 hours, stirring occasionally, until the beef is tender and the sauce has thickened.",
-  "Serve the stifado hot with your favorite side dishes, such as crusty bread, mashed potatoes, or rice."
+recipeInstructions:
+  [
+    "Start by peeling the small onions and slicing off the root and stem ends. Set them aside.",
+    "In a large pot or Dutch oven, heat the olive oil over medium-high heat. Add the beef stew meat and brown on all sides, about 5-10 minutes. Once browned, remove the beef from the pot and set it aside on a plate.",
+    "Add the onions to the pot and cook for 5 minutes until they start to soften. Then add the garlic and cook for another 2 minutes.",
+    "Add the tomato paste, cinnamon, allspice, black pepper, and bay leaves to the pot and stir everything together. Cook for 2 minutes until fragrant.",
+    "Pour in the red wine and beef broth and stir everything together. Then add the canned diced tomatoes, honey, and salt.",
+    "Add the beef back to the pot and stir everything together. Bring the stew to a boil, then reduce the heat to low and cover the pot with a lid.",
+    "Simmer the stew for 2-3 hours, stirring occasionally, until the beef is tender and the sauce has thickened.",
+    "Serve the stifado hot with your favorite side dishes, such as crusty bread, mashed potatoes, or rice.",
   ]
 ---
 

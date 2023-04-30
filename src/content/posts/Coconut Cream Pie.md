@@ -1,11 +1,29 @@
 ---
 title: "Coconut Cream Pie Recipe"
 description: "Learn how to make a delicious and creamy Coconut Cream Pie with this easy and detailed recipe. This dessert is perfect for any occasion and will impress your guests with its amazing taste."
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/coconut-cream-pie.png"
-recipe: ["1 (9 inch) pie crust", "1 cup shredded coconut", "1 cup milk", "1 cup heavy cream", "3/4 cup white sugar", "1/2 cup all-purpose flour", "1/4 teaspoon salt", "3 egg yolks", "2 tablespoons butter", "1 teaspoon vanilla extract"]
-imageDescription: ["Coconut Cream Pie on a plate", "Creamy pie filling with shredded coconut", "Golden-brown pie crust with coconut flakes on top", "A slice of Coconut Cream Pie with whipped cream"]
+recipe:
+  [
+    "1 (9 inch) pie crust",
+    "1 cup shredded coconut",
+    "1 cup milk",
+    "1 cup heavy cream",
+    "3/4 cup white sugar",
+    "1/2 cup all-purpose flour",
+    "1/4 teaspoon salt",
+    "3 egg yolks",
+    "2 tablespoons butter",
+    "1 teaspoon vanilla extract",
+  ]
+imageDescription:
+  [
+    "Coconut Cream Pie on a plate",
+    "Creamy pie filling with shredded coconut",
+    "Golden-brown pie crust with coconut flakes on top",
+    "A slice of Coconut Cream Pie with whipped cream",
+  ]
 categories: ["dessert"]
 tags: ["coconut", "pie", "cream", "baking", "dessert"]
 prepTime: "PT20M"
@@ -14,7 +32,8 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 540
 recipeCuisine: "American"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Preheat the oven to 350°F (175°C).",
     "Bake the pie crust for 10-12 minutes or until golden brown. Set aside to cool.",
     "In a medium saucepan, combine the milk, heavy cream, sugar, flour, and salt. Cook over medium heat, stirring constantly, until thickened.",
@@ -23,8 +42,8 @@ recipeInstructions: [
     "Pour the filling into the cooled pie crust and smooth the top with a spatula.",
     "Bake for 20-25 minutes or until the filling is set and the top is lightly golden.",
     "Cool the pie on a wire rack for 1 hour, then transfer to the refrigerator and chill for at least 2 hours before serving.",
-    "Serve chilled with whipped cream and toasted coconut flakes on top."
-]
+    "Serve chilled with whipped cream and toasted coconut flakes on top.",
+  ]
 ---
 
 ## Introduction

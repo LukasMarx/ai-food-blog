@@ -1,11 +1,30 @@
 ---
 title: "Chocolate Zucchini Bread: A Delicious and Healthy Twist on a Classic Treat"
 description: "Looking for a healthier version of a classic dessert? Try this delicious chocolate zucchini bread recipe made with whole wheat flour and natural sweeteners."
-date: 2023-04-01
+date: 2022-04-01
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-zucchini-bread.png"
-recipe: ["2 cups whole wheat flour", "1/2 cup cocoa powder", "1 tsp baking soda", "1/2 tsp baking powder", "1/2 tsp salt", "1/2 cup honey", "1/2 cup unsweetened applesauce", "3 eggs", "1 tsp vanilla extract", "2 cups grated zucchini", "1 cup dark chocolate chips"]
-imageDescription: ["Slices of moist chocolate zucchini bread on a wooden board", "A close-up of a slice of chocolate zucchini bread showing the chocolate chips", "A slice of chocolate zucchini bread with a cup of coffee in the background", "A loaf of chocolate zucchini bread with a slice cut out to show the moist texture"]
+recipe:
+  [
+    "2 cups whole wheat flour",
+    "1/2 cup cocoa powder",
+    "1 tsp baking soda",
+    "1/2 tsp baking powder",
+    "1/2 tsp salt",
+    "1/2 cup honey",
+    "1/2 cup unsweetened applesauce",
+    "3 eggs",
+    "1 tsp vanilla extract",
+    "2 cups grated zucchini",
+    "1 cup dark chocolate chips",
+  ]
+imageDescription:
+  [
+    "Slices of moist chocolate zucchini bread on a wooden board",
+    "A close-up of a slice of chocolate zucchini bread showing the chocolate chips",
+    "A slice of chocolate zucchini bread with a cup of coffee in the background",
+    "A loaf of chocolate zucchini bread with a slice cut out to show the moist texture",
+  ]
 categories: ["dessert"]
 tags: ["chocolate", "zucchini", "bread", "healthy", "whole wheat"]
 prepTime: "PT20M"
@@ -14,14 +33,15 @@ totalTime: "PT1H10M"
 recipeYield: "4"
 calories: 307
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat oven to 350°F. Grease a 9x5 inch loaf pan with cooking spray.",
-  "In a large bowl, whisk together the whole wheat flour, cocoa powder, baking soda, baking powder and salt.",
-  "In another bowl, beat together the honey, applesauce, eggs and vanilla extract. Stir in the grated zucchini.",
-  "Add the wet ingredients to the dry ingredients and mix until just combined. Fold in the chocolate chips.",
-  "Pour the batter into the prepared pan and bake for 45-50 minutes, or until a toothpick inserted into the center comes out clean.",
-  "Let the bread cool in the pan for 10 minutes before removing it and placing it on a wire rack to cool completely."
-]
+recipeInstructions:
+  [
+    "Preheat oven to 350°F. Grease a 9x5 inch loaf pan with cooking spray.",
+    "In a large bowl, whisk together the whole wheat flour, cocoa powder, baking soda, baking powder and salt.",
+    "In another bowl, beat together the honey, applesauce, eggs and vanilla extract. Stir in the grated zucchini.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined. Fold in the chocolate chips.",
+    "Pour the batter into the prepared pan and bake for 45-50 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Let the bread cool in the pan for 10 minutes before removing it and placing it on a wire rack to cool completely.",
+  ]
 ---
 
 ## Introduction

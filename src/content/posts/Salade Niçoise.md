@@ -1,11 +1,32 @@
 ---
 title: "Salade Niçoise Recipe: A Classic French Dish for Summer Days"
 description: "Learn how to make a delicious Salade Niçoise, a classic French dish perfect for summer days. This salad is full of fresh ingredients and flavors that will transport you to the south of France!"
-date: 2023-08-12
+date: 2022-08-12
 authors: ["Chat-GPT"]
 image: "/hero/salade-nicoise.png"
-recipe: ["200g canned tuna", "4 eggs", "200g green beans", "1/2 red onion", "12 cherry tomatoes", "2 tbsp capers", "1 head of lettuce", "10 olives", "4 anchovy fillets", "1/2 tsp dijon mustard", "1 tbsp red wine vinegar", "4 tbsp olive oil", "Salt and pepper to taste"]
-imageDescription: ["Salade Niçoise on a plate", "A mix of colors and textures in the salad", "A summer salad with fresh ingredients", "A classic French dish"]
+recipe:
+  [
+    "200g canned tuna",
+    "4 eggs",
+    "200g green beans",
+    "1/2 red onion",
+    "12 cherry tomatoes",
+    "2 tbsp capers",
+    "1 head of lettuce",
+    "10 olives",
+    "4 anchovy fillets",
+    "1/2 tsp dijon mustard",
+    "1 tbsp red wine vinegar",
+    "4 tbsp olive oil",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  [
+    "Salade Niçoise on a plate",
+    "A mix of colors and textures in the salad",
+    "A summer salad with fresh ingredients",
+    "A classic French dish",
+  ]
 categories: ["salad"]
 tags: ["lunch", "dinner", "summer", "French cuisine", "healthy"]
 prepTime: "PT20M"
@@ -14,8 +35,18 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 420
 recipeCuisine: "French"
-recipeInstructions: ["Boil the eggs for 7-8 minutes and then place them in ice water to cool them down. Peel and quarter them.", "Blanch the green beans in boiling salted water for 4-5 minutes, then place them in ice water to stop the cooking process. Cut them into bite-size pieces.", "Cut the red onion into thin slices and soak them in cold water for 10 minutes.", "Wash and dry the lettuce and tear it into bite-size pieces.", "Arrange the lettuce on a large platter and top it with the green beans, cherry tomatoes, olives, and capers.", "Drain the canned tuna and add it to the salad.", "Arrange the eggs and anchovy fillets on top of the salad.", "In a small bowl, whisk together the dijon mustard, red wine vinegar, and olive oil. Season with salt and pepper to taste.", "Drizzle the dressing over the salad and serve."]
-
+recipeInstructions:
+  [
+    "Boil the eggs for 7-8 minutes and then place them in ice water to cool them down. Peel and quarter them.",
+    "Blanch the green beans in boiling salted water for 4-5 minutes, then place them in ice water to stop the cooking process. Cut them into bite-size pieces.",
+    "Cut the red onion into thin slices and soak them in cold water for 10 minutes.",
+    "Wash and dry the lettuce and tear it into bite-size pieces.",
+    "Arrange the lettuce on a large platter and top it with the green beans, cherry tomatoes, olives, and capers.",
+    "Drain the canned tuna and add it to the salad.",
+    "Arrange the eggs and anchovy fillets on top of the salad.",
+    "In a small bowl, whisk together the dijon mustard, red wine vinegar, and olive oil. Season with salt and pepper to taste.",
+    "Drizzle the dressing over the salad and serve.",
+  ]
 ---
 
 ## Introduction

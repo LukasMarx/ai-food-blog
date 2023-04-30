@@ -1,11 +1,34 @@
 ---
 title: "Traditional German Stollen Recipe"
 description: "Learn how to make the traditional German Christmas bread, Stollen, with this easy and delicious recipe."
-date: 2023-12-05
+date: 2022-12-05
 authors: ["Chat-GPT"]
 image: "/hero/stollen.png"
-recipe: ["500g all-purpose flour", "200g raisins", "100g candied orange peel", "100g candied lemon peel", "50g sliced almonds", "10g active dry yeast", "250ml milk", "100g sugar", "1 egg", "1 tsp salt", "1 tsp vanilla extract", "1 tsp ground cinnamon", "1/2 tsp ground nutmeg", "200g butter", "200g powdered sugar"]
-imageDescription: ["A slice of Stollen with powdered sugar on top", "A loaf of Stollen on a wooden board", "A close up of the raisins and candied fruits inside the Stollen", "A festive table setting with Stollen in the middle"]
+recipe:
+  [
+    "500g all-purpose flour",
+    "200g raisins",
+    "100g candied orange peel",
+    "100g candied lemon peel",
+    "50g sliced almonds",
+    "10g active dry yeast",
+    "250ml milk",
+    "100g sugar",
+    "1 egg",
+    "1 tsp salt",
+    "1 tsp vanilla extract",
+    "1 tsp ground cinnamon",
+    "1/2 tsp ground nutmeg",
+    "200g butter",
+    "200g powdered sugar",
+  ]
+imageDescription:
+  [
+    "A slice of Stollen with powdered sugar on top",
+    "A loaf of Stollen on a wooden board",
+    "A close up of the raisins and candied fruits inside the Stollen",
+    "A festive table setting with Stollen in the middle",
+  ]
 categories: ["bread"]
 tags: ["christmas", "german", "baking", "dessert", "holiday"]
 prepTime: "PT30M"
@@ -14,17 +37,18 @@ totalTime: "PT2H30M"
 recipeYield: "4"
 calories: 490
 recipeCuisine: "German"
-recipeInstructions: [
-  "In a large bowl, mix together flour, raisins, candied orange and lemon peel, and almonds.",
-  "In a small bowl, dissolve yeast in warm milk and let sit for 5 minutes.",
-  "Add sugar, egg, salt, vanilla extract, cinnamon, and nutmeg to the yeast mixture and mix well.",
-  "Pour the yeast mixture over the flour mixture and stir until a dough forms.",
-  "Knead the dough on a floured surface for 10 minutes, then place it in a greased bowl and cover with a damp towel. Let it rise in a warm place for 1 hour.",
-  "Preheat the oven to 180°C. Melt the butter and let it cool slightly.",
-  "Punch down the dough and knead in the melted butter. Shape the dough into a oval shape and place it on a baking sheet lined with parchment paper.",
-  "Bake for 1 hour or until golden brown. Let it cool on a wire rack.",
-  "Once the Stollen has cooled, sprinkle it with powdered sugar."
-]
+recipeInstructions:
+  [
+    "In a large bowl, mix together flour, raisins, candied orange and lemon peel, and almonds.",
+    "In a small bowl, dissolve yeast in warm milk and let sit for 5 minutes.",
+    "Add sugar, egg, salt, vanilla extract, cinnamon, and nutmeg to the yeast mixture and mix well.",
+    "Pour the yeast mixture over the flour mixture and stir until a dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, then place it in a greased bowl and cover with a damp towel. Let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 180°C. Melt the butter and let it cool slightly.",
+    "Punch down the dough and knead in the melted butter. Shape the dough into a oval shape and place it on a baking sheet lined with parchment paper.",
+    "Bake for 1 hour or until golden brown. Let it cool on a wire rack.",
+    "Once the Stollen has cooled, sprinkle it with powdered sugar.",
+  ]
 ---
 
 Stollen is a traditional German bread that is typically enjoyed during the Christmas season. This delicious bread is packed with raisins, candied orange and lemon peel, and sliced almonds, and is often dusted with powdered sugar for a festive touch. Stollen is a must-have for any holiday gathering, and with this easy and delicious recipe, you can make your own at home!

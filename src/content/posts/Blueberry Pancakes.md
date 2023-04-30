@@ -1,11 +1,28 @@
 ---
 title: "Fluffy Blueberry Pancakes Recipe"
 description: "Learn how to make delicious and fluffy blueberry pancakes with this easy recipe. Perfect for a weekend breakfast or brunch with family and friends."
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/blueberry-pancakes.png"
-recipe: ["1 1/2 cups all-purpose flour", "2 tbsp granulated sugar", "2 tsp baking powder", "1/4 tsp salt", "1 1/4 cups milk", "1 egg", "3 tbsp unsalted butter (melted)", "1 tsp vanilla extract", "1 cup fresh blueberries"]
-imageDescription: ["stack of fluffy blueberry pancakes with maple syrup and butter on top", "close-up of a blueberry pancake with melted butter", "a plate of blueberry pancakes with a fork", "a stack of pancakes with a blueberry and syrup topping"]
+recipe:
+  [
+    "1 1/2 cups all-purpose flour",
+    "2 tbsp granulated sugar",
+    "2 tsp baking powder",
+    "1/4 tsp salt",
+    "1 1/4 cups milk",
+    "1 egg",
+    "3 tbsp unsalted butter (melted)",
+    "1 tsp vanilla extract",
+    "1 cup fresh blueberries",
+  ]
+imageDescription:
+  [
+    "stack of fluffy blueberry pancakes with maple syrup and butter on top",
+    "close-up of a blueberry pancake with melted butter",
+    "a plate of blueberry pancakes with a fork",
+    "a stack of pancakes with a blueberry and syrup topping",
+  ]
 categories: ["breakfast"]
 tags: ["pancakes", "blueberry", "brunch", "weekend", "fluffy"]
 prepTime: "PT15M"
@@ -14,17 +31,18 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 385
 recipeCuisine: "American"
-recipeInstructions: [
-  "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
-  "In a separate bowl, whisk together the milk, egg, melted butter, and vanilla extract.",
-  "Pour the wet ingredients into the dry ingredients and mix until just combined.",
-  "Gently fold in the blueberries.",
-  "Heat a non-stick pan or griddle over medium-low heat.",
-  "Using a 1/4 cup measuring cup, pour the batter onto the pan or griddle.",
-  "Cook until bubbles form on the surface of the pancake and the bottom is golden brown (around 2-3 minutes).",
-  "Flip the pancake over and cook until the other side is golden brown (around 1-2 minutes).",
-  "Repeat with the remaining batter.",
-  "Serve the pancakes hot with butter and maple syrup."
+recipeInstructions:
+  [
+    "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the milk, egg, melted butter, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and mix until just combined.",
+    "Gently fold in the blueberries.",
+    "Heat a non-stick pan or griddle over medium-low heat.",
+    "Using a 1/4 cup measuring cup, pour the batter onto the pan or griddle.",
+    "Cook until bubbles form on the surface of the pancake and the bottom is golden brown (around 2-3 minutes).",
+    "Flip the pancake over and cook until the other side is golden brown (around 1-2 minutes).",
+    "Repeat with the remaining batter.",
+    "Serve the pancakes hot with butter and maple syrup.",
   ]
 ---
 
@@ -105,7 +123,7 @@ You can keep the pancakes warm by placing them on a baking sheet in a warm oven 
 
 ### Can I freeze leftover pancakes?
 
-Yes, you can freeze leftover pancakes in an airtight container for up to 2 months. To reheat, simply pop them in the toaster or microwave. 
+Yes, you can freeze leftover pancakes in an airtight container for up to 2 months. To reheat, simply pop them in the toaster or microwave.
 
 ### Can I use a pancake mix instead of making the batter from scratch?
 

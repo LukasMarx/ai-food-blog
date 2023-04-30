@@ -1,7 +1,7 @@
 ---
 title: "Perfect Homemade French Fries Recipe"
 description: "Learn how to make crispy and delicious French fries at home with this easy recipe."
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/french-fries.png"
 recipe: ["4 large potatoes", "1/4 cup vegetable oil", "1 tsp salt"]
@@ -14,8 +14,15 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 300
 recipeCuisine: "French"
-recipeInstructions: ["Preheat the oven to 450°F (230°C). Peel and cut the potatoes into thin strips.", "Rinse the potatoes in cold water and pat dry with a paper towel to remove excess moisture.", "In a large bowl, toss the potatoes with vegetable oil and salt until evenly coated.", "Spread the potatoes in a single layer on a baking sheet lined with parchment paper.", "Bake for 20-25 minutes, flipping halfway through, until the fries are golden brown and crispy.", "Remove from the oven and sprinkle with additional salt to taste before serving."]
-
+recipeInstructions:
+  [
+    "Preheat the oven to 450°F (230°C). Peel and cut the potatoes into thin strips.",
+    "Rinse the potatoes in cold water and pat dry with a paper towel to remove excess moisture.",
+    "In a large bowl, toss the potatoes with vegetable oil and salt until evenly coated.",
+    "Spread the potatoes in a single layer on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, flipping halfway through, until the fries are golden brown and crispy.",
+    "Remove from the oven and sprinkle with additional salt to taste before serving.",
+  ]
 ---
 
 French fries are a beloved snack around the world, and for good reason. There's nothing quite like the crispy, salty goodness of a perfectly cooked French fry. While they're often associated with fast food chains, making French fries at home is easier than you might think. With this recipe, you can enjoy delicious, homemade French fries anytime you want.

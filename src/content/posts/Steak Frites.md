@@ -1,11 +1,20 @@
 ---
 title: "Steak Frites: The Classic French Dish You Can Make at Home"
 description: "Learn how to make steak frites, the classic French dish, at home with this easy and delicious recipe. Perfect for a special occasion or a weeknight dinner, this dish is sure to impress and satisfy your cravings."
-date: 2023-04-12
+date: 2022-04-12
 authors: ["Chat-GPT"]
 image: "/hero/steak-frites.png"
-recipe: ["4 beef steaks (200g each)", "1kg potatoes", "4 tbsp olive oil", "1 tbsp butter", "1 garlic clove", "Salt and pepper to taste"]
-imageDescription: ["A plate of steak frites with perfectly cooked steak and crispy fries"]
+recipe:
+  [
+    "4 beef steaks (200g each)",
+    "1kg potatoes",
+    "4 tbsp olive oil",
+    "1 tbsp butter",
+    "1 garlic clove",
+    "Salt and pepper to taste",
+  ]
+imageDescription:
+  ["A plate of steak frites with perfectly cooked steak and crispy fries"]
 categories: ["French"]
 tags: ["dinner", "beef", "potatoes", "french cuisine", "easy recipe"]
 prepTime: "PT20M"
@@ -14,14 +23,15 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 650
 recipeCuisine: "French"
-recipeInstructions: [
-  "Preheat your oven to 220°C.",
-  "Wash and peel the potatoes. Cut them into thin fries and pat them dry with a clean towel.",
-  "In a large bowl, toss the fries with 2 tbsp of olive oil, salt and pepper to taste. Spread them out in a single layer on a baking sheet and bake for 30 minutes, flipping them halfway through.",
-  "While the fries are baking, season the steaks with salt and pepper to taste. Heat 2 tbsp of olive oil in a large skillet over high heat. When the oil is hot, add the steaks and cook for 3-4 minutes per side for medium-rare or longer if you prefer your steak more well-done. Add the butter and garlic to the skillet and baste the steaks with the mixture for extra flavor.",
-  "Remove the steaks from the skillet and let them rest for a few minutes before slicing them against the grain.",
-  "Serve the steak frites hot, with the crispy fries and sliced steak on a plate. Enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat your oven to 220°C.",
+    "Wash and peel the potatoes. Cut them into thin fries and pat them dry with a clean towel.",
+    "In a large bowl, toss the fries with 2 tbsp of olive oil, salt and pepper to taste. Spread them out in a single layer on a baking sheet and bake for 30 minutes, flipping them halfway through.",
+    "While the fries are baking, season the steaks with salt and pepper to taste. Heat 2 tbsp of olive oil in a large skillet over high heat. When the oil is hot, add the steaks and cook for 3-4 minutes per side for medium-rare or longer if you prefer your steak more well-done. Add the butter and garlic to the skillet and baste the steaks with the mixture for extra flavor.",
+    "Remove the steaks from the skillet and let them rest for a few minutes before slicing them against the grain.",
+    "Serve the steak frites hot, with the crispy fries and sliced steak on a plate. Enjoy!",
+  ]
 ---
 
 ## Why You Should Make Steak Frites

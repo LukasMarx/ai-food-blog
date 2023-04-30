@@ -1,27 +1,44 @@
 ---
 title: "Delicious Apple Crumble Recipe"
 description: "This easy and tasty Apple Crumble recipe is perfect for a cozy night in or for impressing your guests at a dinner party. The warm and comforting flavors of cinnamon and nutmeg pair perfectly with the sweet, juicy apples and the crunchy crumble topping."
-date: 2023-08-01
+date: 2022-08-01
 authors: ["Chat-GPT"]
 image: "/hero/apple-crumble.png"
-recipe: ["6 medium apples", "120g all-purpose flour", "100g unsalted butter", "100g brown sugar", "1 tsp ground cinnamon", "1/4 tsp ground nutmeg", "1/4 tsp salt"]
-imageDescription: ["apple crumble in a baking dish", "golden brown crumble topping", "juicy and sweet apple filling", "a scoop of vanilla ice cream on top"]
+recipe:
+  [
+    "6 medium apples",
+    "120g all-purpose flour",
+    "100g unsalted butter",
+    "100g brown sugar",
+    "1 tsp ground cinnamon",
+    "1/4 tsp ground nutmeg",
+    "1/4 tsp salt",
+  ]
+imageDescription:
+  [
+    "apple crumble in a baking dish",
+    "golden brown crumble topping",
+    "juicy and sweet apple filling",
+    "a scoop of vanilla ice cream on top",
+  ]
 categories: ["dessert"]
-tags: ["fall recipes", "comfort food", "baking", "easy recipes", "fruit desserts"]
+tags:
+  ["fall recipes", "comfort food", "baking", "easy recipes", "fruit desserts"]
 prepTime: "PT20M"
 cookTime: "PT45M"
 totalTime: "PT1H5M"
 recipeYield: "4"
 calories: 360
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 375°F (190°C).",
-  "Peel and chop the apples into small pieces and place them in a baking dish.",
-  "In a separate bowl, mix the flour, brown sugar, cinnamon, nutmeg, and salt. Add the butter and mix until the mixture is crumbly.",
-  "Sprinkle the crumble mixture over the apples, covering them evenly.",
-  "Bake for 40-45 minutes, or until the top is golden brown and the apples are soft and bubbly.",
-  "Let the crumble cool for a few minutes before serving. Enjoy warm with a scoop of vanilla ice cream on top!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and chop the apples into small pieces and place them in a baking dish.",
+    "In a separate bowl, mix the flour, brown sugar, cinnamon, nutmeg, and salt. Add the butter and mix until the mixture is crumbly.",
+    "Sprinkle the crumble mixture over the apples, covering them evenly.",
+    "Bake for 40-45 minutes, or until the top is golden brown and the apples are soft and bubbly.",
+    "Let the crumble cool for a few minutes before serving. Enjoy warm with a scoop of vanilla ice cream on top!",
+  ]
 ---
 
 ## Introduction
@@ -31,11 +48,13 @@ Apple Crumble is a classic dessert that is loved by many. It's warm, comforting,
 ## Ingredients
 
 For the Apple Filling:
+
 - 6 medium apples, peeled and chopped
 - 1 tsp ground cinnamon
 - 1/4 tsp ground nutmeg
 
 For the Crumble Topping:
+
 - 120g all-purpose flour
 - 100g unsalted butter, cold and cubed
 - 100g brown sugar

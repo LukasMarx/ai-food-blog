@@ -1,7 +1,7 @@
 ---
 title: "S'mores Cake: A Delicious Dessert Recipe Perfect for Any Occasion"
 description: "Learn how to make a mouth-watering S'mores Cake with this easy-to-follow recipe. This cake is perfect for any occasion, from family gatherings to birthday parties. Follow the simple steps and enjoy this delicious dessert with your loved ones!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/smores-cake.png"
 recipe:

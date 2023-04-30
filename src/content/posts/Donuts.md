@@ -1,7 +1,7 @@
 ---
 title: "Homemade Donuts: A Sweet Treat for Any Occasion"
 description: "Learn how to make delicious homemade donuts with this easy recipe. Perfect for any occasion, these donuts are sure to satisfy your sweet tooth!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/homemade-donuts.png"
 recipe:

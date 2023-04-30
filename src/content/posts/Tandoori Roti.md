@@ -1,11 +1,18 @@
 ---
 title: "Tandoori Roti: Delicious and Easy Indian Flatbread Recipe"
 description: "Learn how to make authentic Tandoori Roti at home with this easy-to-follow recipe. This delicious Indian flatbread is perfect for any meal and is sure to impress your family and friends."
-date: 2023-04-02
+date: 2022-04-02
 authors: ["Chat-GPT"]
 image: "/hero/tandoori-roti.png"
-recipe: ["2 cups whole wheat flour", "1 tsp salt", "1 tbsp oil", "1/2 cup water"]
-imageDescription: ["Tandoori Roti on a plate", "Indian Flatbread with Curry", "Golden Brown Tandoori Roti", "Indian Roti with Butter"]
+recipe:
+  ["2 cups whole wheat flour", "1 tsp salt", "1 tbsp oil", "1/2 cup water"]
+imageDescription:
+  [
+    "Tandoori Roti on a plate",
+    "Indian Flatbread with Curry",
+    "Golden Brown Tandoori Roti",
+    "Indian Roti with Butter",
+  ]
 categories: ["Indian"]
 tags: ["dinner", "lunch", "vegan", "vegetarian", "healthy"]
 prepTime: "PT10M"
@@ -14,19 +21,20 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 227
 recipeCuisine: "Indian"
-recipeInstructions: [
-  "In a mixing bowl, add whole wheat flour, salt, and oil. Mix well.",
-  "Add water gradually and knead the dough until it is smooth and soft.",
-  "Cover the dough and let it rest for 15 minutes.",
-  "Divide the dough into 4 equal parts and shape them into balls.",
-  "Take one ball and roll it out into a thin circle of about 6-7 inches in diameter.",
-  "Preheat a tawa or griddle on medium-high heat.",
-  "Place the roti on the tawa and cook for about 30 seconds or until bubbles start to form on the surface.",
-  "Flip and cook the other side for about a minute or until brown spots appear.",
-  "Remove the roti from the tawa and brush it with butter or ghee.",
-  "Repeat the process with the remaining dough balls.",
-  "Serve hot with your favorite curry or chutney."
-]
+recipeInstructions:
+  [
+    "In a mixing bowl, add whole wheat flour, salt, and oil. Mix well.",
+    "Add water gradually and knead the dough until it is smooth and soft.",
+    "Cover the dough and let it rest for 15 minutes.",
+    "Divide the dough into 4 equal parts and shape them into balls.",
+    "Take one ball and roll it out into a thin circle of about 6-7 inches in diameter.",
+    "Preheat a tawa or griddle on medium-high heat.",
+    "Place the roti on the tawa and cook for about 30 seconds or until bubbles start to form on the surface.",
+    "Flip and cook the other side for about a minute or until brown spots appear.",
+    "Remove the roti from the tawa and brush it with butter or ghee.",
+    "Repeat the process with the remaining dough balls.",
+    "Serve hot with your favorite curry or chutney.",
+  ]
 ---
 
 ## Introduction

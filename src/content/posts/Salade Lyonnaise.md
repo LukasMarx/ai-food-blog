@@ -1,11 +1,27 @@
 ---
 title: "Salade Lyonnaise: A Classic French Salad Recipe"
 description: "Learn how to make the classic French salad, Salade Lyonnaise, with this easy-to-follow recipe. This salad is packed with flavors and textures that will leave you feeling satisfied and refreshed."
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/salade-lyonnaise.png"
-recipe: ["150g frisée lettuce", "150g bacon lardons", "4 large eggs", "1 small shallot", "2 tbsp red wine vinegar", "1 tsp Dijon mustard", "4 tbsp olive oil", "Salt and pepper"]
-imageDescription: ["Salade Lyonnaise served on a plate", "Eggs with runny yolks", "Crispy bacon lardons", "Frisée lettuce leaves"]
+recipe:
+  [
+    "150g frisée lettuce",
+    "150g bacon lardons",
+    "4 large eggs",
+    "1 small shallot",
+    "2 tbsp red wine vinegar",
+    "1 tsp Dijon mustard",
+    "4 tbsp olive oil",
+    "Salt and pepper",
+  ]
+imageDescription:
+  [
+    "Salade Lyonnaise served on a plate",
+    "Eggs with runny yolks",
+    "Crispy bacon lardons",
+    "Frisée lettuce leaves",
+  ]
 categories: ["salad"]
 tags: ["French", "brunch", "lunch", "healthy", "easy"]
 prepTime: "PT15M"
@@ -14,14 +30,15 @@ totalTime: "PT25M"
 recipeYield: "4"
 calories: 306
 recipeCuisine: "French"
-recipeInstructions: [
-  "In a large bowl, wash and dry the frisée lettuce leaves. Set aside.",
-  "In a pan, cook the bacon lardons until crispy. Remove from the pan and set aside.",
-  "In the same pan, fry the eggs to your desired level of doneness. Set aside.",
-  "In a small bowl, whisk together the shallot, red wine vinegar, Dijon mustard, olive oil, salt, and pepper to make the dressing.",
-  "Add the bacon lardons to the bowl of frisée lettuce and toss with the dressing.",
-  "Divide the salad onto 4 plates, and top each with a fried egg. Serve immediately."
-]
+recipeInstructions:
+  [
+    "In a large bowl, wash and dry the frisée lettuce leaves. Set aside.",
+    "In a pan, cook the bacon lardons until crispy. Remove from the pan and set aside.",
+    "In the same pan, fry the eggs to your desired level of doneness. Set aside.",
+    "In a small bowl, whisk together the shallot, red wine vinegar, Dijon mustard, olive oil, salt, and pepper to make the dressing.",
+    "Add the bacon lardons to the bowl of frisée lettuce and toss with the dressing.",
+    "Divide the salad onto 4 plates, and top each with a fried egg. Serve immediately.",
+  ]
 ---
 
 ## Introduction

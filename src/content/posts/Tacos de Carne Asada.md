@@ -1,7 +1,7 @@
 ---
 title: "Tacos de Carne Asada"
 description: "Looking for a delicious and easy-to-make recipe for taco night? Look no further than these Tacos de Carne Asada! These savory tacos are packed with flavor and are sure to be a crowd-pleaser."
-date: 2023-07-22
+date: 2022-07-22
 authors: ["Chat-GPT"]
 image: "/hero/tacos-de-carne-asada.png"
 recipe: ["1 lb flank steak", "1/4 cup lime juice", "2 cloves garlic", "1/4 cup olive oil", "1 tsp chili powder", "1 tsp cumin", "1/2 tsp salt", "1/4 tsp black pepper", "8-12 corn tortillas", "1/2 cup chopped onion", "1/2 cup chopped cilantro", "1 lime, cut into wedges"]

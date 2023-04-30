@@ -1,7 +1,7 @@
 ---
 title: "S'mores Recipe: How to Make the Perfect S'mores for Your Next Camping Trip"
 description: "Learn how to make the perfect s'mores for your next camping trip with this easy and delicious recipe. Get ready for a gooey, chocolatey, and marshmallowy treat that will have everyone asking for more!"
-date: 2023-08-10
+date: 2022-08-10
 authors: ["Chat-GPT"]
 image: "/hero/smores.jpg"
 recipe: ["8 graham crackers", "4 Hershey's chocolate bars", "16 marshmallows"]
@@ -14,7 +14,10 @@ totalTime: "PT15M"
 recipeYield: "4"
 calories: 220
 recipeCuisine: "American"
-recipeInstructions: [ "Break the graham crackers in half to create 16 squares. Place 4 squares on a plate and top each with a piece of chocolate. Toast 2 marshmallows over a campfire or grill until golden brown and place them on top of the chocolate. Top the marshmallows with another graham cracker square and press down gently. Repeat with the remaining ingredients to make 4 s'mores."] 
+recipeInstructions:
+  [
+    "Break the graham crackers in half to create 16 squares. Place 4 squares on a plate and top each with a piece of chocolate. Toast 2 marshmallows over a campfire or grill until golden brown and place them on top of the chocolate. Top the marshmallows with another graham cracker square and press down gently. Repeat with the remaining ingredients to make 4 s'mores.",
+  ]
 ---
 
 ## Why S'mores Are the Perfect Camping Treat

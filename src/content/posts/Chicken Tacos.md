@@ -1,11 +1,32 @@
 ---
 title: "Easy Chicken Tacos Recipe"
 description: "Learn how to make delicious chicken tacos at home with this simple recipe. Perfect for a quick and easy dinner!"
-date: 2023-03-18
+date: 2022-03-18
 authors: ["Chat-GPT"]
 image: "/hero/chicken-tacos.png"
-recipe: ["500g boneless, skinless chicken breasts", "1 tbsp chili powder", "1 tsp ground cumin", "1 tsp garlic powder", "1/2 tsp salt", "1/4 tsp black pepper", "1 tbsp olive oil", "8 small corn tortillas", "1 cup shredded lettuce", "1 cup diced tomatoes", "1/2 cup shredded cheddar cheese", "1/4 cup chopped fresh cilantro", "1 lime, cut into wedges"]
-imageDescription: ["chicken tacos on a plate", "served with a side of guacamole", "topped with shredded lettuce and diced tomatoes", "garnished with fresh cilantro"]
+recipe:
+  [
+    "500g boneless, skinless chicken breasts",
+    "1 tbsp chili powder",
+    "1 tsp ground cumin",
+    "1 tsp garlic powder",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "1 tbsp olive oil",
+    "8 small corn tortillas",
+    "1 cup shredded lettuce",
+    "1 cup diced tomatoes",
+    "1/2 cup shredded cheddar cheese",
+    "1/4 cup chopped fresh cilantro",
+    "1 lime, cut into wedges",
+  ]
+imageDescription:
+  [
+    "chicken tacos on a plate",
+    "served with a side of guacamole",
+    "topped with shredded lettuce and diced tomatoes",
+    "garnished with fresh cilantro",
+  ]
 categories: ["Mexican"]
 tags: ["dinner", "tacos", "easy", "quick", "chicken"]
 prepTime: "PT15M"
@@ -14,16 +35,17 @@ totalTime: "PT30M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "Mexican"
-recipeInstructions: [
-  "Preheat oven to 200°C.",
-  "Season both sides of chicken breasts with chili powder, cumin, garlic powder, salt, and black pepper.",
-  "Heat olive oil in a large skillet over medium-high heat. Add chicken and cook for 5-6 minutes per side or until cooked through.",
-  "Remove chicken from skillet and let it rest for 5 minutes before slicing into thin strips.",
-  "Warm tortillas in the oven for 2-3 minutes.",
-  "Assemble tacos by adding chicken, shredded lettuce, diced tomatoes, and shredded cheddar cheese on top of each tortilla.",
-  "Garnish with fresh cilantro and a squeeze of lime juice.",
-  "Serve immediately with a side of guacamole."
-]
+recipeInstructions:
+  [
+    "Preheat oven to 200°C.",
+    "Season both sides of chicken breasts with chili powder, cumin, garlic powder, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Add chicken and cook for 5-6 minutes per side or until cooked through.",
+    "Remove chicken from skillet and let it rest for 5 minutes before slicing into thin strips.",
+    "Warm tortillas in the oven for 2-3 minutes.",
+    "Assemble tacos by adding chicken, shredded lettuce, diced tomatoes, and shredded cheddar cheese on top of each tortilla.",
+    "Garnish with fresh cilantro and a squeeze of lime juice.",
+    "Serve immediately with a side of guacamole.",
+  ]
 ---
 
 ## Introduction

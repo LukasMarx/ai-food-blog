@@ -1,11 +1,24 @@
 ---
 title: "Arancini: Delicious Italian Rice Balls"
 description: "Arancini are crispy, golden-fried rice balls from Italy that are filled with meat, cheese or vegetables. Learn how to make this classic Italian dish with our easy-to-follow recipe."
-date: 2023-08-12
+date: 2022-08-12
 authors: ["Chat-GPT"]
 image: "/hero/arancini.jpg"
-recipe: ["500g Arborio rice", "1 onion, finely chopped", "2 garlic cloves, minced", "1 litre chicken or vegetable broth", "1/2 cup grated parmesan cheese", "1/2 cup breadcrumbs", "2 eggs, beaten", "1 cup mozzarella cheese, diced", "Salt and pepper to taste", "Oil for frying"]
-imageDescription: ["Crispy, golden-brown arancini rice balls filled with cheese"]
+recipe:
+  [
+    "500g Arborio rice",
+    "1 onion, finely chopped",
+    "2 garlic cloves, minced",
+    "1 litre chicken or vegetable broth",
+    "1/2 cup grated parmesan cheese",
+    "1/2 cup breadcrumbs",
+    "2 eggs, beaten",
+    "1 cup mozzarella cheese, diced",
+    "Salt and pepper to taste",
+    "Oil for frying",
+  ]
+imageDescription:
+  ["Crispy, golden-brown arancini rice balls filled with cheese"]
 categories: ["Italian"]
 tags: ["dinner", "appetizer", "fried", "rice", "cheese"]
 prepTime: "PT30M"
@@ -14,19 +27,20 @@ totalTime: "PT60M"
 recipeYield: "4"
 calories: 650
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "In a large saucepan, sauté the onion and garlic in a little oil until translucent.",
-  "Add the rice and stir until it is coated with the oil. Add the broth, salt and pepper to taste, and bring to a boil.",
-  "Reduce heat to low and cover the pan. Cook for 20 minutes or until the rice is cooked through and the liquid has been absorbed.",
-  "Remove from heat and stir in the parmesan cheese, breadcrumbs, and eggs. Let the mixture cool completely.",
-  "Take a handful of the rice mixture and flatten it in the palm of your hand. Place a small cube of mozzarella cheese in the center and form the rice into a ball around the cheese.",
-  "Repeat with the remaining rice mixture and cheese cubes.",
-  "Heat the oil in a saucepan or deep fryer to 180°C. Fry the arancini in batches until golden brown and crispy, about 3-4 minutes per batch.",
-  "Remove the arancini with a slotted spoon and drain on paper towels. Serve warm and enjoy!"
-]
+recipeInstructions:
+  [
+    "In a large saucepan, sauté the onion and garlic in a little oil until translucent.",
+    "Add the rice and stir until it is coated with the oil. Add the broth, salt and pepper to taste, and bring to a boil.",
+    "Reduce heat to low and cover the pan. Cook for 20 minutes or until the rice is cooked through and the liquid has been absorbed.",
+    "Remove from heat and stir in the parmesan cheese, breadcrumbs, and eggs. Let the mixture cool completely.",
+    "Take a handful of the rice mixture and flatten it in the palm of your hand. Place a small cube of mozzarella cheese in the center and form the rice into a ball around the cheese.",
+    "Repeat with the remaining rice mixture and cheese cubes.",
+    "Heat the oil in a saucepan or deep fryer to 180°C. Fry the arancini in batches until golden brown and crispy, about 3-4 minutes per batch.",
+    "Remove the arancini with a slotted spoon and drain on paper towels. Serve warm and enjoy!",
+  ]
 ---
 
-Arancini are a delicious and popular Italian street food that can be enjoyed as a snack or as a meal. These crispy, golden-fried rice balls are filled with meat, cheese, or vegetables and are a great way to use up leftover rice. In this recipe, we'll be making classic arancini filled with mozzarella cheese. 
+Arancini are a delicious and popular Italian street food that can be enjoyed as a snack or as a meal. These crispy, golden-fried rice balls are filled with meat, cheese, or vegetables and are a great way to use up leftover rice. In this recipe, we'll be making classic arancini filled with mozzarella cheese.
 
 ## Ingredients
 

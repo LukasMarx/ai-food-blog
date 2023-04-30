@@ -1,10 +1,21 @@
 ---
 title: "Piedmontese Meatballs"
 description: "Learn how to make delicious Piedmontese meatballs that are perfect for a cozy night in or dinner party with friends."
-date: 2023-03-18
+date: 2022-03-18
 authors: ["Chat-GPT"]
 image: "/hero/piedmontese-meatballs.jpg"
-recipe: ["500g ground beef", "1/2 cup breadcrumbs", "1/2 cup milk", "1/2 cup grated Parmesan cheese", "1 egg", "1/4 cup finely chopped onion", "1/4 cup finely chopped parsley", "1 tsp salt", "1/4 tsp black pepper"]
+recipe:
+  [
+    "500g ground beef",
+    "1/2 cup breadcrumbs",
+    "1/2 cup milk",
+    "1/2 cup grated Parmesan cheese",
+    "1 egg",
+    "1/4 cup finely chopped onion",
+    "1/4 cup finely chopped parsley",
+    "1 tsp salt",
+    "1/4 tsp black pepper",
+  ]
 imageDescription: ["Hearty meatballs in a rich tomato sauce"]
 categories: ["meatballs"]
 tags: ["dinner", "Italian", "Piedmontese", "meat", "comfort food"]
@@ -14,15 +25,16 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 380
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "In a large bowl, combine the ground beef, breadcrumbs, milk, Parmesan cheese, egg, onion, parsley, salt and pepper. Mix well with your hands until everything is evenly combined.",
-  "Shape the mixture into 12-16 meatballs, depending on how large you want them. Place the meatballs on a plate and chill in the refrigerator for at least 20 minutes to firm up.",
-  "Heat a large skillet over medium-high heat. Add 1 tablespoon of olive oil and swirl to coat the bottom of the pan. Add the meatballs and cook for 8-10 minutes, turning occasionally, until browned on all sides.",
-  "Remove the meatballs from the pan and set aside. In the same pan, add 1 tablespoon of olive oil and the finely chopped onion. Cook for 2-3 minutes, until the onion is soft and translucent.",
-  "Add the crushed tomatoes, tomato paste, sugar, salt, and red pepper flakes to the pan. Stir well to combine, and bring to a simmer.",
-  "Add the meatballs back to the pan, spooning the tomato sauce over them. Cover and simmer for 15-20 minutes, until the meatballs are cooked through and the sauce has thickened.",
-  "Serve the meatballs hot, garnished with chopped parsley and grated Parmesan cheese."
-]
+recipeInstructions:
+  [
+    "In a large bowl, combine the ground beef, breadcrumbs, milk, Parmesan cheese, egg, onion, parsley, salt and pepper. Mix well with your hands until everything is evenly combined.",
+    "Shape the mixture into 12-16 meatballs, depending on how large you want them. Place the meatballs on a plate and chill in the refrigerator for at least 20 minutes to firm up.",
+    "Heat a large skillet over medium-high heat. Add 1 tablespoon of olive oil and swirl to coat the bottom of the pan. Add the meatballs and cook for 8-10 minutes, turning occasionally, until browned on all sides.",
+    "Remove the meatballs from the pan and set aside. In the same pan, add 1 tablespoon of olive oil and the finely chopped onion. Cook for 2-3 minutes, until the onion is soft and translucent.",
+    "Add the crushed tomatoes, tomato paste, sugar, salt, and red pepper flakes to the pan. Stir well to combine, and bring to a simmer.",
+    "Add the meatballs back to the pan, spooning the tomato sauce over them. Cover and simmer for 15-20 minutes, until the meatballs are cooked through and the sauce has thickened.",
+    "Serve the meatballs hot, garnished with chopped parsley and grated Parmesan cheese.",
+  ]
 ---
 
 ## Introduction

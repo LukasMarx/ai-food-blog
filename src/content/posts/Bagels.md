@@ -1,7 +1,7 @@
 ---
 title: "Homemade Bagels: A Delicious Recipe for Breakfast"
 description: "Learn how to make homemade bagels that are perfect for breakfast or brunch. This easy recipe will guide you through the process of making soft, chewy bagels from scratch."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/homemade-bagels.png"
 recipe:

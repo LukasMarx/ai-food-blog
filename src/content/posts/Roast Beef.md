@@ -1,11 +1,26 @@
 ---
 title: "Roast Beef Recipe with Garlic and Herb Butter"
 description: "Learn how to make a delicious and juicy roast beef with a flavorful garlic and herb butter. Perfect for a special occasion or a cozy family dinner."
-date: 2023-03-18
+date: 2022-03-18
 authors: ["Chat-GPT"]
 image: "/hero/roast-beef.png"
-recipe: ["1.5 kg beef sirloin", "4 garlic cloves, minced", "2 tbsp fresh rosemary, finely chopped", "2 tbsp fresh thyme, finely chopped", "1/2 cup unsalted butter, softened", "1 tsp salt", "1/2 tsp black pepper"]
-imageDescription: ["Roast beef with crispy golden crust", "Juicy and tender meat", "Aromatic garlic and herb butter", "Mouthwatering main course"]
+recipe:
+  [
+    "1.5 kg beef sirloin",
+    "4 garlic cloves, minced",
+    "2 tbsp fresh rosemary, finely chopped",
+    "2 tbsp fresh thyme, finely chopped",
+    "1/2 cup unsalted butter, softened",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "Roast beef with crispy golden crust",
+    "Juicy and tender meat",
+    "Aromatic garlic and herb butter",
+    "Mouthwatering main course",
+  ]
 categories: ["beef"]
 tags: ["dinner", "roast", "special occasion", "holiday", "family dinner"]
 prepTime: "PT15M"
@@ -14,13 +29,14 @@ totalTime: "PT1H45M"
 recipeYield: "4"
 calories: 420
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 180°C.",
-  "In a small bowl, mix together the minced garlic, chopped rosemary, chopped thyme, softened butter, salt, and black pepper until well combined.",
-  "Place the beef sirloin on a roasting pan, fat side up. Rub the garlic and herb butter all over the beef, making sure to cover it evenly.",
-  "Roast the beef in the preheated oven for 1 hour and 15 minutes, or until a meat thermometer inserted into the thickest part of the beef reads 55°C for medium-rare.",
-  "Remove the beef from the oven and let it rest for 15 minutes before slicing it. Serve with your favorite sides and enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 180°C.",
+    "In a small bowl, mix together the minced garlic, chopped rosemary, chopped thyme, softened butter, salt, and black pepper until well combined.",
+    "Place the beef sirloin on a roasting pan, fat side up. Rub the garlic and herb butter all over the beef, making sure to cover it evenly.",
+    "Roast the beef in the preheated oven for 1 hour and 15 minutes, or until a meat thermometer inserted into the thickest part of the beef reads 55°C for medium-rare.",
+    "Remove the beef from the oven and let it rest for 15 minutes before slicing it. Serve with your favorite sides and enjoy!",
+  ]
 ---
 
 ## Introduction

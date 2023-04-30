@@ -1,29 +1,83 @@
 ---
 title: "Neapolitan Cake Recipe"
 description: "Learn how to make a delicious and colorful Neapolitan Cake with this easy-to-follow recipe. Perfect for any occasion!"
-date: 2023-11-22
+date: 2022-11-22
 authors: ["Chat-GPT"]
 image: "/hero/neapolitan-cake.png"
-recipe: ["For the Vanilla Layer:", "2 cups all-purpose flour", "2 tsp baking powder", "1/2 tsp salt", "1/2 cup unsalted butter, room temperature", "1 cup granulated sugar", "2 large eggs", "2 tsp vanilla extract", "1 cup whole milk", "For the Chocolate Layer:", "1 1/2 cups all-purpose flour", "1/2 cup unsweetened cocoa powder", "1 tsp baking powder", "1 tsp baking soda", "1/2 tsp salt", "1/2 cup unsalted butter, room temperature", "1 cup granulated sugar", "2 large eggs", "1 tsp vanilla extract", "1 cup whole milk", "For the Strawberry Layer:", "1 1/2 cups all-purpose flour", "1 tsp baking powder", "1/2 tsp baking soda", "1/2 tsp salt", "1/2 cup unsalted butter, room temperature", "1 cup granulated sugar", "2 large eggs", "1 tsp vanilla extract", "1/2 cup whole milk", "1/2 cup pureed strawberries"]
-imageDescription: ["A slice of Neapolitan Cake with layers of vanilla, chocolate, and strawberry cake topped with whipped cream and fresh strawberries."]
+recipe:
+  [
+    "For the Vanilla Layer:",
+    "2 cups all-purpose flour",
+    "2 tsp baking powder",
+    "1/2 tsp salt",
+    "1/2 cup unsalted butter, room temperature",
+    "1 cup granulated sugar",
+    "2 large eggs",
+    "2 tsp vanilla extract",
+    "1 cup whole milk",
+    "For the Chocolate Layer:",
+    "1 1/2 cups all-purpose flour",
+    "1/2 cup unsweetened cocoa powder",
+    "1 tsp baking powder",
+    "1 tsp baking soda",
+    "1/2 tsp salt",
+    "1/2 cup unsalted butter, room temperature",
+    "1 cup granulated sugar",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "1 cup whole milk",
+    "For the Strawberry Layer:",
+    "1 1/2 cups all-purpose flour",
+    "1 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/2 tsp salt",
+    "1/2 cup unsalted butter, room temperature",
+    "1 cup granulated sugar",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "1/2 cup whole milk",
+    "1/2 cup pureed strawberries",
+  ]
+imageDescription:
+  [
+    "A slice of Neapolitan Cake with layers of vanilla, chocolate, and strawberry cake topped with whipped cream and fresh strawberries.",
+  ]
 categories: ["cake"]
-tags: ["dessert", "birthday", "party", "neapolitan", "vanilla", "chocolate", "strawberry"]
+tags:
+  [
+    "dessert",
+    "birthday",
+    "party",
+    "neapolitan",
+    "vanilla",
+    "chocolate",
+    "strawberry",
+  ]
 prepTime: "PT30M"
 cookTime: "PT35M"
 totalTime: "PT1H5M"
 recipeYield: "4"
 calories: 480
 recipeCuisine: "American"
-recipeInstructions: ["Preheat your oven to 350°F (180°C) and grease three 8-inch (20cm) cake pans with butter and flour.", "For the Vanilla Layer: In a medium bowl, whisk together the flour, baking powder and salt. In a large bowl, using a hand mixer or stand mixer, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, beating well after each addition. Beat in the vanilla extract. Gradually add the dry ingredients to the wet ingredients, alternating with the milk, until everything is fully combined. Divide the batter evenly among the three prepared pans.", "For the Chocolate Layer: In a medium bowl, whisk together the flour, cocoa powder, baking powder, baking soda and salt. In a large bowl, using a hand mixer or stand mixer, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, beating well after each addition. Beat in the vanilla extract. Gradually add the dry ingredients to the wet ingredients, alternating with the milk, until everything is fully combined. Divide the batter evenly among the three prepared pans.", "For the Strawberry Layer: In a medium bowl, whisk together the flour, baking powder, baking soda and salt. In a large bowl, using a hand mixer or stand mixer, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, beating well after each addition. Beat in the vanilla extract and pureed strawberries. Gradually add the dry ingredients to the wet ingredients, alternating with the milk, until everything is fully combined. Divide the batter evenly among the three prepared pans.", "Bake the cakes for 30-35 minutes or until a toothpick inserted in the center comes out clean. Let the cakes cool completely before removing them from the pans.", "To assemble the cake, place one cake layer of each flavor on top of each other, spreading a thin layer of whipped cream or buttercream frosting in between each layer. Frost the outside of the cake with the remaining frosting and decorate with fresh strawberries, if desired."]
+recipeInstructions:
+  [
+    "Preheat your oven to 350°F (180°C) and grease three 8-inch (20cm) cake pans with butter and flour.",
+    "For the Vanilla Layer: In a medium bowl, whisk together the flour, baking powder and salt. In a large bowl, using a hand mixer or stand mixer, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, beating well after each addition. Beat in the vanilla extract. Gradually add the dry ingredients to the wet ingredients, alternating with the milk, until everything is fully combined. Divide the batter evenly among the three prepared pans.",
+    "For the Chocolate Layer: In a medium bowl, whisk together the flour, cocoa powder, baking powder, baking soda and salt. In a large bowl, using a hand mixer or stand mixer, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, beating well after each addition. Beat in the vanilla extract. Gradually add the dry ingredients to the wet ingredients, alternating with the milk, until everything is fully combined. Divide the batter evenly among the three prepared pans.",
+    "For the Strawberry Layer: In a medium bowl, whisk together the flour, baking powder, baking soda and salt. In a large bowl, using a hand mixer or stand mixer, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, beating well after each addition. Beat in the vanilla extract and pureed strawberries. Gradually add the dry ingredients to the wet ingredients, alternating with the milk, until everything is fully combined. Divide the batter evenly among the three prepared pans.",
+    "Bake the cakes for 30-35 minutes or until a toothpick inserted in the center comes out clean. Let the cakes cool completely before removing them from the pans.",
+    "To assemble the cake, place one cake layer of each flavor on top of each other, spreading a thin layer of whipped cream or buttercream frosting in between each layer. Frost the outside of the cake with the remaining frosting and decorate with fresh strawberries, if desired.",
+  ]
 ---
 
 ## Introduction
 
-Neapolitan Cake is a classic dessert that everyone loves. This colorful cake is a perfect choice for birthdays, parties or any special occasion. The cake is layered with three different flavors: vanilla, chocolate, and strawberry, which are beautifully stacked on top of each other. The cake is then frosted with a delicious whipped cream or buttercream frosting and topped with fresh strawberries. In this recipe, we will show you how to make this delicious cake step-by-step. 
+Neapolitan Cake is a classic dessert that everyone loves. This colorful cake is a perfect choice for birthdays, parties or any special occasion. The cake is layered with three different flavors: vanilla, chocolate, and strawberry, which are beautifully stacked on top of each other. The cake is then frosted with a delicious whipped cream or buttercream frosting and topped with fresh strawberries. In this recipe, we will show you how to make this delicious cake step-by-step.
 
 ## Ingredients
 
 For the Vanilla Layer:
+
 - 2 cups all-purpose flour
 - 2 tsp baking powder
 - 1/2 tsp salt
@@ -34,6 +88,7 @@ For the Vanilla Layer:
 - 1 cup whole milk
 
 For the Chocolate Layer:
+
 - 1 1/2 cups all-purpose flour
 - 1/2 cup unsweetened cocoa powder
 - 1 tsp baking powder
@@ -46,6 +101,7 @@ For the Chocolate Layer:
 - 1 cup whole milk
 
 For the Strawberry Layer:
+
 - 1 1/2 cups all-purpose flour
 - 1 tsp baking powder
 - 1/2 tsp baking soda
@@ -58,6 +114,7 @@ For the Strawberry Layer:
 - 1/2 cup pureed strawberries
 
 For the Frosting and Decoration:
+
 - 2 cups whipped cream or buttercream frosting
 - Fresh strawberries
 
@@ -77,7 +134,7 @@ For the Frosting and Decoration:
 
 ## Vegetarian and Vegan Variations
 
-To make this cake vegetarian, you can replace the eggs with an egg substitute, such as applesauce or mashed bananas. For a vegan version, you can use a vegan butter substitute and replace the milk with a plant-based milk, such as almond or soy milk. 
+To make this cake vegetarian, you can replace the eggs with an egg substitute, such as applesauce or mashed bananas. For a vegan version, you can use a vegan butter substitute and replace the milk with a plant-based milk, such as almond or soy milk.
 
 ## Gluten-Free Variation
 

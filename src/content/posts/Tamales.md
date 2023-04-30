@@ -1,11 +1,29 @@
 ---
 title: "Authentic Tamales Recipe: How to Make Tamales from Scratch"
 description: "Learn how to make authentic tamales from scratch with this easy-to-follow recipe. These delicious tamales are a staple of Mexican cuisine and are perfect for a festive dinner or special occasion. Follow our step-by-step instructions and impress your guests with your culinary skills!"
-date: 2023-09-01
+date: 2022-09-01
 authors: ["Chat-GPT"]
 image: "/hero/tamales.jpg"
-recipe: ["4 cups masa harina", "3 cups chicken broth", "1.5 cups lard", "2 tsp salt", "2 tsp baking powder", "1 tsp cumin", "1 tsp chili powder", "1 lb cooked meat (pork or chicken)", "1 cup red chili sauce", "1 cup corn husks (soaked in water for at least 1 hour)"]
-imageDescription: ["tamales on a plate", "steaming hot", "wrapped in corn husks", "garnished with fresh cilantro"]
+recipe:
+  [
+    "4 cups masa harina",
+    "3 cups chicken broth",
+    "1.5 cups lard",
+    "2 tsp salt",
+    "2 tsp baking powder",
+    "1 tsp cumin",
+    "1 tsp chili powder",
+    "1 lb cooked meat (pork or chicken)",
+    "1 cup red chili sauce",
+    "1 cup corn husks (soaked in water for at least 1 hour)",
+  ]
+imageDescription:
+  [
+    "tamales on a plate",
+    "steaming hot",
+    "wrapped in corn husks",
+    "garnished with fresh cilantro",
+  ]
 categories: ["Mexican"]
 tags: ["dinner", "authentic", "from scratch", "spicy", "festive"]
 prepTime: "PT1H"
@@ -14,19 +32,20 @@ totalTime: "PT3H"
 recipeYield: "4"
 calories: 460
 recipeCuisine: "Mexican"
-recipeInstructions: [
-  "In a large bowl, mix together masa harina, chicken broth, lard, salt, baking powder, cumin, and chili powder until well combined.",
-  "In a separate bowl, mix together the cooked meat and red chili sauce until well coated.",
-  "To assemble the tamales, take a soaked corn husk and spread a thin layer of masa harina mixture onto the husk, leaving a border around the edges.",
-  "Place a spoonful of the meat mixture onto the masa harina mixture.",
-  "Fold the sides of the corn husk inwards and then fold the bottom upwards.",
-  "Tie the tamale with a strip of corn husk to keep it together.",
-  "Repeat the process until all of the masa harina mixture and meat mixture is used up.",
-  "In a large pot, place a steamer basket and add enough water to reach the bottom of the basket.",
-  "Place the tamales standing up in the steamer basket.",
-  "Cover the pot with a lid and steam the tamales over medium heat for 1.5 to 2 hours, or until the masa harina is cooked through and no longer sticky.",
-  "Serve the tamales hot, garnished with fresh cilantro."
-]
+recipeInstructions:
+  [
+    "In a large bowl, mix together masa harina, chicken broth, lard, salt, baking powder, cumin, and chili powder until well combined.",
+    "In a separate bowl, mix together the cooked meat and red chili sauce until well coated.",
+    "To assemble the tamales, take a soaked corn husk and spread a thin layer of masa harina mixture onto the husk, leaving a border around the edges.",
+    "Place a spoonful of the meat mixture onto the masa harina mixture.",
+    "Fold the sides of the corn husk inwards and then fold the bottom upwards.",
+    "Tie the tamale with a strip of corn husk to keep it together.",
+    "Repeat the process until all of the masa harina mixture and meat mixture is used up.",
+    "In a large pot, place a steamer basket and add enough water to reach the bottom of the basket.",
+    "Place the tamales standing up in the steamer basket.",
+    "Cover the pot with a lid and steam the tamales over medium heat for 1.5 to 2 hours, or until the masa harina is cooked through and no longer sticky.",
+    "Serve the tamales hot, garnished with fresh cilantro.",
+  ]
 ---
 
 ## Why Tamales are Great

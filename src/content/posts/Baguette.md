@@ -1,11 +1,17 @@
 ---
 title: "Homemade Baguette Recipe"
 description: "Learn to make delicious baguettes at home with this easy recipe. Crispy crust and soft interior makes this bread perfect for any meal."
-date: 2023-08-20
+date: 2022-08-20
 authors: ["Chat-GPT"]
 image: "/hero/baguette.png"
 recipe: ["500g bread flour", "10g salt", "5g instant yeast", "350ml warm water"]
-imageDescription: ["crusty baguette on a wooden board", "freshly baked baguette with butter", "sliced baguette with cheese and grapes", "baguette sandwich with ham and veggies"]
+imageDescription:
+  [
+    "crusty baguette on a wooden board",
+    "freshly baked baguette with butter",
+    "sliced baguette with cheese and grapes",
+    "baguette sandwich with ham and veggies",
+  ]
 categories: ["bread"]
 tags: ["homemade", "baking", "French cuisine", "lunch", "dinner"]
 prepTime: "PT30M"
@@ -14,7 +20,8 @@ totalTime: "PT2H30M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "French"
-recipeInstructions: [
+recipeInstructions:
+  [
     "In a large bowl, mix the flour and salt together.",
     "In another bowl, whisk the yeast and water until the yeast has fully dissolved.",
     "Make a well in the center of the flour mixture and pour in the yeast mixture.",
@@ -26,8 +33,8 @@ recipeInstructions: [
     "Place the baguettes on a baking sheet lined with parchment paper.",
     "Score the tops of the baguettes with a sharp knife and then let them rise for another 20 minutes.",
     "Bake the baguettes for 20-25 minutes or until they are golden brown and sound hollow when tapped on the bottom.",
-    "Let the baguettes cool on a wire rack before serving."
-]
+    "Let the baguettes cool on a wire rack before serving.",
+  ]
 ---
 
 Baguette is a classic French bread with a crispy crust and soft interior. It is perfect for sandwiches, appetizers, or just as a side for soup, and it's surprisingly easy to make at home! In this post, we'll show you how to make delicious baguettes from scratch using simple ingredients.

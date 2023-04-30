@@ -1,7 +1,7 @@
 ---
 title: "Lemon Raspberry Recipe: A Refreshing and Sweet Treat"
 description: "This Lemon Raspberry recipe is a perfect combination of tangy and sweet, making it a refreshing treat for any occasion. Try out this easy and delicious recipe today!"
-date: 2023-03-16
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/lemon-raspberry.png"
 recipe:

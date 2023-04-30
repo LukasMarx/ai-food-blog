@@ -1,11 +1,25 @@
 ---
 title: "Sweet Potato Cake Recipe"
 description: "Learn how to make a delicious and moist sweet potato cake with this easy recipe. Perfect for dessert or a special occasion!"
-date: 2023-03-20
+date: 2022-03-20
 authors: ["Chat-GPT"]
 image: "/hero/sweet-potato-cake.png"
-recipe: ["2 cups (400g) granulated sugar", "1 cup (240ml) vegetable oil", "4 large eggs", "2 cups (260g) all-purpose flour", "2 teaspoons baking powder", "2 teaspoons cinnamon", "1 teaspoon baking soda", "1/2 teaspoon salt", "3 cups (450g) mashed sweet potatoes", "1 cup (240ml) milk", "1 teaspoon vanilla extract"]
-imageDescription: ["A slice of sweet potato cake with frosting and chopped pecans."]
+recipe:
+  [
+    "2 cups (400g) granulated sugar",
+    "1 cup (240ml) vegetable oil",
+    "4 large eggs",
+    "2 cups (260g) all-purpose flour",
+    "2 teaspoons baking powder",
+    "2 teaspoons cinnamon",
+    "1 teaspoon baking soda",
+    "1/2 teaspoon salt",
+    "3 cups (450g) mashed sweet potatoes",
+    "1 cup (240ml) milk",
+    "1 teaspoon vanilla extract",
+  ]
+imageDescription:
+  ["A slice of sweet potato cake with frosting and chopped pecans."]
 categories: ["desserts"]
 tags: ["sweet potato", "cake", "dessert", "special occasion", "baking"]
 prepTime: "PT30M"
@@ -14,15 +28,16 @@ totalTime: "PT1H30M"
 recipeYield: "4"
 calories: 632
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch (23cm) cake pans.",
-  "In a large mixing bowl, cream sugar and oil. Beat in eggs one at a time.",
-  "In a separate bowl, whisk flour, baking powder, cinnamon, baking soda, and salt.",
-  "Gradually add the dry ingredients to the creamed mixture. Stir in sweet potatoes, milk and vanilla extract.",
-  "Pour the batter evenly into the prepared pans. Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
-  "Cool for 10 minutes in the pans before removing to wire racks to cool completely.",
-  "Frost the cake with your favorite frosting and sprinkle with chopped pecans."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch (23cm) cake pans.",
+    "In a large mixing bowl, cream sugar and oil. Beat in eggs one at a time.",
+    "In a separate bowl, whisk flour, baking powder, cinnamon, baking soda, and salt.",
+    "Gradually add the dry ingredients to the creamed mixture. Stir in sweet potatoes, milk and vanilla extract.",
+    "Pour the batter evenly into the prepared pans. Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
+    "Cool for 10 minutes in the pans before removing to wire racks to cool completely.",
+    "Frost the cake with your favorite frosting and sprinkle with chopped pecans.",
+  ]
 ---
 
 Sweet potato cake is a delicious and moist cake that is perfect for dessert or special occasions. The sweet potato adds a unique flavor and texture to the cake that is sure to please everyone. This cake is easy to make and will impress your guests with its beautiful appearance and delectable taste.

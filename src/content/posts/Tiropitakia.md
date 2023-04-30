@@ -1,11 +1,29 @@
 ---
 title: "Tiropitakia: The Perfect Greek Appetizer"
 description: "Learn how to make tiropitakia, a delicious Greek appetizer that is perfect for any occasion. This recipe is easy to follow and uses simple ingredients to create a crowd-pleasing dish that everyone will love."
-date: 2023-04-20
+date: 2022-04-20
 authors: ["Chat-GPT"]
 image: "/hero/tiropitakia.png"
-recipe: ["1 cup feta cheese, crumbled", "1 cup ricotta cheese", "1/2 cup unsalted butter, melted", "1/2 cup olive oil", "1/2 teaspoon salt", "1/4 teaspoon black pepper", "1/4 teaspoon nutmeg", "1/4 teaspoon paprika", "1 egg, beaten", "1 pound phyllo dough"]
-imageDescription: ["golden brown and crispy tiropitakia", "flaky and buttery pastry", "cheesy filling with a hint of nutmeg", "a plate of bite-sized tiropitakia"]
+recipe:
+  [
+    "1 cup feta cheese, crumbled",
+    "1 cup ricotta cheese",
+    "1/2 cup unsalted butter, melted",
+    "1/2 cup olive oil",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1/4 teaspoon nutmeg",
+    "1/4 teaspoon paprika",
+    "1 egg, beaten",
+    "1 pound phyllo dough",
+  ]
+imageDescription:
+  [
+    "golden brown and crispy tiropitakia",
+    "flaky and buttery pastry",
+    "cheesy filling with a hint of nutmeg",
+    "a plate of bite-sized tiropitakia",
+  ]
 categories: ["Greek"]
 tags: ["appetizer", "party food", "finger food", "cheese", "phyllo dough"]
 prepTime: "PT30M"
@@ -14,15 +32,16 @@ totalTime: "PT50M"
 recipeYield: "4"
 calories: 270
 recipeCuisine: "Greek"
-recipeInstructions: [
-  "Preheat the oven to 375°F (190°C).",
-  "In a large mixing bowl, combine the feta cheese, ricotta cheese, melted butter, olive oil, salt, pepper, nutmeg, and paprika. Stir well to combine.",
-  "Lightly beat the egg in a small bowl and set aside.",
-  "Unwrap the phyllo dough and cut it into 2-inch wide strips. Carefully separate the layers and cover them with a damp towel to prevent them from drying out.",
-  "Take one strip of phyllo dough and brush it with the beaten egg. Place a teaspoon of the cheese mixture at the bottom of the strip, leaving about half an inch of space at the bottom and sides. Fold the bottom of the strip over the filling to form a triangle. Continue to fold the triangle up the strip until you reach the end. Brush the top of the triangle with more beaten egg to seal it. Repeat with the remaining phyllo dough and filling.",
-  "Place the tiropitakia on a baking sheet lined with parchment paper. Brush the tops with the remaining beaten egg.",
-  "Bake for 15-20 minutes, or until golden brown and crispy. Serve warm and enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the feta cheese, ricotta cheese, melted butter, olive oil, salt, pepper, nutmeg, and paprika. Stir well to combine.",
+    "Lightly beat the egg in a small bowl and set aside.",
+    "Unwrap the phyllo dough and cut it into 2-inch wide strips. Carefully separate the layers and cover them with a damp towel to prevent them from drying out.",
+    "Take one strip of phyllo dough and brush it with the beaten egg. Place a teaspoon of the cheese mixture at the bottom of the strip, leaving about half an inch of space at the bottom and sides. Fold the bottom of the strip over the filling to form a triangle. Continue to fold the triangle up the strip until you reach the end. Brush the top of the triangle with more beaten egg to seal it. Repeat with the remaining phyllo dough and filling.",
+    "Place the tiropitakia on a baking sheet lined with parchment paper. Brush the tops with the remaining beaten egg.",
+    "Bake for 15-20 minutes, or until golden brown and crispy. Serve warm and enjoy!",
+  ]
 ---
 
 ## Introduction

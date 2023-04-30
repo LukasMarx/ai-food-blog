@@ -1,33 +1,57 @@
 ---
 title: "Cream Puffs: A Sweet and Easy-to-Make Dessert Recipe"
 description: "Learn how to make this classic French dessert with this simple and easy-to-follow recipe for cream puffs. Perfect for any occasion, these light, airy, and delicious treats are sure to impress your guests!"
-date: 2023-08-01
+date: 2022-08-01
 authors: ["Chat-GPT"]
 image: "/hero/cream-puffs.png"
-recipe: ["1 cup water", "1/2 cup unsalted butter", "1/4 tsp salt", "1 cup all-purpose flour", "4 large eggs", "1 cup heavy cream", "1/4 cup powdered sugar", "1 tsp vanilla extract"]
-imageDescription: ["A plate of cream puffs with a dusting of powdered sugar", "A cream puff being filled with whipped cream", "A close-up of a cream puff showing its light and airy texture", "A cream puff being topped with a drizzle of chocolate sauce"]
+recipe:
+  [
+    "1 cup water",
+    "1/2 cup unsalted butter",
+    "1/4 tsp salt",
+    "1 cup all-purpose flour",
+    "4 large eggs",
+    "1 cup heavy cream",
+    "1/4 cup powdered sugar",
+    "1 tsp vanilla extract",
+  ]
+imageDescription:
+  [
+    "A plate of cream puffs with a dusting of powdered sugar",
+    "A cream puff being filled with whipped cream",
+    "A close-up of a cream puff showing its light and airy texture",
+    "A cream puff being topped with a drizzle of chocolate sauce",
+  ]
 categories: ["Dessert"]
-tags: ["Cream Puffs", "French Desserts", "Easy Desserts", "Party Food", "Summer Desserts"]
+tags:
+  [
+    "Cream Puffs",
+    "French Desserts",
+    "Easy Desserts",
+    "Party Food",
+    "Summer Desserts",
+  ]
 prepTime: "PT20M"
 cookTime: "PT30M"
 totalTime: "PT50M"
 recipeYield: "4"
 calories: 330
 recipeCuisine: "French"
-recipeInstructions: [
-  "Preheat your oven to 400°F (200°C).",
-  "In a medium saucepan, bring the water, butter, and salt to a boil over medium-high heat.",
-  "Add the flour all at once and stir vigorously with a wooden spoon until the mixture forms a ball and pulls away from the sides of the pan.",
-  "Remove from heat and let cool for a minute or two.",
-  "Add the eggs one at a time, beating well after each addition, until the mixture is smooth and glossy.",
-  "Using a piping bag or a spoon, drop mounds of dough onto a baking sheet lined with parchment paper, about 2 inches apart.",
-  "Bake for 25-30 minutes, or until the cream puffs are puffed and golden brown.",
-  "Remove from the oven and let cool completely on a wire rack.",
-  "In a large bowl, beat the heavy cream, powdered sugar, and vanilla extract until stiff peaks form.",
-  "Cut the tops off the cream puffs and fill with the whipped cream.",
-  "Replace the tops and dust with powdered sugar or drizzle with chocolate sauce, if desired.",
-  "Serve and enjoy!"
-]
+recipeInstructions:
+  [
+    "Preheat your oven to 400°F (200°C).",
+    "In a medium saucepan, bring the water, butter, and salt to a boil over medium-high heat.",
+    "Add the flour all at once and stir vigorously with a wooden spoon until the mixture forms a ball and pulls away from the sides of the pan.",
+    "Remove from heat and let cool for a minute or two.",
+    "Add the eggs one at a time, beating well after each addition, until the mixture is smooth and glossy.",
+    "Using a piping bag or a spoon, drop mounds of dough onto a baking sheet lined with parchment paper, about 2 inches apart.",
+    "Bake for 25-30 minutes, or until the cream puffs are puffed and golden brown.",
+    "Remove from the oven and let cool completely on a wire rack.",
+    "In a large bowl, beat the heavy cream, powdered sugar, and vanilla extract until stiff peaks form.",
+    "Cut the tops off the cream puffs and fill with the whipped cream.",
+    "Replace the tops and dust with powdered sugar or drizzle with chocolate sauce, if desired.",
+    "Serve and enjoy!",
+  ]
 ---
 
 ## Why Cream Puffs are a Great Idea

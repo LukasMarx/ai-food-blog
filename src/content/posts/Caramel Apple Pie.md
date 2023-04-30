@@ -1,11 +1,29 @@
 ---
 title: "Caramel Apple Pie: A Classic Dessert with a Twist"
 description: "Learn how to make a delicious Caramel Apple Pie with this easy and simple recipe. Perfect for any occasion, this recipe will become a family favorite in no time!"
-date: 2023-03-20
+date: 2022-03-20
 authors: ["Chat-GPT"]
 image: "/hero/caramel-apple-pie.png"
-recipe: ["300g all-purpose flour", "1 tsp salt", "200g unsalted butter", "6 tbsp ice water", "8 cups thinly sliced peeled and cored apples", "1/2 cup granulated sugar", "1/4 cup all-purpose flour", "1 tsp ground cinnamon", "1/4 tsp salt", "1/4 cup caramel sauce"]
-imageDescription: ["A freshly baked Caramel Apple Pie sitting on a wooden table", "A slice of Caramel Apple Pie with a scoop of vanilla ice cream on top", "A close-up of the layered filling of thinly sliced apples and caramel sauce in the pie", "A hand holding a fork and cutting a slice of pie"]
+recipe:
+  [
+    "300g all-purpose flour",
+    "1 tsp salt",
+    "200g unsalted butter",
+    "6 tbsp ice water",
+    "8 cups thinly sliced peeled and cored apples",
+    "1/2 cup granulated sugar",
+    "1/4 cup all-purpose flour",
+    "1 tsp ground cinnamon",
+    "1/4 tsp salt",
+    "1/4 cup caramel sauce",
+  ]
+imageDescription:
+  [
+    "A freshly baked Caramel Apple Pie sitting on a wooden table",
+    "A slice of Caramel Apple Pie with a scoop of vanilla ice cream on top",
+    "A close-up of the layered filling of thinly sliced apples and caramel sauce in the pie",
+    "A hand holding a fork and cutting a slice of pie",
+  ]
 categories: ["pie"]
 tags: ["dessert", "baking", "autumn", "Thanksgiving", "holiday"]
 prepTime: "PT30M"
@@ -14,33 +32,36 @@ totalTime: "PT1H30M"
 recipeYield: "4"
 calories: 470
 recipeCuisine: "American"
-recipeInstructions: [
-  "In a large bowl, mix together the flour and salt. Using a pastry blender or two knives, cut in the butter until the mixture resembles coarse crumbs.",
-  "Gradually add the ice water, 1 tablespoon at a time, until the dough comes together and forms a ball.",
-  "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
-  "Preheat the oven to 375°F (190°C).",
-  "In a large bowl, combine the sliced apples, sugar, flour, cinnamon, salt, and caramel sauce. Mix well.",
-  "On a lightly floured surface, roll out half of the dough to fit a 9-inch (23cm) pie dish. Place the dough in the dish.",
-  "Pour the apple mixture into the crust.",
-  "Roll out the remaining dough and cut it into strips. Arrange the strips in a lattice pattern over the filling.",
-  "Bake for 45-50 minutes or until the crust is golden brown and the filling is bubbly.",
-  "Let the pie cool for at least 30 minutes before serving."
-]
+recipeInstructions:
+  [
+    "In a large bowl, mix together the flour and salt. Using a pastry blender or two knives, cut in the butter until the mixture resembles coarse crumbs.",
+    "Gradually add the ice water, 1 tablespoon at a time, until the dough comes together and forms a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced apples, sugar, flour, cinnamon, salt, and caramel sauce. Mix well.",
+    "On a lightly floured surface, roll out half of the dough to fit a 9-inch (23cm) pie dish. Place the dough in the dish.",
+    "Pour the apple mixture into the crust.",
+    "Roll out the remaining dough and cut it into strips. Arrange the strips in a lattice pattern over the filling.",
+    "Bake for 45-50 minutes or until the crust is golden brown and the filling is bubbly.",
+    "Let the pie cool for at least 30 minutes before serving.",
+  ]
 ---
 
 ## Introduction
 
-Caramel Apple Pie is a classic dessert that has been enjoyed for generations. This recipe takes the classic apple pie up a notch with the addition of caramel sauce, which adds a rich and decadent flavor to the filling. This pie is perfect for any occasion, whether you're baking for a holiday gathering or just want a delicious dessert to enjoy with your family. 
+Caramel Apple Pie is a classic dessert that has been enjoyed for generations. This recipe takes the classic apple pie up a notch with the addition of caramel sauce, which adds a rich and decadent flavor to the filling. This pie is perfect for any occasion, whether you're baking for a holiday gathering or just want a delicious dessert to enjoy with your family.
 
 ## Ingredients
 
 For the crust:
+
 - 300g all-purpose flour
 - 1 tsp salt
 - 200g unsalted butter, chilled and cut into small pieces
 - 6 tbsp ice water
 
 For the filling:
+
 - 8 cups thinly sliced peeled and cored apples
 - 1/2 cup granulated sugar
 - 1/4 cup all-purpose flour

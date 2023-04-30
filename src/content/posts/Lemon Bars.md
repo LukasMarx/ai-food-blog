@@ -1,11 +1,28 @@
 ---
 title: "Luscious Lemon Bars Recipe"
 description: "Learn the recipe of luscious lemon bars that you can make easily at home. These lemon bars are tangy, sweet, and buttery with a perfect balance of flavors."
-date: 2023-07-12
+date: 2022-07-12
 authors: ["Chat-GPT"]
 image: "/hero/lemon-bars.png"
-recipe: ["1 cup unsalted butter, room temperature", "1/2 cup granulated sugar", "2 cups all-purpose flour", "1/4 tsp salt", "4 large eggs", "1 1/2 cups granulated sugar", "1/3 cup all-purpose flour", "2 tbsp lemon zest", "1 cup freshly squeezed lemon juice"]
-imageDescription: ["Lemon bars on a plate", "A slice of lemon bar on a napkin", "Lemon bars with powdered sugar", "A bite of lemon bar"]
+recipe:
+  [
+    "1 cup unsalted butter, room temperature",
+    "1/2 cup granulated sugar",
+    "2 cups all-purpose flour",
+    "1/4 tsp salt",
+    "4 large eggs",
+    "1 1/2 cups granulated sugar",
+    "1/3 cup all-purpose flour",
+    "2 tbsp lemon zest",
+    "1 cup freshly squeezed lemon juice",
+  ]
+imageDescription:
+  [
+    "Lemon bars on a plate",
+    "A slice of lemon bar on a napkin",
+    "Lemon bars with powdered sugar",
+    "A bite of lemon bar",
+  ]
 categories: ["Dessert"]
 tags: ["Lemon", "Bars", "Dessert", "Baking", "Easy"]
 prepTime: "PT30M"
@@ -14,10 +31,19 @@ totalTime: "PT1H15M"
 recipeYield: "4"
 calories: 385
 recipeCuisine: "American"
-recipeInstructions: ["Preheat the oven to 350°F (175°C).", "In a large mixing bowl, cream together the butter and sugar until light and fluffy. Add the flour and salt and mix until a soft dough forms.", "Press the dough evenly into the bottom of a 9x13 inch baking pan. Bake for 18-20 minutes, or until the edges of the crust are golden brown.", "Meanwhile, in a separate mixing bowl, whisk together the eggs, sugar, flour, lemon zest, and lemon juice until smooth.", "When the crust is done baking, remove it from the oven and pour the lemon filling over it.", "Bake for an additional 20-25 minutes, or until the filling is set and the edges are golden brown.", "Remove the pan from the oven and let it cool to room temperature. Chill in the refrigerator for at least 30 minutes before cutting into bars."]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large mixing bowl, cream together the butter and sugar until light and fluffy. Add the flour and salt and mix until a soft dough forms.",
+    "Press the dough evenly into the bottom of a 9x13 inch baking pan. Bake for 18-20 minutes, or until the edges of the crust are golden brown.",
+    "Meanwhile, in a separate mixing bowl, whisk together the eggs, sugar, flour, lemon zest, and lemon juice until smooth.",
+    "When the crust is done baking, remove it from the oven and pour the lemon filling over it.",
+    "Bake for an additional 20-25 minutes, or until the filling is set and the edges are golden brown.",
+    "Remove the pan from the oven and let it cool to room temperature. Chill in the refrigerator for at least 30 minutes before cutting into bars.",
+  ]
 ---
 
-Do you love tangy, sweet, and buttery desserts? If yes, then you should definitely try making luscious lemon bars at home. These lemon bars are perfect for any occasion, from a casual tea party to a fancy dinner. They are easy to make and require only a few ingredients that you probably already have in your pantry. 
+Do you love tangy, sweet, and buttery desserts? If yes, then you should definitely try making luscious lemon bars at home. These lemon bars are perfect for any occasion, from a casual tea party to a fancy dinner. They are easy to make and require only a few ingredients that you probably already have in your pantry.
 
 ## Ingredients
 

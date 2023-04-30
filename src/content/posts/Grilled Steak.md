@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Grilled Steak Recipe"
 description: "Learn how to cook the perfect grilled steak with this easy and delicious recipe. Impress your friends and family with your grilling skills!"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/grilled-steak.png"
 recipe:

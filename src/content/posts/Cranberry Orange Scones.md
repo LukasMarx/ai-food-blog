@@ -1,11 +1,30 @@
 ---
 title: "Cranberry Orange Scones"
 description: "These homemade scones are bursting with the flavors of tart cranberries and zesty orange. Perfect for a cozy breakfast or brunch, these scones are easy to make and will impress your guests!"
-date: 2023-11-23
+date: 2022-11-23
 authors: ["Chat-GPT"]
 image: "/hero/cranberry-orange-scones.png"
-recipe: ["360g all-purpose flour", "100g granulated sugar", "2 tsp baking powder", "1 tsp baking soda", "1/2 tsp salt", "170g unsalted butter, cold and cubed", "1 large egg", "120ml buttermilk", "1 tsp vanilla extract", "Zest of 1 orange", "180g fresh cranberries"]
-imageDescription: ["Cranberry Orange Scones on a plate", "Freshly baked scones with cranberries and orange zest", "A basket of warm, flaky scones with a hint of cranberry and orange", "A plate of scones with a dollop of whipped cream and a sprig of mint"]
+recipe:
+  [
+    "360g all-purpose flour",
+    "100g granulated sugar",
+    "2 tsp baking powder",
+    "1 tsp baking soda",
+    "1/2 tsp salt",
+    "170g unsalted butter, cold and cubed",
+    "1 large egg",
+    "120ml buttermilk",
+    "1 tsp vanilla extract",
+    "Zest of 1 orange",
+    "180g fresh cranberries",
+  ]
+imageDescription:
+  [
+    "Cranberry Orange Scones on a plate",
+    "Freshly baked scones with cranberries and orange zest",
+    "A basket of warm, flaky scones with a hint of cranberry and orange",
+    "A plate of scones with a dollop of whipped cream and a sprig of mint",
+  ]
 categories: ["breakfast"]
 tags: ["scones", "cranberry", "orange", "brunch", "baking"]
 prepTime: "PT20M"
@@ -14,18 +33,19 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 520
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 200°C and line a baking sheet with parchment paper.",
-  "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.",
-  "Using a pastry cutter or your fingers, cut the cold butter into the flour mixture until the mixture resembles coarse crumbs.",
-  "In a separate bowl, whisk together the egg, buttermilk, vanilla extract, and orange zest.",
-  "Add the wet ingredients to the dry ingredients and mix until just combined.",
-  "Fold in the fresh cranberries.",
-  "Turn the dough out onto a lightly floured surface and knead gently until it comes together.",
-  "Form the dough into a circle about 1 inch thick and cut into 8 wedges.",
-  "Place the wedges onto the prepared baking sheet and bake for 18-20 minutes, or until golden brown and cooked through.",
-  "Serve warm with butter, jam, or whipped cream."
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 200°C and line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.",
+    "Using a pastry cutter or your fingers, cut the cold butter into the flour mixture until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the egg, buttermilk, vanilla extract, and orange zest.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Fold in the fresh cranberries.",
+    "Turn the dough out onto a lightly floured surface and knead gently until it comes together.",
+    "Form the dough into a circle about 1 inch thick and cut into 8 wedges.",
+    "Place the wedges onto the prepared baking sheet and bake for 18-20 minutes, or until golden brown and cooked through.",
+    "Serve warm with butter, jam, or whipped cream.",
+  ]
 ---
 
 ## Why You Should Make Cranberry Orange Scones

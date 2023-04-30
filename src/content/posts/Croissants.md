@@ -1,11 +1,27 @@
 ---
 title: "Homemade Croissants Recipe"
 description: "Learn how to make delicious and buttery croissants from scratch with this easy recipe. Perfect for breakfast or a snack!"
-date: 2023-09-22
+date: 2022-09-22
 authors: ["Chat-GPT"]
 image: "/hero/homemade-croissants.png"
-recipe: ["500g all-purpose flour", "10g salt", "50g sugar", "25g fresh yeast", "300ml milk", "200g unsalted butter", "1 egg yolk", "1 tbsp milk"]
-imageDescription: ["Croissants on a wooden board", "Flaky and buttery layers", "Golden and crispy crust", "Freshly baked croissants on a plate"]
+recipe:
+  [
+    "500g all-purpose flour",
+    "10g salt",
+    "50g sugar",
+    "25g fresh yeast",
+    "300ml milk",
+    "200g unsalted butter",
+    "1 egg yolk",
+    "1 tbsp milk",
+  ]
+imageDescription:
+  [
+    "Croissants on a wooden board",
+    "Flaky and buttery layers",
+    "Golden and crispy crust",
+    "Freshly baked croissants on a plate",
+  ]
 categories: ["pastry"]
 tags: ["breakfast", "brunch", "french", "baking", "snack"]
 prepTime: "PT30M"
@@ -14,7 +30,8 @@ totalTime: "PT3H30M"
 recipeYield: "4"
 calories: 320
 recipeCuisine: "French"
-recipeInstructions: [
+recipeInstructions:
+  [
     "In a large bowl, mix the flour, salt, and sugar together.",
     "Mix the yeast and milk in a separate bowl, then add to the dry ingredients. Knead the dough until it becomes smooth and elastic.",
     "Roll out the dough into a large rectangle, then place the butter in the center. Fold the edges of the dough over the butter, then roll out the dough again.",
@@ -24,11 +41,11 @@ recipeInstructions: [
     "Preheat the oven to 200°C. Roll out the dough into a large rectangle, then cut into triangles.",
     "Roll up each triangle from the wide end to the tip, then place on a baking sheet lined with parchment paper.",
     "Mix the egg yolk and milk together, then brush the croissants with the mixture.",
-    "Bake for 20 minutes or until golden brown. Serve warm and enjoy!"
-]
+    "Bake for 20 minutes or until golden brown. Serve warm and enjoy!",
+  ]
 ---
 
-Croissants are a delicious and buttery pastry that is perfect for breakfast, brunch, or a snack. Although they may seem intimidating to make, with this easy recipe you'll be able to make your own homemade croissants from scratch. 
+Croissants are a delicious and buttery pastry that is perfect for breakfast, brunch, or a snack. Although they may seem intimidating to make, with this easy recipe you'll be able to make your own homemade croissants from scratch.
 
 ## Ingredients
 
@@ -54,7 +71,7 @@ Croissants are a delicious and buttery pastry that is perfect for breakfast, bru
 9. Mix the egg yolk and milk together, then brush the croissants with the mixture.
 10. Bake for 20 minutes or until golden brown. Serve warm and enjoy!
 
-Making croissants from scratch is a time-consuming process, but it is definitely worth the effort. The result is a flaky and buttery pastry with layers of deliciousness. 
+Making croissants from scratch is a time-consuming process, but it is definitely worth the effort. The result is a flaky and buttery pastry with layers of deliciousness.
 
 ### Tips and Variations
 

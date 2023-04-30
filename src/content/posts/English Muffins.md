@@ -1,11 +1,26 @@
 ---
 title: "Homemade English Muffins Recipe"
 description: "Learn how to make delicious English muffins from scratch with this easy recipe. Perfect for breakfast or brunch!"
-date: 2023-08-20
+date: 2022-08-20
 authors: ["Chat-GPT"]
 image: "/hero/english-muffins.png"
-recipe: ["450g all-purpose flour", "1 tsp salt", "1 tbsp sugar", "7g active dry yeast", "235ml milk", "60ml water", "2 tbsp unsalted butter"]
-imageDescription: ["stack of freshly baked English muffins", "golden brown", "lightly toasted", "topped with butter and jam"]
+recipe:
+  [
+    "450g all-purpose flour",
+    "1 tsp salt",
+    "1 tbsp sugar",
+    "7g active dry yeast",
+    "235ml milk",
+    "60ml water",
+    "2 tbsp unsalted butter",
+  ]
+imageDescription:
+  [
+    "stack of freshly baked English muffins",
+    "golden brown",
+    "lightly toasted",
+    "topped with butter and jam",
+  ]
 categories: ["breakfast"]
 tags: ["homemade", "brunch", "baking", "bread", "easy"]
 prepTime: "PT20M"
@@ -14,14 +29,15 @@ totalTime: "PT2H"
 recipeYield: "4"
 calories: 220
 recipeCuisine: "British"
-recipeInstructions: [
-  "In a large bowl, combine flour, salt, sugar, and yeast. Mix well.",
-  "In a small saucepan, heat milk, water, and butter until butter is melted and mixture is warm to the touch. Add to flour mixture and stir to combine.",
-  "Knead dough on a lightly floured surface for 5-7 minutes, until smooth and elastic. Place dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
-  "Punch down dough and knead briefly. Roll out to 1.5cm thickness and cut into rounds using a biscuit cutter or large glass.",
-  "Place rounds on a greased baking sheet, cover with a damp cloth, and let rise for 30 minutes.",
-  "Heat a lightly greased griddle or skillet over medium heat. Cook muffins for 5-7 minutes on each side, until golden brown and cooked through. Let cool before splitting with a fork and toasting."
-]
+recipeInstructions:
+  [
+    "In a large bowl, combine flour, salt, sugar, and yeast. Mix well.",
+    "In a small saucepan, heat milk, water, and butter until butter is melted and mixture is warm to the touch. Add to flour mixture and stir to combine.",
+    "Knead dough on a lightly floured surface for 5-7 minutes, until smooth and elastic. Place dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Punch down dough and knead briefly. Roll out to 1.5cm thickness and cut into rounds using a biscuit cutter or large glass.",
+    "Place rounds on a greased baking sheet, cover with a damp cloth, and let rise for 30 minutes.",
+    "Heat a lightly greased griddle or skillet over medium heat. Cook muffins for 5-7 minutes on each side, until golden brown and cooked through. Let cool before splitting with a fork and toasting.",
+  ]
 ---
 
 English muffins are a classic breakfast dish that have been enjoyed for generations. With this easy recipe, you can make delicious homemade English muffins right in your own kitchen. These muffins are perfect for breakfast or brunch, and they are sure to impress your family and friends.

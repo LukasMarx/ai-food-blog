@@ -1,10 +1,21 @@
 ---
 title: "Chocolate Brownie Cookies"
 description: "If you're a fan of chocolate and love cookies, then this recipe is perfect for you! These chocolate brownie cookies are chewy, fudgy, and packed with chocolatey goodness. Plus, they're super easy to make and are sure to satisfy any chocolate lover's cravings."
-date: 2023-04-01
+date: 2022-04-01
 authors: ["Chat-GPT"]
 image: "/hero/chocolate-brownie-cookies.png"
-recipe: ["1 cup (225g) unsalted butter", "2 1/4 cups (280g) all-purpose flour", "1 tsp baking powder", "1 tsp salt", "1 cup (220g) granulated sugar", "1 cup (200g) brown sugar", "4 large eggs", "1 cup (85g) unsweetened cocoa powder", "2 cups (340g) semisweet chocolate chips"]
+recipe:
+  [
+    "1 cup (225g) unsalted butter",
+    "2 1/4 cups (280g) all-purpose flour",
+    "1 tsp baking powder",
+    "1 tsp salt",
+    "1 cup (220g) granulated sugar",
+    "1 cup (200g) brown sugar",
+    "4 large eggs",
+    "1 cup (85g) unsweetened cocoa powder",
+    "2 cups (340g) semisweet chocolate chips",
+  ]
 imageDescription: ["chewy and fudgy chocolate brownie cookies on a plate"]
 categories: ["cookies"]
 tags: ["chocolate", "dessert", "baking", "snack", "easy"]
@@ -14,15 +25,16 @@ totalTime: "PT32M"
 recipeYield: "4"
 calories: 410
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat the oven to 350°F (180°C). Line two baking sheets with parchment paper.",
-  "In a medium bowl, whisk together the flour, baking powder, and salt. Set aside.",
-  "In a large mixing bowl, beat the butter, granulated sugar, and brown sugar until creamy and smooth. Add the eggs, one at a time, beating well after each addition. Stir in the cocoa powder until well combined.",
-  "Gradually add the flour mixture to the butter mixture, stirring until just combined. Fold in the chocolate chips.",
-  "Using a cookie scoop or spoon, drop balls of dough onto the prepared baking sheets, leaving about 2 inches (5 cm) between each cookie.",
-  "Bake for 10-12 minutes, until the edges are set but the centers are still slightly soft. Allow the cookies to cool on the baking sheets for 5 minutes, then transfer to a wire rack to cool completely.",
-  "Enjoy your delicious chocolate brownie cookies!"
-]
+recipeInstructions:
+  [
+    "Preheat the oven to 350°F (180°C). Line two baking sheets with parchment paper.",
+    "In a medium bowl, whisk together the flour, baking powder, and salt. Set aside.",
+    "In a large mixing bowl, beat the butter, granulated sugar, and brown sugar until creamy and smooth. Add the eggs, one at a time, beating well after each addition. Stir in the cocoa powder until well combined.",
+    "Gradually add the flour mixture to the butter mixture, stirring until just combined. Fold in the chocolate chips.",
+    "Using a cookie scoop or spoon, drop balls of dough onto the prepared baking sheets, leaving about 2 inches (5 cm) between each cookie.",
+    "Bake for 10-12 minutes, until the edges are set but the centers are still slightly soft. Allow the cookies to cool on the baking sheets for 5 minutes, then transfer to a wire rack to cool completely.",
+    "Enjoy your delicious chocolate brownie cookies!",
+  ]
 ---
 
 ## Why Chocolate Brownie Cookies are a Great Idea

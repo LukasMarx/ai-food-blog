@@ -1,7 +1,7 @@
 ---
 title: "Vegetable Tempura: A Japanese Classic"
 description: "Learn how to make a delicious and crispy vegetable tempura with this easy recipe that will transport you to Japan."
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/vegetable-tempura.png"
 recipe:

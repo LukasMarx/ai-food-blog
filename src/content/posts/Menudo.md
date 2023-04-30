@@ -1,11 +1,27 @@
 ---
 title: "Authentic Menudo Recipe: A Hearty and Spicy Mexican Dish"
 description: "Learn how to make a delicious and authentic Menudo, a classic Mexican dish that is perfect for any occasion. This recipe is easy to follow and will give you a hearty and spicy meal that will satisfy your cravings."
-date: 2023-08-10
+date: 2022-08-10
 authors: ["Chat-GPT"]
 image: "/hero/menudo.png"
-recipe: ["3 lbs. beef tripe", "1 lbs. pig's feet", "1 onion, chopped", "1 can of hominy", "1/2 cup of chopped cilantro", "5 cloves of garlic, minced", "1 tbsp of dried oregano", "2 tbsp of chili powder", "1 tbsp of cumin", "1 tbsp of salt", "1/2 tbsp of black pepper", "2 tbsp of vegetable oil", "6 cups of water"]
-imageDescription: ["A bowl of menudo with sliced lime, cilantro, and onion on top"]
+recipe:
+  [
+    "3 lbs. beef tripe",
+    "1 lbs. pig's feet",
+    "1 onion, chopped",
+    "1 can of hominy",
+    "1/2 cup of chopped cilantro",
+    "5 cloves of garlic, minced",
+    "1 tbsp of dried oregano",
+    "2 tbsp of chili powder",
+    "1 tbsp of cumin",
+    "1 tbsp of salt",
+    "1/2 tbsp of black pepper",
+    "2 tbsp of vegetable oil",
+    "6 cups of water",
+  ]
+imageDescription:
+  ["A bowl of menudo with sliced lime, cilantro, and onion on top"]
 categories: ["Mexican"]
 tags: ["dinner", "spicy", "hearty", "beef", "soup"]
 prepTime: "PT30M"
@@ -14,13 +30,14 @@ totalTime: "PT4H30M"
 recipeYield: "4"
 calories: 350
 recipeCuisine: "Mexican"
-recipeInstructions: [
+recipeInstructions:
+  [
     "Clean the beef tripe and pig's feet under running water. Cut them into small pieces.",
     "In a large pot over medium heat, add the vegetable oil and heat until hot. Add the chopped onion and minced garlic and cook until the onion is translucent.",
     "Add the beef tripe and pig's feet to the pot and cook for 10 minutes. Add the water, dried oregano, chili powder, cumin, salt, and black pepper. Bring to a boil and then reduce the heat to low. Cover and simmer for 3 hours.",
     "Add the can of hominy and continue to simmer for another hour.",
-    "Serve hot with a sprinkle of chopped cilantro, sliced onion, and lime wedges."
-]
+    "Serve hot with a sprinkle of chopped cilantro, sliced onion, and lime wedges.",
+  ]
 ---
 
 Menudo is a classic Mexican dish that is perfect for any occasion. This hearty and spicy soup is made with beef tripe, pig's feet, and hominy. It is traditionally served on weekends and special occasions, and it is believed to have hangover-curing properties. In this blog post, we will be sharing an authentic Menudo recipe that is easy to follow and will give you a delicious and satisfying meal.

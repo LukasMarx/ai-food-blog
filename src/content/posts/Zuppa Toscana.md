@@ -1,11 +1,31 @@
 ---
 title: "Zuppa Toscana Recipe: A Hearty and Comforting Soup for Any Occasion"
 description: "Learn how to make a delicious Zuppa Toscana soup at home with this easy-to-follow recipe. Perfect for a cozy night in or a special occasion, this soup is sure to be a crowd-pleaser."
-date: 2023-08-05
+date: 2022-08-05
 authors: ["Chat-GPT"]
 image: "/hero/zuppa-toscana.png"
-recipe: ["4 cups chicken broth", "4 cups water", "1 lb Italian sausage", "4 slices bacon", "1 onion, chopped", "2 garlic cloves, minced", "1/2 tsp red pepper flakes", "1 lb potatoes, diced", "1 cup kale, chopped", "1 cup heavy cream", "1/2 tsp salt", "1/4 tsp black pepper"]
-imageDescription: ["a bowl of zuppa toscana soup", "a spoonful of soup with kale and sausage", "a close-up of the soup with bacon bits on top", "a full pot of soup on a stove"]
+recipe:
+  [
+    "4 cups chicken broth",
+    "4 cups water",
+    "1 lb Italian sausage",
+    "4 slices bacon",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "1/2 tsp red pepper flakes",
+    "1 lb potatoes, diced",
+    "1 cup kale, chopped",
+    "1 cup heavy cream",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "a bowl of zuppa toscana soup",
+    "a spoonful of soup with kale and sausage",
+    "a close-up of the soup with bacon bits on top",
+    "a full pot of soup on a stove",
+  ]
 categories: ["soup"]
 tags: ["dinner", "comfort food", "Italian cuisine", "hearty", "easy"]
 prepTime: "PT15M"
@@ -14,14 +34,15 @@ totalTime: "PT60M"
 recipeYield: "4"
 calories: 540
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "Begin by cooking the Italian sausage in a large pot over medium-high heat until browned and crumbled. Drain any excess fat and set the sausage aside.",
-  "In the same pot, cook the bacon until crispy. Remove the bacon from the pot and set it aside to cool. Once cooled, chop the bacon into small pieces.",
-  "Add the chopped onion to the pot with the bacon grease and cook until softened, about 5 minutes. Add the minced garlic and red pepper flakes, and cook for another minute.",
-  "Pour in the chicken broth and water, and bring the mixture to a boil. Add the diced potatoes and cooked sausage to the pot, and let the soup simmer for 20-25 minutes or until the potatoes are tender.",
-  "Stir in the chopped kale and let it cook for 5 minutes. Add the heavy cream, salt, and black pepper, and stir until combined.",
-  "Serve the soup hot, garnished with the chopped bacon."
-]
+recipeInstructions:
+  [
+    "Begin by cooking the Italian sausage in a large pot over medium-high heat until browned and crumbled. Drain any excess fat and set the sausage aside.",
+    "In the same pot, cook the bacon until crispy. Remove the bacon from the pot and set it aside to cool. Once cooled, chop the bacon into small pieces.",
+    "Add the chopped onion to the pot with the bacon grease and cook until softened, about 5 minutes. Add the minced garlic and red pepper flakes, and cook for another minute.",
+    "Pour in the chicken broth and water, and bring the mixture to a boil. Add the diced potatoes and cooked sausage to the pot, and let the soup simmer for 20-25 minutes or until the potatoes are tender.",
+    "Stir in the chopped kale and let it cook for 5 minutes. Add the heavy cream, salt, and black pepper, and stir until combined.",
+    "Serve the soup hot, garnished with the chopped bacon.",
+  ]
 ---
 
 ## Introduction

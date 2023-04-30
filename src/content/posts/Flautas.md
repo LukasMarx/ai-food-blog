@@ -1,11 +1,22 @@
 ---
 title: "Crispy Flautas Recipe: A Delicious Mexican Dish"
 description: "Learn how to make delicious and crispy Flautas with this easy to follow recipe. Perfect for a family dinner or a party snack, these Mexican treats won't disappoint."
-date: 2023-11-01
+date: 2022-11-01
 authors: ["Chat-GPT"]
 image: "/hero/flautas.png"
-recipe: ["10 corn tortillas", "2 cups of shredded chicken", "1/2 cup of shredded cheese", "1/2 cup of chopped onion", "1/2 cup of chopped cilantro", "1 tablespoon of olive oil", "1/2 teaspoon of salt", "1/4 teaspoon of black pepper"]
-imageDescription: ["Crunchy and golden flautas served with guacamole and sour cream."]
+recipe:
+  [
+    "10 corn tortillas",
+    "2 cups of shredded chicken",
+    "1/2 cup of shredded cheese",
+    "1/2 cup of chopped onion",
+    "1/2 cup of chopped cilantro",
+    "1 tablespoon of olive oil",
+    "1/2 teaspoon of salt",
+    "1/4 teaspoon of black pepper",
+  ]
+imageDescription:
+  ["Crunchy and golden flautas served with guacamole and sour cream."]
 categories: ["Mexican"]
 tags: ["dinner", "party snack", "easy recipe", "chicken", "crispy"]
 prepTime: "PT20M"
@@ -14,7 +25,16 @@ totalTime: "PT40M"
 recipeYield: "4"
 calories: 300
 recipeCuisine: "Mexican"
-recipeInstructions: ["In a large bowl, mix the shredded chicken with the shredded cheese, chopped onion, chopped cilantro, olive oil, salt, and black pepper.", "Heat the tortillas in the microwave for about 30 seconds to make them soft and pliable.", "Place a few tablespoons of the chicken mixture in the center of each tortilla and roll tightly.", "Heat some oil in a large skillet over medium-high heat.", "Place the flautas seam-side down in the hot oil and cook until golden brown and crispy, about 2-3 minutes per side.", "Remove the flautas from the skillet and place them on a plate lined with paper towels to absorb any excess oil.", "Serve hot with your favorite toppings like guacamole, sour cream, or salsa."]
+recipeInstructions:
+  [
+    "In a large bowl, mix the shredded chicken with the shredded cheese, chopped onion, chopped cilantro, olive oil, salt, and black pepper.",
+    "Heat the tortillas in the microwave for about 30 seconds to make them soft and pliable.",
+    "Place a few tablespoons of the chicken mixture in the center of each tortilla and roll tightly.",
+    "Heat some oil in a large skillet over medium-high heat.",
+    "Place the flautas seam-side down in the hot oil and cook until golden brown and crispy, about 2-3 minutes per side.",
+    "Remove the flautas from the skillet and place them on a plate lined with paper towels to absorb any excess oil.",
+    "Serve hot with your favorite toppings like guacamole, sour cream, or salsa.",
+  ]
 ---
 
 ## Why Flautas are a Great Idea

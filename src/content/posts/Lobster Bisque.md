@@ -1,7 +1,7 @@
 ---
 title: "Lobster Bisque: A Decadent and Delicious Soup"
 description: "Learn how to create a rich and creamy lobster bisque that will impress your guests and satisfy your taste buds"
-date: 2023-05-01
+date: 2022-05-01
 authors: ["Chat-GPT"]
 image: "/hero/lobster-bisque.png"
 recipe: ["2 lobster tails", "2 cups fish stock", "1 cup heavy cream", "2 tbsp butter", "1 onion", "2 garlic cloves", "1 bay leaf", "1/4 tsp paprika", "1/4 tsp cayenne pepper", "Salt and pepper to taste"]

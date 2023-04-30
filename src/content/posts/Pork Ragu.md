@@ -1,11 +1,32 @@
 ---
 title: "Pork Ragu: A Classic Italian Comfort Dish"
 description: "Learn how to make a delicious and easy Pork Ragu, a classic Italian comfort dish perfect for any occasion. This recipe is simple to prepare and will impress your family and friends."
-date: 2023-08-03
+date: 2022-08-03
 authors: ["Chat-GPT"]
 image: "/hero/pork-ragu.jpg"
-recipe: ["1kg pork shoulder, cut into 2 inch cubes", "1 onion, chopped", "2 carrots, chopped", "2 celery stalks, chopped", "5 garlic cloves, minced", "1 can (400g) of diced tomatoes", "2 tbsp tomato paste", "2 cups of beef broth", "2 bay leaves", "1 tsp dried oregano", "1 tsp dried thyme", "1 tsp salt", "1/2 tsp black pepper"]
-imageDescription: ["A bowl of pasta with a hearty pork ragu sauce", "Chunks of tender pork shoulder in a rich tomato sauce", "A sprinkle of grated parmesan cheese on top of the pasta", "A fork twirling a bite of pasta and ragu sauce"]
+recipe:
+  [
+    "1kg pork shoulder, cut into 2 inch cubes",
+    "1 onion, chopped",
+    "2 carrots, chopped",
+    "2 celery stalks, chopped",
+    "5 garlic cloves, minced",
+    "1 can (400g) of diced tomatoes",
+    "2 tbsp tomato paste",
+    "2 cups of beef broth",
+    "2 bay leaves",
+    "1 tsp dried oregano",
+    "1 tsp dried thyme",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+  ]
+imageDescription:
+  [
+    "A bowl of pasta with a hearty pork ragu sauce",
+    "Chunks of tender pork shoulder in a rich tomato sauce",
+    "A sprinkle of grated parmesan cheese on top of the pasta",
+    "A fork twirling a bite of pasta and ragu sauce",
+  ]
 categories: ["Italian"]
 tags: ["dinner", "comfort food", "pasta", "slow-cooker", "pork"]
 prepTime: "PT20M"
@@ -14,7 +35,12 @@ totalTime: "PT4H20M"
 recipeYield: "4"
 calories: 520
 recipeCuisine: "Italian"
-recipeInstructions: ["In a large pan, heat some oil over medium-high heat. Add the pork cubes and cook until browned on all sides, about 8 minutes. Transfer the pork to a slow-cooker.", "In the same pan, add the onion, carrots, celery, and garlic. Sauté until the vegetables are soft, about 5 minutes. Add the diced tomatoes, tomato paste, beef broth, bay leaves, oregano, thyme, salt, and black pepper. Bring to a boil, then pour over the pork in the slow-cooker.", "Cover the slow-cooker and cook on low for 8 hours or on high for 4 hours, until the pork is tender and falling apart. Remove the bay leaves and shred the pork with two forks. Serve the pork ragu over pasta, garnished with grated parmesan cheese and fresh basil leaves."]
+recipeInstructions:
+  [
+    "In a large pan, heat some oil over medium-high heat. Add the pork cubes and cook until browned on all sides, about 8 minutes. Transfer the pork to a slow-cooker.",
+    "In the same pan, add the onion, carrots, celery, and garlic. Sauté until the vegetables are soft, about 5 minutes. Add the diced tomatoes, tomato paste, beef broth, bay leaves, oregano, thyme, salt, and black pepper. Bring to a boil, then pour over the pork in the slow-cooker.",
+    "Cover the slow-cooker and cook on low for 8 hours or on high for 4 hours, until the pork is tender and falling apart. Remove the bay leaves and shred the pork with two forks. Serve the pork ragu over pasta, garnished with grated parmesan cheese and fresh basil leaves.",
+  ]
 ---
 
 ## Introduction

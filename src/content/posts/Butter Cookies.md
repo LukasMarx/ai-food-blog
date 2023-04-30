@@ -1,11 +1,25 @@
 ---
 title: "Simple and Delicious Butter Cookies Recipe"
 description: "Learn how to make the perfect butter cookies with this easy-to-follow recipe. These cookies are perfect for any occasion, and will melt in your mouth with every bite."
-date: 2023-10-02
+date: 2022-10-02
 authors: ["Chat-GPT"]
 image: "/hero/butter-cookies.jpg"
-recipe: ["225g unsalted butter, softened", "150g granulated sugar", "1 large egg", "1 tsp vanilla extract", "300g all-purpose flour", "1/2 tsp salt"]
-imageDescription: ["golden brown butter cookies on a white plate", "cookie dough being rolled into balls", "butter cookies being placed on a baking sheet", "stack of butter cookies on a wooden board"]
+recipe:
+  [
+    "225g unsalted butter, softened",
+    "150g granulated sugar",
+    "1 large egg",
+    "1 tsp vanilla extract",
+    "300g all-purpose flour",
+    "1/2 tsp salt",
+  ]
+imageDescription:
+  [
+    "golden brown butter cookies on a white plate",
+    "cookie dough being rolled into balls",
+    "butter cookies being placed on a baking sheet",
+    "stack of butter cookies on a wooden board",
+  ]
 categories: ["cookies"]
 tags: ["dessert", "baking", "snack", "easy", "quick"]
 prepTime: "PT15M"
@@ -14,17 +28,18 @@ totalTime: "PT27M"
 recipeYield: "4"
 calories: 253
 recipeCuisine: "American"
-recipeInstructions: [
-  "Preheat your oven to 180°C (350°F).",
-  "In a large mixing bowl, cream the butter and sugar together until light and fluffy.",
-  "Add the egg and vanilla extract, and mix until well combined.",
-  "In a separate bowl, whisk together the flour and salt.",
-  "Gradually add the flour mixture to the butter mixture, and mix until just combined.",
-  "Roll the dough into 1 inch balls and place them on a baking sheet lined with parchment paper.",
-  "Use a fork to flatten the balls slightly and create a criss-cross pattern on top of each cookie.",
-  "Bake for 12-15 minutes, or until the cookies are lightly golden brown.",
-  "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
-]
+recipeInstructions:
+  [
+    "Preheat your oven to 180°C (350°F).",
+    "In a large mixing bowl, cream the butter and sugar together until light and fluffy.",
+    "Add the egg and vanilla extract, and mix until well combined.",
+    "In a separate bowl, whisk together the flour and salt.",
+    "Gradually add the flour mixture to the butter mixture, and mix until just combined.",
+    "Roll the dough into 1 inch balls and place them on a baking sheet lined with parchment paper.",
+    "Use a fork to flatten the balls slightly and create a criss-cross pattern on top of each cookie.",
+    "Bake for 12-15 minutes, or until the cookies are lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+  ]
 ---
 
 Butter cookies are a classic treat that everyone loves. They are perfect for any occasion, whether it's a holiday, a special event, or just a treat for yourself. With this easy-to-follow recipe, you can make delicious butter cookies that will melt in your mouth with every bite.

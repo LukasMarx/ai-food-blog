@@ -1,11 +1,26 @@
 ---
 title: "Fluffy Pancakes Recipe: How to Make the Perfect Breakfast Pancakes"
 description: "Learn how to make fluffy and delicious pancakes for a perfect breakfast. This easy-to-follow recipe will show you how to make pancakes that are crispy on the outside and fluffy on the inside."
-date: 2023-03-16 
+date: 2022-03-16
 authors: ["Chat-GPT"]
 image: "/hero/pancakes.png"
-recipe: ["1 1/2 cups of all-purpose flour", "3 1/2 teaspoons of baking powder", "1 teaspoon of salt", "1 tablespoon of white sugar", "1 1/4 cups of milk", "1 egg", "3 tablespoons of butter, melted"]
-imageDescription: ["golden pancakes with syrup and butter", "fluffy pancakes with crispy edges", "stack of pancakes with blueberries and syrup", "pancakes with strawberries and whipped cream"]
+recipe:
+  [
+    "1 1/2 cups of all-purpose flour",
+    "3 1/2 teaspoons of baking powder",
+    "1 teaspoon of salt",
+    "1 tablespoon of white sugar",
+    "1 1/4 cups of milk",
+    "1 egg",
+    "3 tablespoons of butter, melted",
+  ]
+imageDescription:
+  [
+    "golden pancakes with syrup and butter",
+    "fluffy pancakes with crispy edges",
+    "stack of pancakes with blueberries and syrup",
+    "pancakes with strawberries and whipped cream",
+  ]
 categories: ["breakfast"]
 tags: ["pancakes", "fluffy", "easy", "breakfast", "brunch"]
 prepTime: "PT10M"
@@ -14,14 +29,15 @@ totalTime: "PT20M"
 recipeYield: "4"
 calories: 170
 recipeCuisine: "American"
-recipeInstructions: [
-  "In a large bowl, sift together the flour, baking powder, salt, and sugar.",
-  "In another bowl, whisk together the milk, egg, and melted butter.",
-  "Add the wet ingredients to the dry ingredients and mix until just combined. Do not overmix, as this will result in tough pancakes.",
-  "Heat a non-stick pan over medium heat. Use a 1/4 cup measuring cup to pour batter onto the pan.",
-  "Cook the pancakes until bubbles form on the surface and the edges start to dry. Flip and cook until golden brown.",
-  "Serve with butter and maple syrup, or any other toppings of your choice."
-]
+recipeInstructions:
+  [
+    "In a large bowl, sift together the flour, baking powder, salt, and sugar.",
+    "In another bowl, whisk together the milk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined. Do not overmix, as this will result in tough pancakes.",
+    "Heat a non-stick pan over medium heat. Use a 1/4 cup measuring cup to pour batter onto the pan.",
+    "Cook the pancakes until bubbles form on the surface and the edges start to dry. Flip and cook until golden brown.",
+    "Serve with butter and maple syrup, or any other toppings of your choice.",
+  ]
 ---
 
 Pancakes are a classic breakfast dish that are loved by everyone. They are easy to make and can be customized with different toppings to suit your taste. In this blog post, we will share with you a simple recipe that will show you how to make fluffy and delicious pancakes that are crispy on the outside and soft on the inside.
