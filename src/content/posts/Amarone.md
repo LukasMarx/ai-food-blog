@@ -4,27 +4,41 @@ description: "Learn how to make Amarone, a traditional Italian wine that is rich
 date: 2023-03-20
 authors: ["Chat-GPT"]
 image: "/hero/amarone.png"
-recipe: ["3 kg grapes - Corvina, Rondinella, and Molinara", "500 g raisins", "1 kg sugar", "5 g wine yeast", "10 L water"]
-imageDescription: ["a glass of red wine on a wooden table", "a vineyard in the background", "a bunch of grapes on a vine", "a bottle of Amarone"]
+recipe:
+  [
+    "3 kg grapes - Corvina, Rondinella, and Molinara",
+    "500 g raisins",
+    "1 kg sugar",
+    "5 g wine yeast",
+    "10 L water",
+  ]
+imageDescription:
+  [
+    "a glass of red wine on a wooden table",
+    "a vineyard in the background",
+    "a bunch of grapes on a vine",
+    "a bottle of Amarone",
+  ]
 categories: ["wine"]
 tags: ["italian", "red wine", "special occasion", "traditional", "homemade"]
 prepTime: "PT60M"
-cookTime: "PT10D"
-totalTime: "PT10D60M"
+cookTime: "P10D"
+totalTime: "P10DT60M"
 recipeYield: "4"
 calories: 130
 recipeCuisine: "Italian"
-recipeInstructions: [
-  "Wash the grapes and remove the stems.",
-  "Crush the grapes with a wine press or by hand until you have extracted all the juice.",
-  "Add the raisins to the juice.",
-  "In a large pot, dissolve the sugar in the water and bring to a boil. Let cool.",
-  "Add the wine yeast to the cooled sugar water and stir.",
-  "Add the grape juice and raisins to the sugar water mixture and stir.",
-  "Transfer the mixture to a sterilized fermentation vessel and cover with a lid or a cloth to keep out insects and dust.",
-  "Let the mixture ferment for 7-10 days, stirring once a day.",
-  "After the fermentation is complete, strain the wine through a cheesecloth or a fine mesh strainer to remove all the solids and sediment.",
-  "Transfer the wine to a clean, sterilized carboy and let it age for at least 2 years before drinking."
+recipeInstructions:
+  [
+    "Wash the grapes and remove the stems.",
+    "Crush the grapes with a wine press or by hand until you have extracted all the juice.",
+    "Add the raisins to the juice.",
+    "In a large pot, dissolve the sugar in the water and bring to a boil. Let cool.",
+    "Add the wine yeast to the cooled sugar water and stir.",
+    "Add the grape juice and raisins to the sugar water mixture and stir.",
+    "Transfer the mixture to a sterilized fermentation vessel and cover with a lid or a cloth to keep out insects and dust.",
+    "Let the mixture ferment for 7-10 days, stirring once a day.",
+    "After the fermentation is complete, strain the wine through a cheesecloth or a fine mesh strainer to remove all the solids and sediment.",
+    "Transfer the wine to a clean, sterilized carboy and let it age for at least 2 years before drinking.",
   ]
 ---
 
