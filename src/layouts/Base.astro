@@ -38,6 +38,7 @@ const { title, meta_title, description, image, date, totalTime, tags,categories,
     const { src } = await getImage({
       src: image || "/mascot2.png",
       alt: title!,
+      format:"webp",
       width: 1000,
       height: 500
     });

@@ -1,5 +1,4 @@
 ---
-import { getImage } from "@astrojs/image";
 import { Image, Picture } from "@astrojs/image/components";
 import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
@@ -94,7 +93,7 @@ const { title, description, authors, categories, image, date, tags,  totalTime, 
             src={image}
             widths={[ 400, 800, 1000]} aspectRatio="2:1"
             alt={title}
-            format={"webp"}
+            formats={["avif", "webp"]}
             class="rounded-lg"
             sizes=""
             loading={"eager"}

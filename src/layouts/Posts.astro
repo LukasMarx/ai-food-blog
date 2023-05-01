@@ -20,10 +20,10 @@ const { className, posts, fluid } = Astro.props;
               class="group-hover:scale-[1.03] transition duration-300 w-full"
               src={post.data.image}
               alt={post.data.title}
-              format={"webp"}
+              formats={["avif", "webp"]}
               aspectRatio={"2:1"}
               sizes=""
-              widths={i === 0 ? [400, 800, 1000] : [200, 400, 600]}
+              widths={i === 0 ? [400, 800, 1000] : [400, 800]}
               width={i === 0 ? 925 : 445}
               height={i === 0 ? 475 : 230}
             />
