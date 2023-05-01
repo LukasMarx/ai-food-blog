@@ -20,9 +20,12 @@ const {
 <a href="/" class="navbar-brand block">
   {
     src || logo ? (
-      <img
+      <Image
         src={src ? src : logo}
         alt={title}
+        width={100}
+        height={100}
+        format={"webp"}
       />
     ) : logo_text ? (
       logo_text

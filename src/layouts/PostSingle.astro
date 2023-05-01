@@ -1,6 +1,6 @@
 ---
 import { getImage } from "@astrojs/image";
-import { Image } from "@astrojs/image/components";
+import { Image, Picture } from "@astrojs/image/components";
 import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
 import { getSinglePage } from "@lib/contentParser.astro";
@@ -90,13 +90,13 @@ const { title, description, authors, categories, image, date, tags,  totalTime, 
 
       <div class="col-12 mt-8 mb-2">
         {image && (
-          <Image
+          <Picture
             src={image}
-            height={500}
-            width={1000}
+            widths={[ 400, 800, 1000]} aspectRatio="2:1"
             alt={title}
             format={"webp"}
             class="rounded-lg"
+            sizes=""
           />
         )}
       </div>

@@ -21,7 +21,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .navbar-brand img {
-  @apply max-w-[170px] sm:h-[100px] h-[50px] ;
+  @apply max-w-[170px] sm:h-[100px] h-[50px]  sm:w-[100px] w-[50px];
 }
 
 .navbar-nav {
