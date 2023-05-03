@@ -4,10 +4,10 @@
     "base_url": "https://kitchen-kangaroo.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/mascot3.png",
+    "logo": "/mascot3.png",
     "logo_width": "200",
-    "logo_height": "34",
+    "logo_height": "200",
     "logo_text": "Kitchen Kangaroo"
   },
 
